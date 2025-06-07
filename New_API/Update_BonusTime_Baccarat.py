@@ -1,5 +1,6 @@
 import configparser
 import json
+import os
 import random
 import sys
 from datetime import datetime
@@ -4915,7 +4916,7 @@ def BONUSTIME_MT(api_folder):
 
 configDefault = configparser.ConfigParser()
 configDefault.read(['config.ini'])
-patch = configDefault.get("Config", "patch")
+patch = os.getenv("PATCH_DIR", configDefault.get("Config", "patch"))
 folder_list = json.loads(configDefault.get("Config", "folder_list"))
 
 for folder in folder_list:
