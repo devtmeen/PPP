@@ -1,6 +1,5 @@
 import configparser
 import json
-from datetime import datetime
 from time import sleep
 import os
 from subprocess import Popen, CREATE_NEW_CONSOLE
