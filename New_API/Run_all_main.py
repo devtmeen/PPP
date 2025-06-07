@@ -21,8 +21,9 @@ if __name__ == "__main__":
         # Compute a unique port number for this API
         port = base_port + index
 
+        folder_path = (patch / folder).resolve()
         # Update the folder's config.ini with the computed port
-        config_path = patch / folder / "config.ini"
+        config_path = folder_path / "config.ini"
         cfg = configparser.ConfigParser()
         cfg.read([config_path])
         if not cfg.has_section("Config"):
@@ -32,7 +33,7 @@ if __name__ == "__main__":
             cfg.write(config_file)
 
         # Launch the API using the current Python executable
-        main_path = patch / folder / "main.py"
+        main_path = folder_path / "main.py"
         print(f"Starting {main_path} on port {port}")
-        subprocess.Popen([sys.executable, str(main_path)])
+        subprocess.Popen([sys.executable, str(main_path)], cwd=folder_path)
         sleep(0.5)
