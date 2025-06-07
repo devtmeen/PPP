@@ -1,5 +1,6 @@
 import configparser
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -9,7 +10,7 @@ CONFIG_PATH = Path(__file__).resolve().parent / "config.ini"
 
 config_default = configparser.ConfigParser()
 config_default.read([CONFIG_PATH])
-patch = Path(config_default.get("Config", "patch"))
+patch = Path(os.getenv("PATCH_DIR", config_default.get("Config", "patch")))
 folder_list = json.loads(config_default.get("Config", "folder_list"))
 
 # Base port used when calculating per-API ports

@@ -29,4 +29,8 @@ docker build -t ppp-app .
 docker run --rm ppp-app
 ```
 
-Make sure the `patch` path in `New_API/config.ini` matches the location of the API folders inside the container (usually `/app/`).
+`New_API/config.ini` contains a `patch` option pointing to the directory that
+holds the `API_*` folders. By default it uses a relative path (`./`). You can
+override this location by setting the environment variable `PATCH_DIR` when
+running the scripts. When running in Docker the project is copied to `/app`, so
+start the container with `PATCH_DIR=/app` if you do not run from that directory.
