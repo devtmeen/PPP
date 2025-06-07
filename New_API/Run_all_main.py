@@ -1,18 +1,20 @@
 import configparser
 import json
+import subprocess
+import sys
+from pathlib import Path
 from time import sleep
-import os
-from subprocess import Popen, CREATE_NEW_CONSOLE
 
-configDefault = configparser.ConfigParser()
-configDefault.read(['config.ini'])
-patch = configDefault.get("Config", "patch")
-folder_list = json.loads(configDefault.get("Config", "folder_list"))
+CONFIG_PATH = Path(__file__).resolve().parent / "config.ini"
+
+config_default = configparser.ConfigParser()
+config_default.read([CONFIG_PATH])
+patch = Path(config_default.get("Config", "patch"))
+folder_list = json.loads(config_default.get("Config", "folder_list"))
 
 if __name__ == "__main__":
     for folder in folder_list:
-        print(patch + folder + "/main.py")
-        os.chdir(patch + folder)
-        Popen(["python", patch + folder + "/main.py"], creationflags=CREATE_NEW_CONSOLE)
-        #Popen(["python", patch + folder + "/main.py"])
+        main_path = patch / folder / "main.py"
+        print(main_path)
+        subprocess.Popen([sys.executable, str(main_path)])
         sleep(0.5)

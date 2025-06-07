@@ -6,8 +6,7 @@ API_DIR = Path(__file__).resolve().parent
 
 
 def run_script(name: str) -> None:
-    creationflags = subprocess.CREATE_NEW_CONSOLE if sys.platform == "win32" else 0
-    subprocess.Popen([sys.executable, str(API_DIR / name)], creationflags=creationflags)
+    subprocess.Popen([sys.executable, str(API_DIR / name)])
 
 
 if __name__ == "__main__":
