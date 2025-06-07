@@ -1,0 +1,236 @@
+[
+    { "name": "Wizard Dice",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Wizard%20Dice_1716555412.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1vRiRcnqSdGuhfNv3hFPzfp2-guwaIDSo"
+   ,"bg_color": "#016ec6", "bg1_color": "#0b7dda" },
+   
+    { "name": "Rabbit Mines",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Rabbit%20Mines_1714128630.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1nsr6ETDFth0Gq_ES1xjeM8vY0BKdvG7o"
+   ,"bg_color": "#c83f02", "bg1_color": "#db490a" },
+   
+    { "name": "Subway Runner",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Subway%20Runners_1714125093.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/14_Imf_tD_7QX_1i5xuR9f_6fOKzptDOv"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" },
+   
+    { "name": "The Monkey King",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_The%20Monkey%20King_1710246154.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1O0TTK6vNQLEj5r7AheHCY7eUs99RO-8t"
+   ,"bg_color": "#bd3734", "bg1_color": "#ca413f" },
+   
+    { "name": "Blessing of the Dragon",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Blessing%20of%20the%20Dragon_1711636212.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1QdscNZSBuu79Wa4um2Mw9EMgVplEvcUq"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Alice's Wonder",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Alice%27s%20Wonder_1711635837.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1Ni0ygfhlwavKPKcawXI8AwWYv_GIPXO7"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" },
+   
+    { "name": "Mahjong Legend Xmas",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Mahjong%20Legend%20Xmas_1711638443.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1SLafJ4_ZaMZpkNfQMKpNQNCdSyCnRip1"
+   ,"bg_color": "#3e0e96", "bg1_color": "#4c1ba7" },
+   
+    { "name": "Fishing's Paradise",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Fishing%27s%20Paradise_1711637175.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1ULylL1gX6EVtO3GbCBLMY80XhypSx5wB"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "Wonder cuisine",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Wonder%20cuisine_1711699777.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1O5XxJk1zAc2xnP24tjfv9eWcnBjJFx8Z"
+   ,"bg_color": "#016ec6", "bg1_color": "#0b7dda" },
+   
+    { "name": "Kingdom Z",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Kingdom%20Z_1711637977.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1D0CyX5AtOoKmnQk0ls5OpeRsEubjY4Ee"
+   ,"bg_color": "#016ec6", "bg1_color": "#0b7dda" },
+   
+    { "name": "Epic of Aztec",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Epic%20of%20Aztec_1707982144.jpg",
+   "bg_image": "https://lh3.googleusercontent.com/d/12uaEUR1xuRMXvnD9qXk7kmXc3AjfHgw9"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" },
+   
+    { "name": "Blessing of the Tiger",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Blessing%20of%20the%20Tiger_1711636371.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1F_JJDtEKddDw1tO_woS5EfX3dY4HMCYn"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Moe Moe Cute",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Moe%20Moe%20Cute_1711638611.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1vFhFcaeVAExw80y0F52RuPX3hgPYCwD3"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" },
+   
+    { "name": "Veggies Bonanza",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Veggies%20Bonanza_1711699722.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1A1FLO3eiDeqt-ZAwire2ZO3TTUqcRJJe"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "Lucky Nang Kwak",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Lucky%20Nang%20Kwak_1711638285.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1aYDG53bKEqvKowlyhxxXCBXEM2Sfy2Z7"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Mafia Ways",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Mafia%20Ways_1711638377.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/12wY9rQrYjjEdQmq8N4NXSw6_RZF7Qj9Y"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Mermaid's Market",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Mermaid%27s%20Market_1711638508.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1F5fwQp7M5PGzRP6fuSd4bgoGAt5ZrnHw"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" },
+   
+    { "name": "Mahjong Legend",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Mahjong%20Legend_1707984512.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1JPd7MrcnQX-1WGmZFjiTo55adSbW0Z9I"
+   ,"bg_color": "#872b5a", "bg1_color": "#933465" },
+   
+    { "name": "Centillion Gods",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Centillion%20Gods_1707981830.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1B7SUZG7QqPsrZLqFzW5IjJ8Iz6xvWnSz"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Dino Gems",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Dino%20Gems_1711636672.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/13ixM2oy_e4VkS_mGDwHrtHdpIc0Hiu97"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Cupid's Garden",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Cupid%27s%20Garden_1711636600.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1ynZUdWxbnVb3KBibP32O7oU9z-IaS1GG"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "Government Disco",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Government%20Disco_1707983382.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1PV9ruS1ZCsEYzFHBKFm6lKHqOWF08X7Y"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Lab 19 mania",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Lab%2019%20mania_1707984032.jpg",
+   "bg_image": "https://lh3.googleusercontent.com/d/1RQwJE5Dqew9Xd-E01Uq1r9BHzWCZlExE"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "Roma Plus",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Roma%20Plus_1711639297.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1JfH517wQareQHbTNUZ_8gvK3mp6qUyzV"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Squid Toon",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Squid%20Toon_1707985972.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/14iN5-Uv6b-u5SaEMPsRXLU40FjvTaEYu"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "Fruit Roulette Slots",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Fruit%20Roulette%20Slots_1707982341.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1wW-oaLW-nxgCULMFQIc6GTpW7mxKSiHy"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Royal Thai Dessert",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Royal%20Thai%20Dessert_1711639348.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1pYJA3NE44XZGwCg9GVYAkEjjklfhxCII"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Dino Pops",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Dino%20Pops_1711636683.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1PLLFbufL3e0hfUbwpKfTOyBetbTksSyy"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Shiba Mogul",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Shiba%20Mogul_1711639400.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1D8KlI6urQLWBdm-tRMmWh8OVRh_V2DTP"
+   ,"bg_color": "#074f37", "bg1_color": "#0e674a" },
+   
+    { "name": "Little Monster",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Little%20Monster_1711638205.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1xiZ_UI9OaWAe4YchVilVWb33kPLTUrNl"
+   ,"bg_color": "#eb4400", "bg1_color": "#fb510e" },
+   
+    { "name": "Wrath of Egypt",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Wrath%20of%20Egypt_1711699832.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1Wiroh79aP93g6nD20NmBQiGD4f1raRSD"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "The King Joker",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_The%20King%20Joker_1711639921.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1PXIFgLgje5OukVY4es5PXfXY4HTZzjuK"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" },
+   
+    { "name": "Punk Star",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Punk%20Star_1711639162.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1CmJWaGVXiwO1NFb_qsSPFxT14gozDi6S"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Zushi Prime",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Zushi%20Prime_1711699882.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1l0VogsQDKzbiLE94Fc0glcwOrPWQuTp8"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Blessing of The OX",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Blessing%20of%20The%20OX_1711635975.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/16S8mRob9AiaeGBiSalwA4zJ28HamhhrB"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Legend of shooter",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Legend%20of%20shooter_1707984280.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1ovjJmpnoCrkrUgJEQAJFY4_BsU1GjgzO"
+   ,"bg_color": "#eb4400", "bg1_color": "#fb510e" },
+   
+    { "name": "Grandshine",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Grandshine_1711637573.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1XslCyER8P2Kf0CgQEWCUTGPA-AdGEYXp"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "HungryKrahung",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_HungryKrahung_1711637799.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/13NieOk_vWThSleMM3HTKvhMC5ZCqUqlB"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Real slap",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Real%20slap_1711639212.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/19d5c_LHq9-3FP8waSM5wr98vgmha9e-w"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Ghost House",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Ghost%20House_1711637453.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/14At5m6LeFYSnZkDGgLEhZoRs_51pRuYR"
+   ,"bg_color": "#eb4400", "bg1_color": "#fb510e" },
+   
+    { "name": "Kraken Treasure",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Kraken%20Treasure_1711638039.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/13GPhPlTcvYiwPixAUWBJVnn-FUnw1QfM"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Rich Rich Water",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Rich%20Rich%20Water_1711639254.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1hlbdwpkJ8-qGISA21gOXUoTd26oSqv5v"
+   ,"bg_color": "#413ba7", "bg1_color": "#4e49b6" },
+   
+    { "name": "Vampire Hunter",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Vampire_1707986193.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1b5v8vvbsnNNVLsmicOY-NKYBaQKaG0Ku"
+   ,"bg_color": "#9c0001", "bg1_color": "#a40a0a" },
+   
+    { "name": "Bomb Defusal",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Bomb%20Defusal_1711636414.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1I-fS8e6iq8gr4ipKggffKYUpQnzBurGT"
+   ,"bg_color": "#074f37", "bg1_color": "#0e674a" },
+   
+    { "name": "Drop Racing",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Drop%20Racing_1711637263.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1RM29f-OoYFAJWfwV4KYtRzG48r36fr7-"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" },
+   
+    { "name": "Horse racing",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Horse%20racing_1711637756.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1FuAufeiHmEzW68Es95hdpeboM3HZ5q4p"
+   ,"bg_color": "#aa00a7", "bg1_color": "#bd0fba" },
+   
+    { "name": "Pet Ranger",
+   "image": "https://ambimgcdn.co/img/sportsbook/game/AMBS/L/AMBS_Pet%20Ranger_1711639121.webp",
+   "bg_image": "https://lh3.googleusercontent.com/d/1VSHsICwaLlARkzOLXjc0mkhI3qb6CEoU"
+   ,"bg_color": "#038d21", "bg1_color": "#0ca62e" }
+   ]

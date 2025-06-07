@@ -1,0 +1,571 @@
+{
+  "last_update": "predict-2773822",
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://images.ball7m.com/img/match_preview_img/2025-05-31/683a644d0fcd6.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ปารีส แซงต์ แชร์กแมง",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "อินเตอร์ มิลาน",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "57%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "43%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เกมนัดชิงชนะเลิศยูฟ่า แชมเปียนส์ ลีก เป็นเป้าหมายสูงสุดของทั้งสองทีม ปารีส แซงต์ แชร์กแมง ที่มีเป้าหมายคว้าถ้วยนี้มาตลอด จะใช้จุดแข็งในเกมรุกที่หลากหลายและความสามารถเฉพาะตัวของผู้เล่นแนวหน้า เปิดเกมบุกเข้าใส่ อินเตอร์ มิลาน ตั้งแต่ต้น อย่างไรก็ตาม อินเตอร์ มิลาน เป็นทีมที่มีระบบการเล่นและวินัยเกมรับที่ดี แม้จะมีผู้เล่นบาดเจ็บหลายราย แต่ก็พร้อมที่จะตั้งรับอย่างรัดกุมและอาศัยจังหวะสวนกลับเร็ว โดยมี ฮาคาน คัลฮาโนกลู เป็นแกนหลักในแดนกลาง และ มาร์คุส ตูราม พร้อมที่จะใช้ความเร็วเล่นงานแนวรับของเปแอสเช ด้าน ปารีส แซงต์ แชร์กแมง ผู้เล่นอย่าง อูซาเม เดมเบเล่ และ วิตอร์ แฟร์ไรรา จะเป็นคีย์แมนสำคัญในการขับเคลื่อนเกมรุกและการสร้างสรรค์โอกาส แม้ อินเตอร์ จะมาเน้นรับและสวนกลับ แต่ด้วยคุณภาพเกมรุกที่จัดจ้านกว่าและฟอร์มที่ชนะต่อเนื่องในช่วงหลังของ ปารีส แซงต์ แชร์กแมง ประกอบกับการที่ อินเตอร์ ขาดผู้เล่นคนสำคัญในแนวรุกอย่าง เลาตาโร่ มาร์ตีเนซ คาดว่า ปารีส แซงต์ แชร์กแมง มีโอกาสที่จะเป็นฝ่ายเบียดเอาชนะไปได้ในที่สุด\nสกอร์ที่คาด: ปารีส แซงต์ แชร์กแมง ชนะ อินเตอร์ มิลาน 2-1\nฟันธง: ต่อ ปารีส แซงต์ แชร์กแมง",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://images.ball7m.com/img/match_preview_thumbnail/2025-05-31/683a644130d75.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ลอส แอนเจลิส เอฟซี",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "คลับ อเมริกา",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "56%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "44%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เกมนัดนี้มีความสำคัญอย่างยิ่งต่อทั้งสองทีมในการคว้าสิทธิ์ไปเล่นฟุตบอลชิงแชมป์สโมสรโลก ลอส แอนเจลิส เอฟซี มีฟอร์มในบ้านที่แข็งแกร่งและทำประตูได้อย่างต่อเนื่อง แม้ฟอร์มโดยรวมในช่วงหลังจะมีผลเสมอเยอะ แต่เกมรุกนำโดย เจเรมี อีโบบิสส และ เดนิส บูอ็องก้า ยังเป็นทีเด็ด ขณะที่ คลับ อเมริกา ฟอร์มโดยรวมในลีกดีเยี่ยม แต่อาการน่าเป็นห่วงคือฟอร์มเกมนอกบ้านที่ย่ำแย่อย่างเห็นได้ชัดในช่วงหลัง ทำให้เกมนี้ ลอส แอนเจลิส เอฟซี ที่ได้เปรียบเรื่องเสียงเชียร์และสถิติในบ้านที่ยอดเยี่ยม มีโอกาสสูงที่จะเก็บผลการแข่งขันที่ต้องการ โดยคาดว่าจะเป็นเกมที่แลกหมัดกันพอสมควร แต่เจ้าบ้านจะอาศัยเกมรุกที่จัดจ้านและความได้เปรียบในสนามเบียดเอาชนะไปได้\n  สกอร์ที่คาด: ลอส แอนเจลิส เอฟซี ชนะ คลับ อเมริกา 2-1\n  ฟันธง: ต่อ ลอส แอนเจลิส เอฟซี",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://images.ball7m.com/img/match_preview_thumbnail/2025-05-31/683a64315ddd5.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เรซซิ่ง เดอ เฟอรอล",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "สปอร์ติ้ง กิฆอน",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "55%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "45%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "\nเรซซิ่ง เดอ เฟอรอล ต้องการ 3 แต้มอย่างยิ่งยวดเพื่อโอกาสในการหนีตกชั้น เกมนี้ได้เล่นในบ้านต่อหน้าแฟนบอล แม้ฟอร์มในบ้านโดยรวมจะไม่ดี แต่ด้วยสถานการณ์บีบคั้น พวกเขาน่าจะสู้เต็มที่ ขณะที่ สปอร์ติ้ง กิฆอน แม้จะอยู่ในอันดับที่สบายกว่า แต่ฟอร์มเกมเยือนน่าเป็นห่วงอย่างมาก แพ้รวดมา 3 เกมเยือนล่าสุด และมีสถิติเสียประตูต่อเนื่องยาวนาน อย่างไรก็ตาม สปอร์ติ้ง กิฆอน มีแนวโน้มที่จะยิงประตูได้จากสถิติการทำประตูต่อเนื่องในช่วงหลัง เกมนี้คาดว่าจะเป็นเกมที่สูสี เรซซิ่ง เดอ เฟอรอล จะใช้ความได้เปรียบในบ้านและความมุ่งมั่นเข้าสู้ ส่วน สปอร์ติ้ง กิฆอน จะต้องแก้ปัญหาเกมรับในเกมเยือนให้ได้ โอกาสออกได้ทั้งสามหน้า แต่ด้วยสถานการณ์ที่บีบ เรซซิ่ง เดอ เฟอรอล อย่างหนัก อาจทำให้พวกเขามีแรงฮึด อย่างไรก็ตาม สถิติเกมเหย้าที่ย่ำแย่ก็เป็นปัจจัยที่มองข้ามไม่ได้ การแบ่งแต้มดูเป็นผลลัพธ์ที่มีความเป็นไปได้สูงจากฟอร์มของทั้งสองทีม โดยเฉพาะฟอร์มเกมเยือนของ สปอร์ติ้ง กิฆอน และฟอร์มในบ้านของ เรซซิ่ง เดอ เฟอรอล สกอร์ที่คาด: เรซซิ่ง เดอ เฟอรอล เสมอ สปอร์ติ้ง กิฆอน 1-1 ฟันธง: วาง เรซซิ่ง เดอ เฟอรอล (0)",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://images.ball7m.com/img/match_preview_thumbnail/2025-05-31/683a64260897f.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "มาลาก้า",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "บูร์โกส ซีเอฟ",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "59%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "41%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "มาลาก้า มีฟอร์มในบ้านที่แข็งแกร่งอย่างมาก ชนะ 3 เกมรวดหลังสุดที่ได้เล่นต่อหน้าแฟนบอล ขณะที่ บูร์โกส ซีเอฟ มีฟอร์มเกมเยือนที่ย่ำแย่ แพ้ 2 เกมรวดและไม่ชนะใครมา 4 เกมติด อีกทั้งยังเสียประตูง่าย แนวโน้มเกมนี้คาดว่า มาลาก้า จะใช้ความได้เปรียบจากการเล่นในบ้าน เปิดเกมรุกเข้าใส่ บูร์โกส ซีเอฟ ที่น่าจะเน้นเกมรับและรอสวนกลับ อย่างไรก็ตาม สถิติการเจอกันบ่งชี้ว่า มาลาก้า มีปัญหาในการเอาชนะ บูร์โกส ซีเอฟ แต่จากฟอร์มในบ้านของมาลาก้าในปัจจุบันที่ยอดเยี่ยม ทำให้โอกาสที่เจ้าบ้านจะคว้าชัยชนะไปได้มีสูง\n สกอร์ที่คาด: มาลาก้า ชนะ บูร์โกส ซีเอฟ 1-0\n  ฟันธง: ต่อ มาลาก้า",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://images.ball7m.com/img/match_preview_thumbnail/2025-05-31/683a64116d81b.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เฟเนร์บาห์เช่",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "คอนยาสปอร์",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "60%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "40%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เฟเนร์บาห์เช่ ต้องการชัยชนะอย่างยิ่งยวดเพื่อรักษาโอกาสในการลุ้นแชมป์ เกมนี้ได้เล่นในบ้านซึ่งโดยรวมแล้วแข็งแกร่งในลีค แม้ว่าจะมีปัญหาผู้เล่นบาดเจ็บและติดโทษแบนบางส่วน รวมถึงฟอร์มเกมรับที่ยังเสียประตูง่ายต่อเนื่อง แต่ด้วยศักยภาพเกมรุกที่มีผู้เล่นอย่าง เอดิน เซโก้, ยูเซฟ อ็อง-เนไซริ และ แอนเดอร์สัน ทาลิสก้า ที่พร้อมทำประตู ประกอบกับ คอนยาสปอร์ ที่มีปัญหาฟอร์มเกมเยือนอย่างหนัก แพ้บ่อย และยังมีผู้เล่นติดโทษแบนและบาดเจ็บจำนวนมาก ทำให้เกมนี้ เฟเนร์บาห์เช่ น่าจะเป็นฝ่ายครองเกมและบุกเข้าใส่เป็นส่วนใหญ่ และมีโอกาสสูงที่จะเก็บ 3 คะแนนในบ้านได้สำเร็จ\nสกอร์ที่คาด: เฟเนร์บาห์เช่ ชนะ คอนยาสปอร์ 3-1\n\nฟันธง: ต่อ เฟเนร์บาห์เช่",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "last_update": "predict-2603093",
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://ball7m.com/img/match_preview_img/2024-10-23/67187bfc893a3.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ยัง บอยส์",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "อินเตอร์ มิลาน",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "30%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "70%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ยัง บอยส์ กลับมาชนะได้ในเกมล่าสุดคงมีกำลังใจขึ้นเยอะแต่เกมนี้เป็นรองเยอะมาก ในบ้านคงเสี่ยงเปิดเกมรุกเพราะแพ้คงตกรอบแน่นอน ทีมเยือนอินเตอร์ มิลาน ต้องการชัยชนะต่อเนื่องเกมนี้เดินหน้าเกมรุกเต็มที่แน่นอน เกมนี้คาดว่า อินเตอร์ มิลาน น่าจะมาเอาชนะได้แน่สกอร์ที่คาด อินเตอร์ มิลาน ชนะ 2-0ฟันธง อินเตอร์ มิลาน ชนะ",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://ball7m.com/img/match_preview_thumbnail/2024-10-23/6718761f13281.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "อตาลันต้า",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "เซลติก",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "60%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "40%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "\nอตาลันต้า ดูยังเหนือกว่าหน่อยในฟอร์มโดยรวม  เกมนี้ในบ้านหวังชนะเท่านั้น เดินหน้าเกมรุกเต็มที่  ทีมเยือนเซลติก แม้จะเข้าสู่รายการนี้มามากกว่า เกมนี้เป็นรองชัดเจนคงมาเน้นรับรอสวนกลับ เกมนี้คาดว่า อตาลันต้ายังดูดีกว่าน่าจะเอาชนะไปได้ ทีมเยือน 4 เกมเสียประตูไป 13 ประตู ไม่น่ารอดเกมนี้\nสกอร์ที่คาด อตาลันต้า ชนะ 2-0\nฟันธง อตาลันต้า ชนะ",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://ball7m.com/img/match_preview_thumbnail/2024-10-23/671873a75d48e.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แบรสต์",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ไบเออร์  เลเวอร์คูเซิน",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "45%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "55%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แบรสต์ เกมนี้เป็นรองพอสมควร ยังไม่เคยเจอทีมใหญ่ เกมนี้คงเน้นประคองเกมหวังเพียงเสมอ ทีมเยือนไบเออร์ เลเวอร์คูเซิน หวังมาเก็บชัยชนะต่อเนื่อง เดินหน้าเกมรุกไม่ยั้งแน่นอน เกมนี้คาดว่า ไบเออร์ เลเวอร์คูเซิน มาเบียนชนะได้แน่นอนสกอร์ที่คาด ไบเออร์ เลเวอร์คูเซิน ชนะ 1-0ฟันธง ไบเออร์ เลเวอร์คูเซิน ชนะ",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://ball7m.com/img/match_preview_thumbnail/2024-10-23/67186f537698d.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "บาร์เซโลน่า",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "บาเยิร์น มิวนิค",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "51%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "49%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "\nบาร์เซโลน่า ต้องการชัยชนะเพื่อขึ้นไปสู่การเข้ารอบอัตโนมัติ และล้างแค้นด้วย เกมนี้เดินหน้าเกมรุกเต็มที่ โดยเกมรุกเล่นกันได้ดี  ทีมเยือนบาเยิร์น มิวนิค เกมนี้เป็นรองนิดหน่อยคงมาเล่นเกมรับเน้นสวนกลับอย่างที่เคยถนัดทำกับทีมใหญ่ เน้นเพลสเร็วเพลสสูง เกมนี้คาดว่า ต้องพูดกันตรง ๆ ว่า บาร์เซโลน่า เหนือกว่าชัดเจน ทั้ง 2 ทีมมีปัญหาเกมรับด้วยกันพอสมควร เกมนี้เชื่อว่า บาร์เซโลน่า ตั้งใจเต็มที่น่าจะเบียดชนะไปได้\nสกอร์ที่คาด บาร์เซโลน่า ชนะ 2-1\nฟันธง บาร์เซโลน่า ชนะ",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://ball7m.com/img/match_preview_thumbnail/2024-10-23/67186f1d5e269x.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แอร์เบ ไลป์ซิก",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "offsetStart": "none",
+                    "offsetTop": "none",
+                    "margin": "10px",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ลิเวอร์พูล",
+                    "size": "13px",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "weight": "bold",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "20%",
+                    "size": "xl",
+                    "color": "#006eff",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "align": "start",
+                    "offsetStart": "-10px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "80%",
+                    "size": "xl",
+                    "color": "#ff0000",
+                    "align": "end",
+                    "weight": "bold",
+                    "margin": "20px",
+                    "offsetEnd": "10px"
+                  }
+                ],
+                "margin": "none",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "spacing": "none"
+              }
+            ],
+            "offsetTop": "-15px"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "size": "100px",
+            "url": "https://i.postimg.cc/1XKn3yjT/Pngtree-sports-turnament-versus-vs-background-5997509-1.png",
+            "offsetStart": "100px",
+            "offsetTop": "-20px",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "\nแอร์เบ ไลป์ซิก ต้องการชัยชนะแล้วถ้าอยากจะไปลุ้นโซนเพลย์ออฟ เป็นรองอยู่เยอะแต่เกมนี้บีบให้เดินหน้าเปิดเกมแลกแล้ว  ทีมเยือนลิเวอร์พูล ความมั่นใจเต็มที่ เกมนี้มาประคองรอเล่นเกมสวนกลับที่เล่นได้ดี  เกมนี้คาดว่า ลิเวอร์พูล เล่นงานเกมสวนกลับได้แน่นอนเอาชนะได้ไม่น่ายาก\nสกอร์ที่คาด ลิเวอร์พูล ชนะ 3-1\nฟันธง ลิเวอร์พูล ชนะ",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "xxs",
+                "wrap": true
+              }
+            ],
+            "offsetTop": "-13px"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#000000",
+          "endColor": "#2e2e2e",
+          "centerColor": "#000000"
+        }
+      }
+    }
+  ]
+}

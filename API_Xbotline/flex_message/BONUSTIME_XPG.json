@@ -1,0 +1,925 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/1gdSE6FbqJJah5DTJ67lz1XIAJTTg9jEy",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/XPG.png",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของบาคาร่า",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Baccarant N31",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เพลย์เยอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "แบงค์เกอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ผู้เล่นออนไลน์",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "25.78%",
+                "size": "lg",
+                "color": "#006eff",
+                "weight": "bold",
+                "margin": "20px",
+                "offsetStart": "-10px"
+              },
+              {
+                "type": "text",
+                "text": "74.22%",
+                "size": "lg",
+                "color": "#ff0000",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "-5px"
+              },
+              {
+                "type": "text",
+                "text": "12,480",
+                "size": "lg",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/xpg.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "400px",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "xl",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "xs"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "height": "220px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#201713",
+          "endColor": "#43291e",
+          "centerColor": "#271b16"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/1gdSE6FbqJJah5DTJ67lz1XIAJTTg9jEy",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/XPG.png",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของบาคาร่า",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Baccarant N10",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เพลย์เยอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "แบงค์เกอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ผู้เล่นออนไลน์",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "67.96%",
+                "size": "lg",
+                "color": "#006eff",
+                "weight": "bold",
+                "margin": "20px",
+                "offsetStart": "-10px"
+              },
+              {
+                "type": "text",
+                "text": "32.04%",
+                "size": "lg",
+                "color": "#ff0000",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "-5px"
+              },
+              {
+                "type": "text",
+                "text": "6,650",
+                "size": "lg",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/xpg.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "400px",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "xl",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "xs"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "height": "220px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#201713",
+          "endColor": "#43291e",
+          "centerColor": "#271b16"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/1gdSE6FbqJJah5DTJ67lz1XIAJTTg9jEy",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/XPG.png",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของบาคาร่า",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Baccarant N24",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เพลย์เยอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "แบงค์เกอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ผู้เล่นออนไลน์",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "55.81%",
+                "size": "lg",
+                "color": "#006eff",
+                "weight": "bold",
+                "margin": "20px",
+                "offsetStart": "-10px"
+              },
+              {
+                "type": "text",
+                "text": "44.19%",
+                "size": "lg",
+                "color": "#ff0000",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "-5px"
+              },
+              {
+                "type": "text",
+                "text": "12,993",
+                "size": "lg",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/xpg.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "400px",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "xl",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "xs"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "height": "220px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#201713",
+          "endColor": "#43291e",
+          "centerColor": "#271b16"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/1gdSE6FbqJJah5DTJ67lz1XIAJTTg9jEy",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/XPG.png",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของบาคาร่า",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Baccarant N72",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เพลย์เยอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "แบงค์เกอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ผู้เล่นออนไลน์",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "53.53%",
+                "size": "lg",
+                "color": "#006eff",
+                "weight": "bold",
+                "margin": "20px",
+                "offsetStart": "-10px"
+              },
+              {
+                "type": "text",
+                "text": "46.47%",
+                "size": "lg",
+                "color": "#ff0000",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "-5px"
+              },
+              {
+                "type": "text",
+                "text": "12,466",
+                "size": "lg",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/xpg.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "400px",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "xl",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "xs"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "height": "220px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#201713",
+          "endColor": "#43291e",
+          "centerColor": "#271b16"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/1gdSE6FbqJJah5DTJ67lz1XIAJTTg9jEy",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/XPG.png",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของบาคาร่า",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Baccarant N08",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เพลย์เยอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "แบงค์เกอร์ชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "ผู้เล่นออนไลน์",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "52.05%",
+                "size": "lg",
+                "color": "#006eff",
+                "weight": "bold",
+                "margin": "20px",
+                "offsetStart": "-10px"
+              },
+              {
+                "type": "text",
+                "text": "47.95%",
+                "size": "lg",
+                "color": "#ff0000",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "-5px"
+              },
+              {
+                "type": "text",
+                "text": "11,174",
+                "size": "lg",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/xpg.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "400px",
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "xl",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "xs"
+          }
+        ],
+        "backgroundColor": "#893900",
+        "height": "220px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#201713",
+          "endColor": "#43291e",
+          "centerColor": "#271b16"
+        }
+      }
+    }
+  ]
+}

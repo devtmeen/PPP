@@ -1,0 +1,137 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectMode": "cover",
+        "url": "https://i.postimg.cc/vH3YR8s0/xgbn-144120-copy.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://i.postimg.cc/yd2H6WdH/FRAME-2442.png",
+                "align": "center",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "100:15",
+                "offsetTop": "xs"
+              }
+            ],
+            "maxWidth": "300px",
+            "width": "300px",
+            "offsetEnd": "xxl",
+            "height": "50px",
+            "offsetBottom": "19px"
+          }
+        ],
+        "height": "50px",
+        "width": "300px",
+        "maxWidth": "300px",
+        "backgroundColor": "#070710",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://heylink.me/xautobotline"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectMode": "cover",
+        "url": "https://i.postimg.cc/7ZRq6Bb7/xgbn-1444373-copy.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://i.postimg.cc/yd2H6WdH/FRAME-2442.png",
+                "align": "center",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "100:15",
+                "offsetTop": "xs"
+              }
+            ],
+            "maxWidth": "300px",
+            "width": "300px",
+            "offsetEnd": "xxl",
+            "height": "50px",
+            "offsetBottom": "19px"
+          }
+        ],
+        "height": "50px",
+        "width": "300px",
+        "maxWidth": "300px",
+        "backgroundColor": "#070710",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://heylink.me/xautobotline"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectMode": "cover",
+        "url": "https://i.postimg.cc/jS2sRVqt/xgbn-1445775434-copy.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://i.postimg.cc/yd2H6WdH/FRAME-2442.png",
+                "align": "center",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "100:15",
+                "offsetTop": "xs"
+              }
+            ],
+            "maxWidth": "300px",
+            "width": "300px",
+            "offsetEnd": "xxl",
+            "height": "50px",
+            "offsetBottom": "19px"
+          }
+        ],
+        "height": "50px",
+        "width": "300px",
+        "maxWidth": "300px",
+        "backgroundColor": "#070710",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://heylink.me/xautobotline"
+        }
+      }
+    }
+  ]
+}

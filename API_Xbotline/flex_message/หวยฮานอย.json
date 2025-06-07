@@ -1,0 +1,462 @@
+{
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "วันเสาร์ 31/05/68",
+                                        "align": "end",
+                                        "size": "xxs",
+                                        "color": "#00a540"
+                                    }
+                                ],
+                                "margin": "none",
+                                "paddingAll": "none"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "image",
+                                        "url": "https://i.postimg.cc/1tBbz0RZ/image.png",
+                                        "size": "lg"
+                                    }
+                                ],
+                                "margin": "md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ผลรางวัลฮานอย พิเศษ ปกติ วีไอพี",
+                                        "align": "center",
+                                        "size": "xs",
+                                        "color": "#ffffff"
+                                    }
+                                ],
+                                "margin": "none",
+                                "paddingAll": "xl"
+                            },
+                            {
+                                "type": "separator"
+                            }
+                        ]
+                    }
+                ],
+                "paddingTop": "xxl",
+                "paddingBottom": "none",
+                "paddingStart": "xxl",
+                "paddingEnd": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ฮานอย พิเศษ",
+                                        "align": "center",
+                                        "size": "sm",
+                                        "color": "#ffffff"
+                                    }
+                                ],
+                                "paddingAll": "none",
+                                "margin": "md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "3 ตัว บน",
+                                                "align": "center",
+                                                "size": "xs",
+                                                "color": "#ffffff"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "2 ตัว ล่าง",
+                                                "align": "end",
+                                                "size": "xs",
+                                                "color": "#ffffff"
+                                            }
+                                        ],
+                                        "margin": "none",
+                                        "paddingAll": "none",
+                                        "paddingEnd": "sm"
+                                    }
+                                ],
+                                "paddingAll": "none"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/1.png",
+                                        "size": "30px",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/1.png",
+                                        "size": "30px",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/0.png",
+                                        "size": "30px",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "filler",
+                                        "flex": 4
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/0.png",
+                                        "size": "30px",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/5.png",
+                                        "size": "30px",
+                                        "flex": 2
+                                    }
+                                ],
+                                "paddingStart": "none",
+                                "paddingEnd": "none"
+                            },
+                            {
+                                "type": "separator",
+                                "margin": "md"
+                            }
+                        ],
+                        "flex": 4,
+                        "paddingAll": "xxl",
+                        "paddingEnd": "xxl",
+                        "paddingStart": "xxl",
+                        "paddingBottom": "none",
+                        "paddingTop": "none"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "ฮานอย ปกติ",
+                                                "align": "center",
+                                                "size": "sm",
+                                                "color": "#ffffff"
+                                            }
+                                        ],
+                                        "paddingAll": "none",
+                                        "margin": "md"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "3 ตัว บน",
+                                                        "align": "center",
+                                                        "size": "xs",
+                                                        "color": "#ffffff"
+                                                    },
+                                                    {
+                                                        "type": "text",
+                                                        "text": "2 ตัว ล่าง",
+                                                        "align": "end",
+                                                        "size": "xs",
+                                                        "color": "#ffffff"
+                                                    }
+                                                ],
+                                                "margin": "none",
+                                                "paddingAll": "none",
+                                                "paddingEnd": "xs"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/5.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/8.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/5.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "filler",
+                                                "flex": 4
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/5.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/1.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "paddingEnd": "none"
+                                    },
+                                    {
+                                        "type": "separator",
+                                        "margin": "md"
+                                    }
+                                ],
+                                "flex": 4
+                            }
+                        ],
+                        "margin": "none",
+                        "offsetTop": "none",
+                        "offsetStart": "none",
+                        "offsetEnd": "none",
+                        "paddingStart": "xxl",
+                        "paddingEnd": "xxl",
+                        "paddingAll": "xxl",
+                        "paddingTop": "none",
+                        "paddingBottom": "none"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "ฮานอย วีไอพี",
+                                                "align": "center",
+                                                "size": "sm",
+                                                "color": "#ffffff"
+                                            }
+                                        ],
+                                        "paddingAll": "none",
+                                        "margin": "md"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "3 ตัว บน",
+                                                        "align": "center",
+                                                        "size": "xs",
+                                                        "color": "#ffffff"
+                                                    },
+                                                    {
+                                                        "type": "text",
+                                                        "text": "2 ตัว ล่าง",
+                                                        "align": "end",
+                                                        "size": "xs",
+                                                        "color": "#ffffff"
+                                                    }
+                                                ],
+                                                "margin": "none",
+                                                "paddingAll": "none",
+                                                "paddingEnd": "xs"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/3.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/4.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/9.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "filler",
+                                                "flex": 4
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/3.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/8.png",
+                                                "size": "30px",
+                                                "flex": 2
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "paddingEnd": "none"
+                                    }
+                                ],
+                                "flex": 4
+                            }
+                        ],
+                        "margin": "none",
+                        "offsetTop": "none",
+                        "offsetStart": "none",
+                        "offsetEnd": "none",
+                        "paddingStart": "xxl",
+                        "paddingEnd": "xxl",
+                        "paddingAll": "xxl",
+                        "paddingTop": "none",
+                        "paddingBottom": "none"
+                    }
+                ],
+                "margin": "none",
+                "offsetTop": "none",
+                "offsetStart": "none",
+                "offsetEnd": "none",
+                "paddingStart": "none",
+                "paddingEnd": "none",
+                "paddingAll": "none",
+                "paddingTop": "none",
+                "paddingBottom": "none"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "md",
+                        "contents": [
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "เว็บแทงหวยที่ดีที่สุด",
+                                        "size": "xxs",
+                                        "color": "#999999"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "อ้างอิง : สมาคมสลากกินแบ่งโลก",
+                                        "size": "xxs",
+                                        "align": "end",
+                                        "color": "#999999"
+                                    }
+                                ],
+                                "margin": "lg"
+                            }
+                        ],
+                        "paddingAll": "none",
+                        "paddingTop": "none",
+                        "margin": "lg"
+                    }
+                ],
+                "paddingAll": "xxl",
+                "paddingTop": "none"
+            }
+        ],
+        "paddingAll": "none"
+    },
+    "styles": {
+        "hero": {
+            "backgroundColor": "#222222"
+        },
+        "body": {
+            "backgroundColor": "#222222"
+        },
+        "footer": {
+            "backgroundColor": "#222222"
+        }
+    }
+}

@@ -1,0 +1,170 @@
+[
+    { "name": "Go Fishing","image": "https://cdn.happywinapi.com/img/sportsbook/game/CQ9/S/CQ9_Go%20Fishing_1725604627.webp"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1grWle5FFa4CiTU4hf00VmEfr6Zo2YjSr"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "Football Fever M","image": "https://lh3.googleusercontent.com/d/117o33D9yUDxMsJqMCj453j7DIJnjt_UD"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/117o33D9yUDxMsJqMCj453j7DIJnjt_UD"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "CHICAGOⅡ","image": "https://lh3.googleusercontent.com/d/1kbSDLy0zSVkxin7z8dN7L6iNiBrBwiFy"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1kbSDLy0zSVkxin7z8dN7L6iNiBrBwiFy"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "Mafia","image": "https://lh3.googleusercontent.com/d/1LqK7djEUidjSY7pV1CUsH7oZHMaRdWWa"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1LqK7djEUidjSY7pV1CUsH7oZHMaRdWWa"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "ไข่เต็นฟอลด์","image": "https://lh3.googleusercontent.com/d/1QmChS8V4Xha8-ruyGpJZ5LadgZKWeIn0"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1QmChS8V4Xha8-ruyGpJZ5LadgZKWeIn0"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "ต้นไม้เงิน","image": "https://lh3.googleusercontent.com/d/1_H--rRA1kwvb7iq6HKV7TIj-10hz9Abi"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1_H--rRA1kwvb7iq6HKV7TIj-10hz9Abi"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "Magic World","image": "https://lh3.googleusercontent.com/d/1FG_HrtsOsjweeDxtU-hLQJNqpTNUlOM3"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1FG_HrtsOsjweeDxtU-hLQJNqpTNUlOM3"
+   ,"bg_color": "#7e7a00", "bg1_color": "#8d8907" },
+   
+    { "name": "Fortune Dragon","image": "https://lh3.googleusercontent.com/d/1U86xzH1D35aV5ii5zpJJ3k2g5JS7tAnr"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1U86xzH1D35aV5ii5zpJJ3k2g5JS7tAnr"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "The Beast War","image": "https://lh3.googleusercontent.com/d/15dUmK6xdIef-BkXXrEg5WvFJt5wqzLfQ"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/15dUmK6xdIef-BkXXrEg5WvFJt5wqzLfQ"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "Jump High 2","image": "https://lh3.googleusercontent.com/d/1JkzH5KVpXqiK78k5Jeb0TM5sC6dKWx8L"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1JkzH5KVpXqiK78k5Jeb0TM5sC6dKWx8L"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "JumpHigh","image": "https://lh3.googleusercontent.com/d/1YSzxUo4645keOqpZrbMUMV_rt03zPYW9"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1YSzxUo4645keOqpZrbMUMV_rt03zPYW9"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "Treasure Pirate","image": "https://lh3.googleusercontent.com/d/1DzkoIBgM_NHJ1-XiVbgGAbGjPPhikqJ0"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1DzkoIBgM_NHJ1-XiVbgGAbGjPPhikqJ0"
+   ,"bg_color": "#00a2a1", "bg1_color": "#0ab2b2" },
+   
+    { "name": "Zhong Kui","image": "https://lh3.googleusercontent.com/d/1iS5Bg58zC-zDeH-PcePgYY_qXk-xEqtu"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1iS5Bg58zC-zDeH-PcePgYY_qXk-xEqtu"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "Wonderland","image": "https://lh3.googleusercontent.com/d/18KK44C47zuA9y1BL2vueK5JVPOFFXlRK"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/18KK44C47zuA9y1BL2vueK5JVPOFFXlRK"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "Snow Queen","image": "https://lh3.googleusercontent.com/d/1biYChgh9ofgTcI6HXOLnl1-9FIwVjAAS"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1biYChgh9ofgTcI6HXOLnl1-9FIwVjAAS"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "Mummy's Treasure","image": "https://lh3.googleusercontent.com/d/1eeDntCr6vRmP0kWQ-fbVNgx1JYZMplFT"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1eeDntCr6vRmP0kWQ-fbVNgx1JYZMplFT"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "Move n' Jump","image": "https://lh3.googleusercontent.com/d/1GIflxAdVCREoESPwrdwmHtzOu2e05RP4"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1GIflxAdVCREoESPwrdwmHtzOu2e05RP4"
+   ,"bg_color": "#00a2a1", "bg1_color": "#0ab2b2" },
+   
+    { "name": "Lucky Bats M","image": "https://lh3.googleusercontent.com/d/1pnnGdzZ_npHUsjCfP_c524zTBbgUbFoA"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1pnnGdzZ_npHUsjCfP_c524zTBbgUbFoA"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "Hot Dj","image": "https://lh3.googleusercontent.com/d/1LPUvdYKbUETegmAnMgVSHTDBJc0ZdQDM"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1LPUvdYKbUETegmAnMgVSHTDBJc0ZdQDM"
+   ,"bg_color": "#8d4608", "bg1_color": "#9f520f" },
+   
+    { "name": "Hero of the 3 Kingdoms - Cao Cao","image": "https://lh3.googleusercontent.com/d/1xidJ4wvxRefcE_edTHGskZDXS9n7XN_4"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1xidJ4wvxRefcE_edTHGskZDXS9n7XN_4"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "GuGuGu","image": "https://lh3.googleusercontent.com/d/10kjdwn06BnXFtCFIHFiIybrRKtsbtV9y"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/10kjdwn06BnXFtCFIHFiIybrRKtsbtV9y"
+   ,"bg_color": "#06050a", "bg1_color": "#303030" },
+   
+    { "name": "Gu Gu Gu 3","image": "https://lh3.googleusercontent.com/d/1pR7mImVoHdSnqXpX7yM8yigLu9Hx4t_N"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1pR7mImVoHdSnqXpX7yM8yigLu9Hx4t_N"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "God of War M","image": "https://lh3.googleusercontent.com/d/1FoJueOjy-gwnVM6kqmiijEC-C-rPKI1A"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1FoJueOjy-gwnVM6kqmiijEC-C-rPKI1A"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "Fire Chibi 2","image": "https://lh3.googleusercontent.com/d/1kQZfuvovR8BJxKbegMGSfotVPp8bzZTG"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1kQZfuvovR8BJxKbegMGSfotVPp8bzZTG"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "Coin Spinner","image": "https://lh3.googleusercontent.com/d/1cb-ySc5Lu98aSt9OZ7OKuwJ0c_VSwSCt"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1cb-ySc5Lu98aSt9OZ7OKuwJ0c_VSwSCt"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "The Chicken House","image": "https://lh3.googleusercontent.com/d/1pcLr_gWgBwhJh8OeXZeWXtzL9ENKXwd9"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1pcLr_gWgBwhJh8OeXZeWXtzL9ENKXwd9"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "FlyOut","image": "https://lh3.googleusercontent.com/d/1z0ERsJL87PvdEH9FQewQAcXCmDNZS6pA"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1z0ERsJL87PvdEH9FQewQAcXCmDNZS6pA"
+   ,"bg_color": "#50f4e9", "bg1_color": "#5ef3e9" },
+   
+    { "name": "Fa Cai Shen M","image": "https://lh3.googleusercontent.com/d/1mgO4bGMxB6Vfaqd6UOVjc_sj9j84fUNX"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1mgO4bGMxB6Vfaqd6UOVjc_sj9j84fUNX"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "Mirror Mirror","image": "https://lh3.googleusercontent.com/d/1T3LC5tx8Tizrt8IAYh6hPMYaphkzAMyu"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1T3LC5tx8Tizrt8IAYh6hPMYaphkzAMyu"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "Night City","image": "https://lh3.googleusercontent.com/d/16Z-JZ7CehkWixnnRE5akLpa_jwURBrsD"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/16Z-JZ7CehkWixnnRE5akLpa_jwURBrsD"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "Flying Cai Shen","image": "https://lh3.googleusercontent.com/d/1_z498L9QWT0aG3BCt4szVv_R9j0NOKzX"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1_z498L9QWT0aG3BCt4szVv_R9j0NOKzX"
+   ,"bg_color": "#140d03", "bg1_color": "d#2b1c08dd" },
+   
+    { "name": "5 เทพอสูร","image": "https://lh3.googleusercontent.com/d/12wjB16p6eU3aV8RC0jfaB3wSaaXIUm0a"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/12wjB16p6eU3aV8RC0jfaB3wSaaXIUm0a"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "Good Fortune M","image": "https://lh3.googleusercontent.com/d/1D0b0B6Jj0FelB2Xr40dQ6egbWc8q0gKI"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1D0b0B6Jj0FelB2Xr40dQ6egbWc8q0gKI"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "Flower Fortunes","image": "https://lh3.googleusercontent.com/d/13T4DJOidaSxsE_CZFLYX18h8QNW02mCU"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/13T4DJOidaSxsE_CZFLYX18h8QNW02mCU"
+   ,"bg_color": "#cb26d4", "bg1_color": "#db35e3" },
+   
+    { "name": "Fa Cai Shen2","image": "https://lh3.googleusercontent.com/d/11ZDMCZJd0oVN-aji6BWUYt_3PJIAw_7y"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/11ZDMCZJd0oVN-aji6BWUYt_3PJIAw_7y"
+   ,"bg_color": "#50f4e9", "bg1_color": "#5ef3e9" },
+   
+    { "name": "Thor 2","image": "https://lh3.googleusercontent.com/d/1mSmNzIVN8u488B2UhjE4bOoHwlUhxU9E"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1mSmNzIVN8u488B2UhjE4bOoHwlUhxU9E"
+   ,"bg_color": "#006428", "bg1_color": "#097735" },
+   
+    { "name": "ราชินีเพลิง 2","image": "https://lh3.googleusercontent.com/d/1qTG2U7ncXTxadGskHQolFRqCz6uJyUZz"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1qTG2U7ncXTxadGskHQolFRqCz6uJyUZz"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "King Kong Shake","image": "https://lh3.googleusercontent.com/d/1SYrJkSyLXBqHeZ2c2Zp57y9PGpbApt2R"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1SYrJkSyLXBqHeZ2c2Zp57y9PGpbApt2R"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "Floating Market","image": "https://lh3.googleusercontent.com/d/1w_usCZtw32aCI6P22mbLwe--xLmlM5kq"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1w_usCZtw32aCI6P22mbLwe--xLmlM5kq"
+   ,"bg_color": "#812d8d", "bg1_color": "#9639a2" },
+   
+    { "name": "Zeus","image": "https://lh3.googleusercontent.com/d/1kQuwGCGdjQBikr4IGIFH-ih0-Jsn1LY9"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1kQuwGCGdjQBikr4IGIFH-ih0-Jsn1LY9"
+   ,"bg_color": "#fe0102", "bg1_color": "#ff1414" },
+   
+    { "name": "Thor","image": "https://lh3.googleusercontent.com/d/16VScXaOxfF0GmN_Qk0Z6lcQVA7ifLpt6"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/16VScXaOxfF0GmN_Qk0Z6lcQVA7ifLpt6"
+   ,"bg_color": "#2e31a6", "bg1_color": "#3c3eb9" },
+   
+    { "name": "Ganesha Jr.","image": "https://lh3.googleusercontent.com/d/1fT5B3vNX2NPjJ1ybYtcWUDUFTCLbU6I1"
+   ,  "bg_image": "https://lh3.googleusercontent.com/d/1fT5B3vNX2NPjJ1ybYtcWUDUFTCLbU6I1"
+   ,"bg_color": "#00a2a1", "bg1_color": "#0ab2b2" }
+   
+   ]

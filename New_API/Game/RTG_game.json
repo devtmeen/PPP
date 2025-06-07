@@ -1,0 +1,158 @@
+[
+  { "name": "Astros","image": "https://lh3.googleusercontent.com/d/1GtbXO-zVdFZOnLgvCV2Y7GHD7BrkvTcN",
+"bg_image": "https://lh3.googleusercontent.com/d/1VwyZNnxoN_6I8hM-a_9WHeM2TnY46wX9"
+,"bg_color": "#a93017", "bg1_color": "#c13f25" },
+
+  { "name": "Giga Blast","image": "https://lh3.googleusercontent.com/d/1wmI6RjLewm9io3HRalqFz39_p99nSxDW",
+"bg_image": "https://lh3.googleusercontent.com/d/1QSWkiAoS05O6tesOxXJdyzqGuMNQX-sF"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Christmas Morning","image": "https://lh3.googleusercontent.com/d/13xS5Cy4AnUMnKaAfl8ROZlITsgFmQmwr",
+"bg_image": "https://lh3.googleusercontent.com/d/1zR9U_BBw8BS-sc14HLYE0mEGN5iYUzI0"
+,"bg_color": "#017713", "bg1_color": "#0ea024" },
+ 
+  { "name": "Christmas MULTIHOPS","image": "https://lh3.googleusercontent.com/d/1-pMoqGXK0MKVUL16SrxbldLx2ozaZr_c",
+"bg_image": "https://lh3.googleusercontent.com/d/1HZWH0nDd9tv_h7xnmQySy9PvI1N6Q_f3"
+,"bg_color": "#017713", "bg1_color": "#0ea024" },
+ 
+  { "name": "Siren's Riches","image": "https://lh3.googleusercontent.com/d/1hElcy3g4yrX9IDG-yWlMhVwovpVIX_s6",
+"bg_image": "https://lh3.googleusercontent.com/d/1o1-wExFKKSSFwDvX3_x7mjqAJQIlsieK"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Case Closed","image": "https://lh3.googleusercontent.com/d/1NeVR_N168td7lHDJ3PfW89n4_u1edb1y",
+"bg_image": "https://lh3.googleusercontent.com/d/1iIpc1Bnl6KzfOmb5aR24GWLpuYO49sRV"
+,"bg_color": "#84008a", "bg1_color": "#9c0aa4" },
+ 
+  { "name": "Judgement Day Megaways™","image": "https://lh3.googleusercontent.com/d/1B2jTxe6XfPZWMf1Zvc5EKjxBddDF2Qy6",
+"bg_image": "https://lh3.googleusercontent.com/d/1kO6linhAwr2b_ooWilPfcIjv_OfkZWLS"
+,"bg_color": "#84008a", "bg1_color": "#9c0aa4" },
+ 
+  { "name": "Sugar Monster","image": "https://lh3.googleusercontent.com/d/1al36FAvvSb8TGGQV3xstRwYIrU3ntd_9",
+"bg_image": "https://lh3.googleusercontent.com/d/1aZWcm6FbYwC-uyeI_ozzG0HpTLA3JpI4"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Zaida's Fortune","image": "https://lh3.googleusercontent.com/d/1oQp1SDttX-cnZFpmIEgx7Fgh2GQBEJP0",
+"bg_image": "https://lh3.googleusercontent.com/d/1z01C86FR-d_hw7k-IeYxZ-AtH0twP3p9"
+,"bg_color": "#84008a", "bg1_color": "#9c0aa4" },
+ 
+  { "name": "Bass Boss","image": "https://lh3.googleusercontent.com/d/17KfA7YQ-_c-Dm8K3iuaXD80tWXncMuHR",
+"bg_image": "https://lh3.googleusercontent.com/d/1ni_Xg0ZFAn_G0exrWikiIlhjK3c46oAT"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Gods Of Troy","image": "https://lh3.googleusercontent.com/d/12AKV7fYnseur5guDJXmv1BnYT7ny1f92",
+"bg_image": "https://lh3.googleusercontent.com/d/1R_EdkS-6-esjgkmMKbasSp0omiOkYxXl"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Majestic Mysteries Power Reels","image": "https://lh3.googleusercontent.com/d/1nN1wT07Z2Pd-yQpE58WdPV_izej_3BG6",
+"bg_image": "https://lh3.googleusercontent.com/d/1NruduqYFrtD3yIWKDcno-rptRdTbJR81"
+,"bg_color": "#017713", "bg1_color": "#0ea024" },
+ 
+  { "name": "Mayhem","image": "https://lh3.googleusercontent.com/d/1ObEVQT4AS_BA0h6ixyAE97dUM9w5Wfuq",
+"bg_image": "https://lh3.googleusercontent.com/d/1a-uQfWSpD5mTv9NduVrmlJq9lhPtOYmB"
+,"bg_color": "#84008a", "bg1_color": "#9c0aa4" },
+ 
+  { "name": "Dragons Clusterbuster","image": "https://lh3.googleusercontent.com/d/18Phzx7uHq9gUeXMnRceucwNPD38QLHJt",
+"bg_image": "https://lh3.googleusercontent.com/d/1x48xiCl4EBX-8pTJ5emA570-udfIY7Qs"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Diamond Royale","image": "https://lh3.googleusercontent.com/d/1OzD_l68Abejbvq9Tr1ZWw1i8JS190eCi",
+"bg_image": "https://lh3.googleusercontent.com/d/17FTC0ZSwidqy1mq4K1JNzRBAjN83-8A_"
+,"bg_color": "#017713", "bg1_color": "#0ea024" },
+ 
+  { "name": "Bulls Run Wild","image": "https://lh3.googleusercontent.com/d/1nX-hV5a2CNiElVz3gjHdDJUvXg-puQbP",
+"bg_image": "https://lh3.googleusercontent.com/d/1sp8CaQPAmm-Mm9_WKrOzAcgc-pal9CxX"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Big Cat Rescue Megaways","image": "https://lh3.googleusercontent.com/d/1zmE7He0iOb5xtSBXHyKj2qWBODOUxF77",
+"bg_image": "https://lh3.googleusercontent.com/d/1OOfvLALIhqptVzoAZbEApKjzMqky7c9j"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Wild Hot Chilli Reels DNT","image": "https://lh3.googleusercontent.com/d/1aFLUHHWwQs-9flouLzJ2od5vuF9o4CGS",
+"bg_image": "https://lh3.googleusercontent.com/d/1KolKc4Hjr-fN8f7_EtPhHFkBOD2O4Pv3"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "10,001 Nights Megaways","image": "https://lh3.googleusercontent.com/d/1nsCTFpeRrbgCoEUDvGWRELnBtIhGhU7h",
+"bg_image": "https://lh3.googleusercontent.com/d/11Ptcu1W5qRpzkWd8XB3TzpOrYxM151Pw"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Harle Coin DNT","image": "https://lh3.googleusercontent.com/d/1jRnFwZ4ImgkQN6chhPxAX5mQtHPts30P",
+"bg_image": "https://lh3.googleusercontent.com/d/143CDbt6x8D5UoqgKYpkf540tMaORjbtA"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Hammer Gods DNT","image": "https://lh3.googleusercontent.com/d/1ZuEGIKShUIIxkDzelmmVTKiwPvrBQ1VS",
+"bg_image": "https://lh3.googleusercontent.com/d/16Ase2DzepqljUf5SMnD692lwpXHYbsb9"
+,"bg_color": "#b84252", "bg1_color": "#c75766" },
+ 
+  { "name": "Golden Leprechaun Megaways DNT","image": "https://lh3.googleusercontent.com/d/1RmmO9N4pgpye9AafdrB1B56rycxhhydr",
+"bg_image": "https://lh3.googleusercontent.com/d/1tt2FvkIzONQZLYsC0V-lzBXz-f0scN4G"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Forever 7s DNT","image": "https://lh3.googleusercontent.com/d/1XXJJw8T3GF2ZJx8EKgssri0TfRX8V_K3",
+"bg_image": "https://lh3.googleusercontent.com/d/1mXrXR2_8gf9FT9FikR2nDUV-T-bh6ltB"
+,"bg_color": "#1bbf66", "bg1_color": "#29d677" },
+ 
+  { "name": "Fa Fa Babies DNT","image": "https://lh3.googleusercontent.com/d/15EmKp52bODvJdo21xAmaSPVLkj31BpkE",
+"bg_image": "https://lh3.googleusercontent.com/d/18uc0eblLma8BvY5SGRL_puab5_EYhNCd"
+,"bg_color": "#84008a", "bg1_color": "#9c0aa4" },
+ 
+  { "name": "Dragon King: Legend Of The Seas DNT","image": "https://lh3.googleusercontent.com/d/1sQRCHQtZ_1m2WOVYrHMGfJowardt6rSh",
+"bg_image": "https://lh3.googleusercontent.com/d/1VnXBOxrTFCJo6xlpfbQSbAVeUga8oodK"
+,"bg_color": "#1bbf66", "bg1_color": "#29d677" },
+ 
+  { "name": "Cash Ultimate DNT","image": "https://lh3.googleusercontent.com/d/1NogEk2h-LRoIjSSz8QpSPHdP0ws44Zqs",
+"bg_image": "https://lh3.googleusercontent.com/d/19g8n-ZuVzW8QQnKIfTI_V2msAYcwfjx8"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "777 Strike","image": "https://lh3.googleusercontent.com/d/1J_tiFOAJezVrIeTiD0_6NkRBHAKa2-rB",
+"bg_image": "https://lh3.googleusercontent.com/d/1HNH4rEdr_uaVJL3vJy2SrmpcKAR1Sb4j"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Beriched","image": "https://lh3.googleusercontent.com/d/18f6dUoiP5Hd652OcsT59sVgN2EvynMUl",
+"bg_image": "https://lh3.googleusercontent.com/d/1RhdGM-EMnYbIhyi2MKUgEfSs3Bpjc0F9"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Doggy Riches Megaway","image": "https://lh3.googleusercontent.com/d/1Qd6VJyhTbqoUSMbs0ubbesYo1Vj7cVdz",
+"bg_image": "https://lh3.googleusercontent.com/d/1wYRVyx3Pnso78V7N1SdREWP1-IS9hsEM"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Dragon's Fire Megaways","image": "https://lh3.googleusercontent.com/d/1IK1aTdClRrjpgWgeSVCCIkrKElWLX6DX",
+"bg_image": "https://lh3.googleusercontent.com/d/1-r-4r9LXbPrjPzwDqGU1UlFZz_Np9zY5"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Dragon's Luck Megaways","image": "https://lh3.googleusercontent.com/d/1LXfqjtGrUt1AqwdKCh-SjsNiHFtC5wWZ",
+"bg_image": "https://lh3.googleusercontent.com/d/1SdlJiJr3K_OCDzTdfpjdIIWQmcsdQPlp"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Dynamite Riches Megaways","image": "https://lh3.googleusercontent.com/d/10Rl-cRhZ2jNyQx1BLfIIJ3EyAmNLrpsQ",
+"bg_image": "https://lh3.googleusercontent.com/d/1v3lZaxWQfLWZu6FE32K2vmPfrgqLIvI8"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Fortune House Power Reels","image": "https://lh3.googleusercontent.com/d/1qwI3bnC6AqFgS0v-_CgsuLolTAhybonw",
+"bg_image": "https://lh3.googleusercontent.com/d/1F6o-ARYg6yI6eradxaz9C0oar69SVsgM"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Gonzo's Quest Megaways","image": "https://lh3.googleusercontent.com/d/1wVdgPI8D4cXzZhO6nS3LG8o_xTTHc3gI",
+"bg_image": "https://lh3.googleusercontent.com/d/1E_cQgxJiExOFDmUzVWWACgmyqP7_Iz7c"
+,"bg_color": "#fe0000", "bg1_color": "#fc2727" },
+ 
+  { "name": "Mystic Staxx","image": "https://lh3.googleusercontent.com/d/1a-6T67N3kWhoEBdAMA7uA4Va8hNz9fVr",
+"bg_image": "https://lh3.googleusercontent.com/d/13PYa0b6RjxL1-5o71N-nSkhVTeHFzcFm"
+,"bg_color": "#84008a", "bg1_color": "#9c0aa4" },
+ 
+  { "name": "Primate King","image": "https://lh3.googleusercontent.com/d/1KQ32elKNoMAeKTIGOipe1e3jnT_pq0e0",
+"bg_image": "https://lh3.googleusercontent.com/d/1oX6SquDY2jfQEMi4mlirS1PDEXqI89za"
+,"bg_color": "#017713", "bg1_color": "#0ea024" },
+ 
+  { "name": "Thor's vengeance","image": "https://lh3.googleusercontent.com/d/17jznykasMP6wRExpHex52u_YBUQ0VKfZ",
+"bg_image": "https://lh3.googleusercontent.com/d/17FVZ5e6--RuKQOEJ-RwjvhBPp5J-ifMS"
+,"bg_color": "#0c077f", "bg1_color": "#1f18a0" },
+ 
+  { "name": "Wild Expedition","image": "https://lh3.googleusercontent.com/d/1RmtrVuM3vd0V7zMfqi_qRAwJU3gXL0pz",
+"bg_image": "https://lh3.googleusercontent.com/d/1nmcdiyQ-UGe-dsHFwUkmLHhr-s4pWVAk"
+,"bg_color": "#017713", "bg1_color": "#0ea024" },
+ 
+  { "name": "Zillard King","image": "https://lh3.googleusercontent.com/d/1Ftbd7WU1ttxglQja0iqFoft9rTsRCe6G",
+"bg_image": "https://lh3.googleusercontent.com/d/1zYCOEJg1e38Y4Z_kAKbqszAZQsq3oKMh"
+,"bg_color": "#9500fa", "bg1_color": "#a629fa" }
+ 
+ ]

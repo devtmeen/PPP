@@ -1,0 +1,212 @@
+[ 
+{ "name": "Magic Treasure","image": "https://lh3.googleusercontent.com/d/1FzS6D2yNTKwj9ToXNd-OhtbPSmuOl7Py",
+"bg_image": "https://lh3.googleusercontent.com/d/1cGFjbV6grQTOvxz948JqP7iShvIcrEYW"
+,"bg_color": "#4334d7", "bg1_color": "#2a1abc" },
+ 
+  { "name": "Dinosaur Egg 2","image": "https://lh3.googleusercontent.com/d/1VG8oX9cAB_ZYlNuN-fQ5AimmcX8MzB76",
+"bg_image": "https://lh3.googleusercontent.com/d/1LJS20OFck9uyK2dj6UEWl9Rf1ceRZ1P5"
+,"bg_color": "#db2b8e", "bg1_color": "#c10b72" },
+
+ 
+{ "name": "Maya Golden City 6","image": "https://lh3.googleusercontent.com/d/1YdP_BpXa30OyVBuz5l6xy725BiVsjFNC",
+"bg_image": "https://lh3.googleusercontent.com/d/1cMcKRoYq_6GptFYxGJBpQWlzWmPHKlk8"
+,"bg_color": "#12211a", "bg1_color": "#08120d" },
+ 
+  { "name": "Golden Pharaoh","image": "https://lh3.googleusercontent.com/d/1AxLbQoVfUNs9Cfe4t4oAAxt0N4xtYiYR",
+"bg_image": "https://lh3.googleusercontent.com/d/1fC8H6crMQMzvS8Sc2cYW4p-Qn1TljZoR"
+,"bg_color": "#6dbf03", "bg1_color": "#009015" },
+
+ 
+{ "name": "Cash Maker 2","image": "https://lh3.googleusercontent.com/d/1aPDsJ4hJOfPNmke_9G9WG6rzyfb-eNVT",
+"bg_image": "https://lh3.googleusercontent.com/d/1jyZ5hkYeuIBvYVwvw0PoYSg8d1qvCuJL"
+,"bg_color": "#2328b8", "bg1_color": "#1116a2" },
+ 
+  { "name": "Golden Kingdom","image": "https://lh3.googleusercontent.com/d/1uSVmhRHrln5BOfl0en5treHUESXYXaQ5",
+"bg_image": "https://lh3.googleusercontent.com/d/1X43hsjPIuylOsBFqyBgECc81xSD1a1Ik"
+,"bg_color": "#d51a07", "bg1_color": "#8e0f01" },
+
+ 
+{ "name": "Lucky Star 2","image": "https://lh3.googleusercontent.com/d/1L_IEKDc8Sdh8ueifcytGwYrJxlmLV5nI",
+"bg_image": "https://lh3.googleusercontent.com/d/1DvrM8589SU4JH5R_yzKStz9DwLgVOOLK"
+,"bg_color": "#ce1906", "bg1_color": "#911103" },
+ 
+  { "name": "Greek Mythology","image": "https://lh3.googleusercontent.com/d/1mN71aLn-UnLz2FZ558Q7mNf7hpgokvPP",
+"bg_image": "https://lh3.googleusercontent.com/d/1pHoYtW89-YBi8jX9MS5du3tKXbRaCHlT"
+,"bg_color": "#b21409", "bg1_color": "#911103" },
+
+ 
+{ "name": "R One","image": "https://lh3.googleusercontent.com/d/1G8o3ZuT64uPS0n93hlIjXBRy15AOkS8L",
+"bg_image": "https://lh3.googleusercontent.com/d/1kSV6eJ4FDe1DU7StfAqAXbNsMAKLq3-g"
+,"bg_color": "#d31f46", "bg1_color": "#af0d30" },
+ 
+  { "name": "Fortune Rolling","image": "https://lh3.googleusercontent.com/d/1ePSLFR0mnbC-G5flXEDloMi5PRfkM99v",
+"bg_image": "https://lh3.googleusercontent.com/d/11cucGtSwixd-w0W6Ab_UN15B5pvvhmPZ"
+,"bg_color": "#841156", "bg1_color": "#66053f" },
+
+ 
+{ "name": "Wealth Potion","image": "https://lh3.googleusercontent.com/d/1YMXwAzf71OAK3SYuexvSv8r1rPsfgRbW",
+"bg_image": "https://lh3.googleusercontent.com/d/1SZl8XbUGEk_PVoMSZL7WFHx5r2M4NnQw"
+,"bg_color": "#7f1357", "bg1_color": "#680343" },
+ 
+  { "name": "Maya Golden City 5","image": "https://lh3.googleusercontent.com/d/1yXHY_V4BpmDdI9dA1Qo3_gDoq6g9Wj9d",
+"bg_image": "https://lh3.googleusercontent.com/d/1cMcKRoYq_6GptFYxGJBpQWlzWmPHKlk8"
+,"bg_color": "#6daf27", "bg1_color": "#009015" },
+
+ 
+{ "name": "Lucky Fortune God","image": "https://lh3.googleusercontent.com/d/1O_XkhsQQePI47-vLzgdVdSkAN_srTyt4",
+"bg_image": "https://lh3.googleusercontent.com/d/1En7lxefsOiMNbtdsTsCkSJ4qCdvtQKMs"
+,"bg_color": "#6dbf03", "bg1_color": "#009015" },
+ 
+  { "name": "Go Neko","image": "https://lh3.googleusercontent.com/d/1cWrsM9VxM9tT1-EGxxQFpVuGtX19vNzj",
+"bg_image": "https://lh3.googleusercontent.com/d/1xZDp3nYNkT1BrpoJpAyT91_a9hCsZv-Y"
+,"bg_color": "#017603", "bg1_color": "#014b02" },
+
+ 
+{ "name": "R!CH","image": "https://lh3.googleusercontent.com/d/1xUb3_9v2wJ5fU2siq1KCOFTyX6p7-JB6",
+"bg_image": "https://lh3.googleusercontent.com/d/1uf72qhhSAve86diukmi5M-aOKJi6Qzg4"
+,"bg_color": "#db0672", "bg1_color": "#92024a" },
+ 
+  { "name": "Roma Gems","image": "https://lh3.googleusercontent.com/d/13NYrGEyE7i9onOBpiV0jcQnIUNnZHq_M",
+"bg_image": "https://lh3.googleusercontent.com/d/19bqgVpx-Z1h1j7jIPzENbNFCHG1BEgCV"
+,"bg_color": "#b16c33", "bg1_color": "#8e4c15" },
+
+ 
+{ "name": "Cash Rich","image": "https://lh3.googleusercontent.com/d/137w2Rz-W7pk-407jTZD_JG4oCbgGHtmR",
+"bg_image": "https://lh3.googleusercontent.com/d/18RpLxdn-2dybVo5ykQJcAJUWlUwyDGtR"
+,"bg_color": "#9f2a30", "bg1_color": "#7c1318" },
+ 
+  { "name": "Maya Golden City 4","image": "https://lh3.googleusercontent.com/d/1x-KDW2IGYoAY1dKx4_UEbvlYDzWzmyYX",
+"bg_image": "https://lh3.googleusercontent.com/d/1cMcKRoYq_6GptFYxGJBpQWlzWmPHKlk8"
+,"bg_color": "#020d09", "bg1_color": "#010906" },
+
+ 
+{ "name": "Bison Gallop","image": "https://lh3.googleusercontent.com/d/1f3z8QWAoga1C8yHLcULsahazTzyHTMJk",
+"bg_image": "https://lh3.googleusercontent.com/d/1Q5An9jZQqy_sR_cCosZabs5gtugb1G4V"
+,"bg_color": "#6dbf03", "bg1_color": "#009015" },
+ 
+  { "name": "Frenzy Money","image": "https://lh3.googleusercontent.com/d/1rDNtiBolL2v3nngXQG5p_8FN9p0Y12W2",
+"bg_image": "https://lh3.googleusercontent.com/d/1Nm0EhGB4KcyAfwblKYjzSM-HnKtU9l4d"
+,"bg_color": "#ce0c7e", "bg1_color": "#870350" },
+
+ 
+{ "name": "Legendary Shaman","image": "https://lh3.googleusercontent.com/d/1AmEjUy8oCkzsK2aZCpgGUY2IqCoqsKwy",
+"bg_image": "https://lh3.googleusercontent.com/d/1IoCqSc3Maj5SToMcVApzKqUKyxGuws1v"
+,"bg_color": "#00f200", "bg1_color": "#6dbf03" },
+ 
+  { "name": "Super Neko","image": "https://lh3.googleusercontent.com/d/1VcSbNzTvBVFVzxvvfaJh4ZeRaqI82JLz",
+"bg_image": "https://lh3.googleusercontent.com/d/1gP9XC6_QFCqIWJnZxM8QQoZ61rMByGkb"
+,"bg_color": "#a12734", "bg1_color": "#760f19" },
+
+ 
+{ "name": "Cash Maker","image": "https://lh3.googleusercontent.com/d/1aPDsJ4hJOfPNmke_9G9WG6rzyfb-eNVT",
+"bg_image": "https://lh3.googleusercontent.com/d/1jyZ5hkYeuIBvYVwvw0PoYSg8d1qvCuJL"
+,"bg_color": "#2527ba", "bg1_color": "#0f1185" },
+ 
+  { "name": "Golden Bay Sands","image": "https://lh3.googleusercontent.com/d/10OEBpsM55-h9bvHL91EZTk_zhlZjsjU0",
+"bg_image": "https://lh3.googleusercontent.com/d/1cMcKRoYq_6GptFYxGJBpQWlzWmPHKlk8"
+,"bg_color": "#13221b", "bg1_color": "#091510" },
+
+ 
+{ "name": "Maya Golden City 3","image": "https://lh3.googleusercontent.com/d/1CnjY0jizhK9OegQNpIw3avCRz-wKvSFr",
+"bg_image": "https://lh3.googleusercontent.com/d/1cMcKRoYq_6GptFYxGJBpQWlzWmPHKlk8"
+,"bg_color": "#16231c", "bg1_color": "#091510" },
+ 
+  { "name": "Temple Adventure","image": "https://lh3.googleusercontent.com/d/1DmgSh-qfuUPa_uKn0XNMXZSBaHHbDjSU",
+"bg_image": "https://lh3.googleusercontent.com/d/1HfFmWfmPRWSEBmeZY9EuA14ObLXwuA63"
+,"bg_color": "#6dbf03", "bg1_color": "#009015" },
+
+ 
+{ "name": "Maya Golden City 2","image": "https://lh3.googleusercontent.com/d/1eVwdm4SkC8N_73OzGF0cCeyPJyJ7EW_q",
+"bg_image": "dddddd"
+,"bg_color": "dddddd", "bg1_color": "dddddd" },
+ 
+  { "name": "Money Rush","image": "https://lh3.googleusercontent.com/d/18IaOZUSsQhI9_rEnK9WupyN3gwee1chz",
+"bg_image": "https://lh3.googleusercontent.com/d/1uf72qhhSAve86diukmi5M-aOKJi6Qzg4"
+,"bg_color": "#da0771", "bg1_color": "#9e004f" },
+
+ 
+{ "name": "Cone Bonanza","image": "https://lh3.googleusercontent.com/d/1-ezjYelvDpYg0igO45YYXhK-_1Q_5x7G",
+"bg_image": "https://lh3.googleusercontent.com/d/1bAT4lHG_PAkmhM8DBklRS0T9Afj96XKy"
+,"bg_color": "#d1137f", "bg1_color": "#9e004f" },
+ 
+  { "name": "Barista BONANZA","image": "https://lh3.googleusercontent.com/d/1BnjrWyIrTupz-qEqC8e5aylhOyv_71s5",
+"bg_image": "https://lh3.googleusercontent.com/d/1QW7AVS-kJua4jMBLrP22C9THMDqsmJn7"
+,"bg_color": "#868302", "bg1_color": "#4d4b00" },
+
+ 
+{ "name": "Maya Golden City","image": "https://lh3.googleusercontent.com/d/12k6YCSgbACICarVPNnNW-EyvXoANOUbl",
+"bg_image": "https://lh3.googleusercontent.com/d/1cMcKRoYq_6GptFYxGJBpQWlzWmPHKlk8"
+,"bg_color": "#13221b", "bg1_color": "#08120d" },
+ 
+  { "name": "Fortune God Coming","image": "https://lh3.googleusercontent.com/d/1djCTT0qjvut0Iyd2DEYle7ZwWBXIhLAA",
+"bg_image": "https://lh3.googleusercontent.com/d/12XdFbzWwZLslCxGpIvSdMPLbjMZwOtr2"
+,"bg_color": "#9e0c0d", "bg1_color": "#5d0404" },
+
+ 
+{ "name": "Fortune Mahjong","image": "https://lh3.googleusercontent.com/d/1-LfTJXKRfVPZEIsSzsEf6AUG67TD76zk",
+"bg_image": "https://lh3.googleusercontent.com/d/1u4F2mYTwud5kG-EZMz1iHk29X7vQD1qL"
+,"bg_color": "#6dbf03", "bg1_color": "#3d6a01" },
+ 
+  { "name": "Fortune Lions 7","image": "https://lh3.googleusercontent.com/d/1vvGJiPU7gYQOJHSwTn1oLkk6mvJHUXjv",
+"bg_image": "https://lh3.googleusercontent.com/d/1RQOk5eSHp5Umj0kyXyNOyu2EV8OnuM7E"
+,"bg_color": "#960107", "bg1_color": "#610003" },
+
+ 
+{ "name": "Rich Mahjong 2","image": "https://lh3.googleusercontent.com/d/13yHAyirR4EGsc0mBMashcBm6Hlqr1ICb",
+"bg_image": "https://lh3.googleusercontent.com/d/1aqvDEtSkCIieyV6jCLEyXrvrYlDRGDK1"
+,"bg_color": "#141a8a", "bg1_color": "#070c5f" },
+ 
+  { "name": "MahJong God","image": "https://lh3.googleusercontent.com/d/1icJEE9thv4Ppa3qlxgmOITCX_Tqdvhnb",
+"bg_image": "https://lh3.googleusercontent.com/d/1QhwBXf_Pvqsp2gS2EeYnkhDtm2uGLS_v"
+,"bg_color": "#900e0e", "bg1_color": "#6b0505" },
+
+ 
+{ "name": "Super Fire 7","image": "https://lh3.googleusercontent.com/d/19ZT4p8-op7yKf1y49QQcL7Fnt1Q40gpY",
+"bg_image": "https://lh3.googleusercontent.com/d/1o9sgmTacX0EWcb_FwDv8tGcAVrdNAuWj"
+,"bg_color": "#9d080c", "bg1_color": "#6b0505" },
+ 
+  { "name": "777 More Cash","image": "https://lh3.googleusercontent.com/d/1vlhitw8N6Tncu3PUMqKHHkChu6lBHMZ9",
+"bg_image": "https://lh3.googleusercontent.com/d/1ir35GdhRv9A8N0mDkMzZwEVdlmGoc2iq"
+,"bg_color": "#95038c", "bg1_color": "#5b0155" },
+ 
+{ "name": "Piggy Boom","image": "https://lh3.googleusercontent.com/d/1Ow52JFj3u7fiVkKK_q8Jj4h4TNTQNDUe",
+"bg_image": "https://lh3.googleusercontent.com/d/1t6zGCCBx9yqrRLrHmduXUxUmR7_bpCYJ"
+,"bg_color": "#90028c", "bg1_color": "#61005e" },
+ 
+  { "name": "Rich Mahjong","image": "https://lh3.googleusercontent.com/d/1ZH0pOg0RWakOkaT-SFLyu7S5Kio7X37j",
+"bg_image": "https://lh3.googleusercontent.com/d/1aqvDEtSkCIieyV6jCLEyXrvrYlDRGDK1"
+,"bg_color": "#141a8a", "bg1_color": "#060b65" },
+ 
+{ "name": "Bank Robbery","image": "https://lh3.googleusercontent.com/d/1QD42m0bw_lPC0rRqICMn7QlXAKlHoST5",
+"bg_image": "https://lh3.googleusercontent.com/d/1sKk9XkXoJem1c8BjEq5nvY7dsuJWCehZ"
+,"bg_color": "#16178d", "bg1_color": "#060b65" },
+ 
+  { "name": "MonteZuma's Treasure","image": "https://lh3.googleusercontent.com/d/1YncaILeqSUIUH6B0ft6SvXgsQq8OFgRX",
+"bg_image": "dddddd"
+,"bg_color": "dddddd", "bg1_color": "dddddd" },
+
+{ "name": "Fish Prawn Crab","image": "https://lh3.googleusercontent.com/d/1_qvbPljzL9TwHrwnvIciDrJ4umNGFbky",
+"bg_image": "https://lh3.googleusercontent.com/d/1QB8G5kS6xf0dO29KXzeW2jgVlY7aeVB-"
+,"bg_color": "#6dbf03", "bg1_color": "#009015" },
+ 
+  { "name": "100x Lions 7","image": "https://lh3.googleusercontent.com/d/1q0n_Eh7jmr63v6vPS8iRzFwVVyZVYdjW",
+"bg_image": "https://lh3.googleusercontent.com/d/1IDOpnnwyqtLH4T7YoWoprWeBYuiJaRUp"
+,"bg_color": "#918900", "bg1_color": "#4d4900" },
+
+{ "name": "100x Diamond 7","image": "https://lh3.googleusercontent.com/d/1pKasKbQQEU4wm5Z6KbAzeyFnUv8fTXpy",
+"bg_image": "https://lh3.googleusercontent.com/d/1q_aibFT-5F-TLzdlbjLY-n98hs_5bt3j"
+,"bg_color": "#8e010a", "bg1_color": "#4b0106" },
+ 
+  { "name": "Dragon Egg","image": "https://lh3.googleusercontent.com/d/1oZjgHm4YvGOY2VSIOVCpeYvLAUKtHZX5",
+"bg_image": "https://lh3.googleusercontent.com/d/13BmsxoNILlaEPIULSdVeJ-ZK8ywe_cB3"
+,"bg_color": "#890082", "bg1_color": "#51014d" },
+ 
+{ "name": "Lucky Dragon Ball 7","image": "https://lh3.googleusercontent.com/d/1KoM6jIeZbbr_2RKZe60NqPiHnSmd_psK",
+"bg_image": "https://lh3.googleusercontent.com/d/1iqyx7-IyE9svp6qUJRfyD-40_8oES_hN"
+,"bg_color": "#6dbf03", "bg1_color": "#009015" },
+
+{ "name": "Long Long Long 2","image": "https://lh3.googleusercontent.com/d/1lrFDIrgwr26AA3hz5Yv8SGPf7tec10x1",
+"bg_image": "https://lh3.googleusercontent.com/d/1TciC-uumqt0CG0zGW-d2SZp6j9IM3qIu"
+,"bg_color": "#8b018a", "bg1_color": "#570057" }
+
+ ]

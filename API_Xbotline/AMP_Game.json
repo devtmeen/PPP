@@ -1,0 +1,129 @@
+[
+  { "name": "Roma Legacy","image": "https://lh3.googleusercontent.com/d/1y3VBxIfrLVi8UIyN_FryZGJqCo30OEYV",
+"bg_image": "https://lh3.googleusercontent.com/d/18vTMhWsWIUw7peeBHXtpcKEOZtNDxgjK"
+,"bg_color": "#9a4c12", "bg1_color": "#b15f20" },
+ 
+  { "name": "Space Riot","image": "https://lh3.googleusercontent.com/d/1-6ElTxKOLZBGJtfnvk-wpdPQZvzmT4Ya",
+"bg_image": "https://lh3.googleusercontent.com/d/1vY2pOm5vjBo4BU0_foCA2S1fzjm5g92h"
+,"bg_color": "#d4b906", "bg1_color": "#dabf10" },
+ 
+{ "name": "The Legend of Ne Zha","image": "https://lh3.googleusercontent.com/d/1zoomdhmIf5UeoQuHoQwNZOvS8wuHf--p",
+"bg_image": "https://lh3.googleusercontent.com/d/1KjElfddsRUCf_U5hhguBB_LGiPOr00sM"
+,"bg_color": "#582012", "bg1_color": "#6d2c1c" },
+ 
+  { "name": "Dawn of the Druids","image": "https://lh3.googleusercontent.com/d/1NuLu1IHbXvxI_x1YTo8yb4jydmcYkhjD",
+"bg_image": "https://lh3.googleusercontent.com/d/19WIp9TI2Pu_zj3q5HTZxI3yzyYKnHHLI"
+,"bg_color": "#7a6584", "bg1_color": "#8e7d97" },
+
+{ "name": "Neo Tokyo","image": "https://lh3.googleusercontent.com/d/1M9rPbOTI27xYxTti3Y3Jpx2jyTJWei3D",
+"bg_image": "https://lh3.googleusercontent.com/d/1ew5NKs7CqRf9khqpsxQlzWzup2ciJybY"
+,"bg_color": "#ff6700", "bg1_color": "#fd7317" },
+ 
+  { "name": "Dragon & Tiger","image": "https://lh3.googleusercontent.com/d/1aQIcp2sSQybGsT1lPP4MBVqaQHea2nkm",
+"bg_image": "https://lh3.googleusercontent.com/d/1e4aYZ82KRZggbIBHo9g32CouBeLQMenX"
+,"bg_color": "#105195", "bg1_color": "#1e61a9" },
+
+ 
+{ "name": "Pacquiao One Punch KO","image": "https://lh3.googleusercontent.com/d/1n3YOKhdm1Lt9XzIxmOYPVS9WsKhbBVin",
+"bg_image": "https://lh3.googleusercontent.com/d/1z4_U5qrElIEWlIhracBdf7jEz_2Gmwzx"
+,"bg_color": "#100201", "bg1_color": "#310a07" },
+ 
+  { "name": "Blood Moon","image": "https://lh3.googleusercontent.com/d/1nV84b3Erf61bM5W4EqSbCLp0tswcTqTB",
+"bg_image": "https://lh3.googleusercontent.com/d/13TeeHrEMPE7TPFuCxaotwCeMnB3XDZKb"
+,"bg_color": "#1d2e42", "bg1_color": "#2e4660" },
+
+ 
+{ "name": "Battle of Emperors","image": "https://lh3.googleusercontent.com/d/1ild-BczX-RiQ7l53P0ZZ9pYx8HTJ9XfK",
+"bg_image": "https://lh3.googleusercontent.com/d/13W6er4QcMRJaXHkI3ISREU8kvETGSncq"
+,"bg_color": "#6c0b14", "bg1_color": "#80141f" },
+ 
+  { "name": "CrypBattle","image": "https://lh3.googleusercontent.com/d/1kP37kXFUnfYk8QNQfuiRws7x5lwFvxll",
+"bg_image": "https://lh3.googleusercontent.com/d/1335qwxAi4eCfOeEeUl7sCpZio064p6DV"
+,"bg_color": "#fd02a9", "bg1_color": "#ff1ab3" },
+
+
+  { "name": "Kokeshi","image": "https://lh3.googleusercontent.com/d/1B3HMYoM1duDdYLtMWEGA3vggB9UHelgv",
+"bg_image": "https://lh3.googleusercontent.com/d/1SJx7VFsqM5OerYFTx4EnBTHqu6_yBsgV"
+,"bg_color": "#f00605", "bg1_color": "#f71818" },
+
+ 
+{ "name": "Cai Shen Four","image": "https://lh3.googleusercontent.com/d/1ST7fnWXprNPOUM4iDWbRrRewU-XlxQL4",
+"bg_image": "https://lh3.googleusercontent.com/d/1-Z_13lR2nr3e0csbpc7W-X8GMDU7Ph_I"
+,"bg_color": "#7c7759", "bg1_color": "#928d72" },
+ 
+  { "name": "Abduction","image": "https://lh3.googleusercontent.com/d/1mMU2LK-hPGMCRkyFfbK-a_Pl_0UwPYjR",
+"bg_image": "https://lh3.googleusercontent.com/d/1VcNe8o7bV7KJGhM9GQv9wkBreOpihlQp"
+,"bg_color": "#202e39", "bg1_color": "#2d3f4d" },
+
+ 
+{ "name": "CrypCrusade","image": "https://lh3.googleusercontent.com/d/1FSPKprFzn-l3CwDGIGMgojsUpI_YpSJH",
+"bg_image": "https://lh3.googleusercontent.com/d/1O2eTegEZfApgpavfQiM8YwOrQoUeXjC3"
+,"bg_color": "#fd02a9", "bg1_color": "#ff1ab3" },
+ 
+  { "name": "End of Edo","image": "https://lh3.googleusercontent.com/d/1QUXWXA3AHYlZXCYctup562fGLmNgdJ2v",
+"bg_image": "https://lh3.googleusercontent.com/d/1TxuBTvnvIeqrtsApjM2mdqQwMNMeHrDh"
+,"bg_color": "#f00605", "bg1_color": "#f71818" },
+
+ 
+{ "name": "Four Sacred Souls","image": "https://lh3.googleusercontent.com/d/16ChoMYgrLqiUTHV9aDoKDjZGLtQBnqhu",
+"bg_image": "https://lh3.googleusercontent.com/d/1Jn4e9qpr11aK0Weby65v-oCP2tuQLOkk"
+,"bg_color": "#f00605", "bg1_color": "#f71818" },
+ 
+  { "name": "Great Beauties of China","image": "https://lh3.googleusercontent.com/d/1vFgFIwkfnQ7SDx77UlocOZB9-rv3K9Q5",
+"bg_image": "https://lh3.googleusercontent.com/d/1fe14qERAbH0f8EBvyxcGXut4YLYtvca4"
+,"bg_color": "#ff6700", "bg1_color": "#fd7317" },
+
+ 
+{ "name": "Journey to the Gold","image": "https://lh3.googleusercontent.com/d/1paQqeJVrkc__PWefPPjiCESrg4VgLXq6",
+"bg_image": "https://lh3.googleusercontent.com/d/1cV-yi-JwE2lQ3j01i8gQy9KjaApD_1if"
+,"bg_color": "#fc8a42", "bg1_color": "#fc9554" },
+ 
+  { "name": "League of Conquerors","image": "https://lh3.googleusercontent.com/d/19Td8fq3Z5lGAhwQyH6PAop0IjZ50XSm2",
+"bg_image": "https://lh3.googleusercontent.com/d/1faq4zDEI8zj0O3MrzKpUyWm_OJMiH4ty"
+,"bg_color": "#360d13", "bg1_color": "#46161d" },
+
+ 
+{ "name": "Moe Moe Cuisine ver.China","image": "https://lh3.googleusercontent.com/d/1emV4seGVs53F5u6AfbD4asUP-ABwJMGa",
+"bg_image": "https://lh3.googleusercontent.com/d/1NqXv1x30_YgFA4NoSkYxY4dGJHXhycaC"
+,"bg_color": "#0098fd", "bg1_color": "#18a0fb" },
+ 
+  { "name": "Monster Quest","image": "https://lh3.googleusercontent.com/d/1yuDKAEWM8i9IozJZ9sSl6o3X6z4Qd1Ch",
+"bg_image": "https://lh3.googleusercontent.com/d/1eFu_q6PhGpSX7ABcXoN0b5RyCF15889h"
+,"bg_color": "#fd02a9", "bg1_color": "#ff1ab3" },
+
+ 
+{ "name": "Piggy Bank Millionaire","image": "https://lh3.googleusercontent.com/d/1NMOKcOR8jnCRBrf5D7rxlwy6bdR-5h_8",
+"bg_image": "https://lh3.googleusercontent.com/d/1ZCoGoEe-JoQ7SCNSVW-Bj7D7-nSSaAtA"
+,"bg_color": "#d401ae", "bg1_color": "#e713c0" },
+ 
+  { "name": "Power of Elements","image": "https://lh3.googleusercontent.com/d/1UchQV_aaALU-9JDcnlPXjIJp94EsBytt",
+"bg_image": "https://lh3.googleusercontent.com/d/1T7_82AwBQJ2iNUWU6XH8mUVgAatA2V4j"
+,"bg_color": "#20b003", "bg1_color": "#30ca12" },
+
+ 
+{ "name": "Samurai Girl","image": "https://lh3.googleusercontent.com/d/1uIyjZzS4R0kMuo6kCTguxIUWPo4u2DeC",
+"bg_image": "https://lh3.googleusercontent.com/d/1qZtxLPxsgLDd4_FMjoPdga3LlMbsPN8I"
+,"bg_color": "#d673d8", "bg1_color": "#e386e4" },
+ 
+  { "name": "She Ninja Suzu","image": "https://lh3.googleusercontent.com/d/1L5ne043T-7t_WQI7mN0QiYJ9Mq3P5NcM",
+"bg_image": "https://lh3.googleusercontent.com/d/1Nd9MBtcyRvwkXSmNgt3m0yjIbEbaDDx1"
+,"bg_color": "#f00121", "bg1_color": "#ff1434" },
+
+ 
+{ "name": "Shiba Inu","image": "https://lh3.googleusercontent.com/d/1tffZaDk5_VKtMUbQdGA9ogjzDH30ZREV",
+"bg_image": "https://lh3.googleusercontent.com/d/1sVFQ75BzLtBQJ43VwQPaIPnUh0BqZgjT"
+,"bg_color": "#f705af", "bg1_color": "#fd1cb9" },
+ 
+  { "name": "Sushicade","image": "https://lh3.googleusercontent.com/d/1nLVh7PotSnTz_-jASq994y8yxbsQT9up",
+"bg_image": "https://lh3.googleusercontent.com/d/1hSH0499Z4URhXMeIxNzTt00mddWMDneB"
+,"bg_color": "#f9003a", "bg1_color": "#fb1349" },
+
+ 
+{ "name": "Ukiyo-e","image": "https://lh3.googleusercontent.com/d/1IZat2f7W7aYvmZUfKjgk_h8QOKSd5-vi",
+"bg_image": "https://lh3.googleusercontent.com/d/1kERg9q7cEBLE8niqBkVJrID51tz5NUnx"
+,"bg_color": "#ff5c27", "bg1_color": "#fb6c3c" },
+ 
+  { "name": "Wild Sumo","image": "https://lh3.googleusercontent.com/d/1mPHXrFWQ_w2HisWJHFOqVf89fD9OqQbN",
+"bg_image": "https://lh3.googleusercontent.com/d/1UEFk5OJX1VoYeA-4PHJJ8qRlWKOKvIl4"
+,"bg_color": "#fabd05", "bg1_color": "#f5c024" }
+ ]

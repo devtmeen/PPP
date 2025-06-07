@@ -1,0 +1,192 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/image2ade59b29ee10cb5.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.11",
+        "gravity": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "นาย จิรภา บุญพาสุข",
+            "size": "18px",
+            "color": "#ffffff",
+            "offsetBottom": "-10px"
+          },
+          {
+            "type": "text",
+            "text": "xxx-x-x7293-x",
+            "size": "lg",
+            "color": "#ffffff",
+            "offsetStart": "-10px",
+            "offsetBottom": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://i.postimg.cc/RVBsVdZP/image.png",
+                "aspectMode": "fit",
+                "size": "xl",
+                "action": {
+                  "type": "clipboard",
+                  "label": "คัดลอก2",
+                  "clipboardText": "กรุณาติดต่อแอดมิน @454raxbb"
+                },
+                "aspectRatio": "4:1"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "center",
+            "borderWidth": "none",
+            "action": {
+              "type": "clipboard",
+              "label": "คัดลอก2",
+              "clipboardText": "กรุณาติดต่อแอดมิน @454raxbb"
+            },
+            "position": "relative",
+            "height": "60px",
+            "paddingTop": "10px"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "30px",
+        "paddingStart": "110px",
+        "justifyContent": "flex-end",
+        "alignItems": "flex-end",
+        "paddingTop": "220px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "นาย จิรภา บุญพาสุข",
+            "size": "18px",
+            "color": "#ffffff",
+            "offsetBottom": "-10px"
+          },
+          {
+            "type": "text",
+            "text": "xxx-x-x7293-x",
+            "size": "lg",
+            "color": "#ffffff",
+            "offsetStart": "-10px",
+            "offsetBottom": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://i.postimg.cc/RVBsVdZP/image.png",
+                "aspectMode": "fit",
+                "size": "xl",
+                "action": {
+                  "type": "clipboard",
+                  "label": "คัดลอก2",
+                  "clipboardText": "กรุณาติดต่อแอดมิน @454raxbb"
+                },
+                "aspectRatio": "4:1"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "center",
+            "borderWidth": "none",
+            "action": {
+              "type": "clipboard",
+              "label": "คัดลอก2",
+              "clipboardText": "กรุณาติดต่อแอดมิน @454raxbb"
+            },
+            "position": "relative",
+            "height": "60px",
+            "paddingTop": "5px"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "30px",
+        "paddingStart": "110px",
+        "justifyContent": "flex-end",
+        "alignItems": "flex-end",
+        "paddingTop": "112px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "นาย จิรภา บุญพาสุข",
+            "size": "18px",
+            "color": "#ffffff",
+            "offsetBottom": "-2px"
+          },
+          {
+            "type": "text",
+            "text": "xxx-x-x7293-x",
+            "size": "lg",
+            "color": "#ffffff",
+            "offsetStart": "-10px",
+            "offsetBottom": "-5px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://i.postimg.cc/RVBsVdZP/image.png",
+                "aspectMode": "fit",
+                "size": "xl",
+                "aspectRatio": "4:1",
+                "action": {
+                  "type": "clipboard",
+                  "label": "คัดลอก2",
+                  "clipboardText": "กรุณาติดต่อแอดมิน @454raxbb"
+                }
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "center",
+            "borderWidth": "none",
+            "action": {
+              "type": "clipboard",
+              "label": "คัดลอก2",
+              "clipboardText": "กรุณาติดต่อแอดมิน @454raxbb"
+            },
+            "position": "relative",
+            "height": "60px",
+            "paddingTop": "1px"
+          }
+        ],
+        "position": "absolute",
+        "offsetStart": "30px",
+        "paddingStart": "110px",
+        "justifyContent": "flex-end",
+        "alignItems": "flex-end",
+        "paddingTop": "sm"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}

@@ -1,0 +1,1838 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/fcac8f71acee2c813724974c73dcccb9.png",
+                        "aspectMode": "cover",
+                        "position": "relative",
+                        "size": "full"
+                      }
+                    ],
+                    "height": "40px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/Logo_menu3812529684744e5e.png",
+                            "size": "full",
+                            "position": "absolute",
+                            "aspectRatio": "80:30"
+                          }
+                        ],
+                        "position": "relative"
+                      },
+                      {
+                        "type": "image",
+                        "url": "https://img2.pic.in.th/pic/register_button.gif",
+                        "gravity": "center",
+                        "size": "full",
+                        "offsetStart": "-2px",
+                        "action": {
+                          "type": "uri",
+                          "label": "action",
+                          "uri": "https://heylink.me/xautobotline"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "url": "https://img2.pic.in.th/pic/2login_button-joker89-1.gif",
+                        "offsetEnd": "sm",
+                        "gravity": "center",
+                        "action": {
+                          "type": "uri",
+                          "label": "action",
+                          "uri": "https://heylink.me/xautobotline"
+                        }
+                      }
+                    ],
+                    "position": "absolute",
+                    "margin": "lg",
+                    "width": "100%",
+                    "height": "40px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": []
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img5.pic.in.th/file/secure-sv1/430f0ddc181554f36f0f26017ee62653.png",
+                            "position": "absolute",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "animated": true,
+                            "offsetTop": "-50px",
+                            "aspectRatio": "3:9"
+                          }
+                        ],
+                        "position": "absolute",
+                        "width": "300px",
+                        "height": "500px"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/30214ec4a8f02d206.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_PG"
+                        },
+                        "position": "absolute",
+                        "height": "90px",
+                        "offsetStart": "10px",
+                        "offsetTop": "10px",
+                        "width": "90px"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/269c57eb8373230ec.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "10px",
+                        "offsetStart": "108px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_PP"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img5.pic.in.th/file/secure-sv1/1ebd352e676411521.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "10px",
+                        "offsetStart": "205px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_JK"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/531cd1197449196dd.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "105px",
+                        "offsetStart": "10px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_MG"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img5.pic.in.th/file/secure-sv1/43c4dbc68e12917ba.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "105px",
+                        "offsetStart": "108px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_JL"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img5.pic.in.th/file/secure-sv1/6922d0165fb236ba0.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "105px",
+                        "offsetStart": "205px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_SN"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img5.pic.in.th/file/secure-sv1/955eb0e6e56ed2303.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "200px",
+                        "offsetStart": "205px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_AMB"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/1138e74e1a54c836c3.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "200px",
+                        "offsetStart": "108px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_NL"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/2293131a7638f05890.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "200px",
+                        "offsetStart": "10px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_NE"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://i.postimg.cc/RCc8X9fz/HK.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "295px",
+                        "offsetStart": "108px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_HK"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://i.postimg.cc/gjP7mtC5/DG.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "295px",
+                        "offsetStart": "10px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_DGG"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://i.postimg.cc/BbcV6csv/GO.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "295px",
+                        "offsetStart": "205px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_GO"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://i.postimg.cc/BnvVSKzq/SR.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "390px",
+                        "offsetStart": "108px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_RY"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://i.postimg.cc/J4xFCqP6/OP.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "390px",
+                        "offsetStart": "10px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_OP"
+                        }
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://i.postimg.cc/PrT77czv/R88.png",
+                            "position": "absolute",
+                            "size": "85px"
+                          }
+                        ],
+                        "position": "absolute",
+                        "height": "90px",
+                        "width": "90px",
+                        "offsetTop": "390px",
+                        "offsetStart": "205px",
+                        "paddingAll": "none",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/BONUSTIME_R88"
+                        }
+                      }
+                    ],
+                    "paddingTop": "none",
+                    "paddingBottom": "none",
+                    "paddingStart": "none",
+                    "paddingEnd": "none",
+                    "height": "500px",
+                    "maxWidth": "300px"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "paddingTop": "none",
+        "paddingBottom": "none",
+        "paddingStart": "none",
+        "paddingEnd": "none",
+        "height": "540px",
+        "maxWidth": "300px"
+      },
+      "styles": {
+        "hero": {
+          "backgroundColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/fcac8f71acee2c813724974c73dcccb9.png",
+                        "aspectMode": "cover",
+                        "position": "relative",
+                        "size": "full"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img2.pic.in.th/pic/Logo_menu3812529684744e5e.png",
+                                "position": "absolute",
+                                "size": "full",
+                                "aspectRatio": "80:30"
+                              }
+                            ],
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_PG"
+                            },
+                            "position": "relative"
+                          },
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/register_button.gif",
+                            "gravity": "center",
+                            "offsetStart": "1px",
+                            "size": "full",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://heylink.me/xautobotline"
+                            }
+                          },
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/2login_button-joker89-1.gif",
+                            "offsetEnd": "xs",
+                            "gravity": "center",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://heylink.me/xautobotline"
+                            }
+                          }
+                        ],
+                        "position": "absolute",
+                        "width": "100%",
+                        "height": "40px",
+                        "margin": "lg"
+                      }
+                    ],
+                    "position": "relative",
+                    "height": "40px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img5.pic.in.th/file/secure-sv1/430f0ddc181554f36f0f26017ee62653.png",
+                                "position": "absolute",
+                                "size": "full",
+                                "aspectRatio": "3:6",
+                                "aspectMode": "cover",
+                                "animated": true,
+                                "offsetTop": "-50px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "width": "300px",
+                            "height": "530px"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img2.pic.in.th/pic/AMBS.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_AMBS"
+                            },
+                            "position": "absolute",
+                            "height": "90px",
+                            "offsetStart": "10px",
+                            "offsetTop": "10px",
+                            "width": "90px"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img5.pic.in.th/file/secure-sv1/CQ92de0fb8d465e6c92.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "10px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_CQ9"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img2.pic.in.th/pic/EVOb467d713274e870d.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "10px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_EVO"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img2.pic.in.th/pic/RTG.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "105px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_RTG"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img5.pic.in.th/file/secure-sv1/HBE.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "105px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_HBE"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img2.pic.in.th/pic/FKG.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "105px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_FKG"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img2.pic.in.th/pic/SMP.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "200px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_SMP"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img5.pic.in.th/file/secure-sv1/SXO.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "200px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_SXO"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img5.pic.in.th/file/secure-sv1/YGG.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "200px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_YGG"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/MKchV4wC/ambg.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "295px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_AMBG"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/nc6NkkcC/amp.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "295px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_AMP"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/25YMpSWY/NS.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "295px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_NS"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/DzcD73QX/K9.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "390px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_K9"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/y8ctrZkn/KAGM.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "390px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_KAGM"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/Y9qP9D8y/SPG.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "390px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_SPG"
+                            }
+                          }
+                        ],
+                        "paddingTop": "none",
+                        "paddingBottom": "none",
+                        "paddingStart": "none",
+                        "paddingEnd": "none",
+                        "height": "500px",
+                        "backgroundColor": "#545454",
+                        "maxWidth": "300px"
+                      }
+                    ]
+                  }
+                ],
+                "paddingTop": "none",
+                "paddingBottom": "none",
+                "paddingStart": "none",
+                "paddingEnd": "none",
+                "height": "540px",
+                "backgroundColor": "#545454",
+                "maxWidth": "300px"
+              }
+            ]
+          }
+        ],
+        "paddingTop": "none",
+        "paddingBottom": "none",
+        "paddingStart": "none",
+        "paddingEnd": "none",
+        "height": "340px",
+        "backgroundColor": "#545454",
+        "maxWidth": "300px"
+      },
+      "styles": {
+        "hero": {
+          "backgroundColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/fcac8f71acee2c813724974c73dcccb9.png",
+                        "aspectMode": "cover",
+                        "position": "relative",
+                        "size": "full"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img2.pic.in.th/pic/Logo_menu3812529684744e5e.png",
+                                "position": "absolute",
+                                "size": "full",
+                                "aspectRatio": "80:30"
+                              }
+                            ],
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_PG"
+                            },
+                            "position": "relative"
+                          },
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/register_button.gif",
+                            "gravity": "center",
+                            "offsetStart": "1px",
+                            "size": "full",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://heylink.me/xautobotline"
+                            }
+                          },
+                          {
+                            "type": "image",
+                            "url": "https://img2.pic.in.th/pic/2login_button-joker89-1.gif",
+                            "offsetEnd": "xs",
+                            "gravity": "center",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://heylink.me/xautobotline"
+                            }
+                          }
+                        ],
+                        "position": "absolute",
+                        "width": "100%",
+                        "height": "40px",
+                        "margin": "lg"
+                      }
+                    ],
+                    "position": "relative",
+                    "height": "40px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://img5.pic.in.th/file/secure-sv1/430f0ddc181554f36f0f26017ee62653.png",
+                                "position": "absolute",
+                                "size": "full",
+                                "aspectRatio": "3:6",
+                                "aspectMode": "cover",
+                                "animated": true,
+                                "offsetTop": "-50px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "width": "300px",
+                            "height": "530px"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/SNqVHWrh/5G.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_G5"
+                            },
+                            "position": "absolute",
+                            "height": "90px",
+                            "offsetStart": "10px",
+                            "offsetTop": "10px",
+                            "width": "90px"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/t44k4pwv/ACE333.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "10px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_ACE333"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/25P7Gv6g/ADP.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "10px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_ADP"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/DwpgWRKv/BTG.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "105px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_BTG"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/MGcY1tWy/EXPS.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "105px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_EXPS"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/Qt1kytKC/GDY.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "105px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_GDY"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/yxTh7bPz/MNP.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "200px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_MNP"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/ZYPxPWhD/ODG.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "200px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_ODG"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/m2bNmTLZ/SW.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "200px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_SW"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/L6Nk7G5t/WMS.png1",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "295px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_WMS"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/Qt8GtM9z/BPS.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "295px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_BPS"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/FKgXNSRc/EDPN.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "295px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_EDPN"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/mrGWvjbB/I8.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "390px",
+                            "offsetStart": "108px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_I8"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/Cx8VrXpc/SBOS.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "390px",
+                            "offsetStart": "10px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_SBOS"
+                            }
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://i.postimg.cc/wTZpVHZt/YGR.png",
+                                "position": "absolute",
+                                "size": "85px"
+                              }
+                            ],
+                            "position": "absolute",
+                            "height": "90px",
+                            "width": "90px",
+                            "offsetTop": "390px",
+                            "offsetStart": "205px",
+                            "paddingAll": "none",
+                            "action": {
+                              "type": "message",
+                              "label": "action",
+                              "text": "/BONUSTIME_YGR"
+                            }
+                          }
+                        ],
+                        "paddingTop": "none",
+                        "paddingBottom": "none",
+                        "paddingStart": "none",
+                        "paddingEnd": "none",
+                        "height": "500px",
+                        "backgroundColor": "#545454",
+                        "maxWidth": "300px"
+                      }
+                    ]
+                  }
+                ],
+                "paddingTop": "none",
+                "paddingBottom": "none",
+                "paddingStart": "none",
+                "paddingEnd": "none",
+                "height": "540px",
+                "backgroundColor": "#545454",
+                "maxWidth": "300px"
+              }
+            ]
+          }
+        ],
+        "paddingTop": "none",
+        "paddingBottom": "none",
+        "paddingStart": "none",
+        "paddingEnd": "none",
+        "height": "340px",
+        "backgroundColor": "#545454",
+        "maxWidth": "300px"
+      },
+      "styles": {
+        "hero": {
+          "backgroundColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "aspectMode": "cover",
+                    "position": "relative",
+                    "size": "full",
+                    "url": "https://img5.pic.in.th/file/secure-sv1/fcac8f71acee2c813724974c73dcccb9.png"
+                  }
+                ],
+                "height": "40px"
+              },
+              {
+                "type": "image",
+                "url": "https://i.postimg.cc/15gQ0Fs0/1742191510026.webp",
+                "size": "full",
+                "aspectRatio": "3:1",
+                "backgroundColor": "#101010",
+                "animated": true,
+                "align": "start"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img2.pic.in.th/pic/Logo_menu3812529684744e5e.png",
+                        "position": "absolute",
+                        "size": "full",
+                        "aspectRatio": "80:30"
+                      }
+                    ],
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_PG"
+                    },
+                    "position": "relative",
+                    "offsetStart": "10px"
+                  },
+                  {
+                    "type": "image",
+                    "url": "https://img2.pic.in.th/pic/register_button.gif",
+                    "gravity": "center",
+                    "offsetStart": "1px",
+                    "size": "full",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://heylink.me/xautobotline"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "url": "https://img2.pic.in.th/pic/2login_button-joker89-1.gif",
+                    "offsetEnd": "xs",
+                    "gravity": "center",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://heylink.me/xautobotline"
+                    }
+                  }
+                ],
+                "position": "absolute",
+                "margin": "lg",
+                "width": "100%",
+                "height": "40px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/430f0ddc181554f36f0f26017ee62653.png",
+                        "position": "absolute",
+                        "size": "full",
+                        "aspectRatio": "3:6",
+                        "aspectMode": "cover",
+                        "animated": true,
+                        "offsetTop": "-50px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "width": "300px",
+                    "height": "500px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/AG35121059b010475a.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_AG"
+                    },
+                    "position": "absolute",
+                    "height": "90px",
+                    "offsetStart": "10px",
+                    "offsetTop": "10px",
+                    "width": "90px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/SA.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "10px",
+                    "offsetStart": "108px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_SA"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/AEa29b395b4ed47143.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "10px",
+                    "offsetStart": "205px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_AE"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img2.pic.in.th/pic/WMdf753f11ed0309fe.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "105px",
+                    "offsetStart": "10px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_WM"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/BG34640a292bf52ef3.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "105px",
+                    "offsetStart": "108px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_BG"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img2.pic.in.th/pic/AB.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "105px",
+                    "offsetStart": "205px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_AB"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img2.pic.in.th/pic/MTe9587668d665b0ca.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "200px",
+                    "offsetStart": "205px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_MT"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img2.pic.in.th/pic/WRcede205fedc25732.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "200px",
+                    "offsetStart": "108px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_WR"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://img5.pic.in.th/file/secure-sv1/XPG.png",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "200px",
+                    "offsetStart": "10px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_XPG"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://lh3.googleusercontent.com/d/17TqSoU6cvAEiHQLSibKYlM1n9afQXhAa",
+                        "position": "absolute",
+                        "size": "85px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "height": "90px",
+                    "width": "90px",
+                    "offsetTop": "295px",
+                    "offsetStart": "10px",
+                    "paddingAll": "none",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "/BONUSTIME_CDG"
+                    }
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [],
+                    "height": "100px",
+                    "width": "280px",
+                    "offsetTop": "390px",
+                    "offsetStart": "10px",
+                    "paddingAll": "none"
+                  }
+                ],
+                "paddingTop": "none",
+                "paddingBottom": "none",
+                "paddingStart": "none",
+                "paddingEnd": "none",
+                "height": "500px",
+                "backgroundColor": "#545454",
+                "maxWidth": "300px",
+                "offsetTop": "-5px"
+              }
+            ]
+          }
+        ],
+        "paddingTop": "none",
+        "paddingBottom": "none",
+        "paddingStart": "none",
+        "paddingEnd": "none",
+        "height": "300px",
+        "backgroundColor": "#545454",
+        "maxWidth": "300px"
+      },
+      "styles": {
+        "hero": {
+          "backgroundColor": "#000000"
+        }
+      }
+    }
+  ]
+}

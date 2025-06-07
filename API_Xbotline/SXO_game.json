@@ -1,0 +1,141 @@
+[
+  { "name": "Silver Hand","image": "https://lh3.googleusercontent.com/d/155tR1WNbfRPefZGH09zWesw6x60c8Pze",
+"bg_image": "https://lh3.googleusercontent.com/d/1Nsk7Um2VSgteIz4XlNnseZB098F_elRm"
+,"bg_color": "#008f29", "bg1_color": "#099f34" },
+ 
+  { "name": "Pubg","image": "https://lh3.googleusercontent.com/d/1XNTM6-CDTYMIoEpNWNxs4hauaGaBGvIy",
+"bg_image": "https://lh3.googleusercontent.com/d/1_xotoREdntwA7K1udNbcKK_ZBnx1rGJa"
+,"bg_color": "#008f29", "bg1_color": "#099f34" },
+ 
+  { "name": "Buccaneer Deluxe","image": "https://lh3.googleusercontent.com/d/1xtYuRf61R-EJl8FlLhBc0V-b71zFA6pj",
+"bg_image": "https://lh3.googleusercontent.com/d/10DBxv41pnPaHGDV3t6dO9zh4x2tt9Yyv"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Roma Legacy","image": "https://lh3.googleusercontent.com/d/1kh2ZmEpr6V21d44L6vRe7nr7vXag_6oZ",
+"bg_image": "https://lh3.googleusercontent.com/d/1hWBk_t4ZHKWLS6jhaS_BHleaW4nXaqBN"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Wealth God","image": "https://lh3.googleusercontent.com/d/1NLxe5rcC3gQH_ySOL03WJLQmCkj8mckO",
+"bg_image": "https://lh3.googleusercontent.com/d/1IYNyx6FNXxezJx7gUkHpD3Y-vchRJKyP"
+,"bg_color": "#d51ef5", "bg1_color": "#dc39f9" },
+ 
+  { "name": "League Of Legends","image": "https://lh3.googleusercontent.com/d/1d1l41MqvoW3Xu1iR8qI4Lr1TIJVeeaxF",
+"bg_image": "https://lh3.googleusercontent.com/d/1Repq5edbz3yxulUPXVg9wp4cZcZdttGg"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Yakuza","image": "https://lh3.googleusercontent.com/d/1jwY6tyvvnynS-5cnKIoO_CD_tl9xcyvz",
+"bg_image": "https://lh3.googleusercontent.com/d/19lKFw2KWWjJZgABeKSdpMc1TWKwZsdvG"
+,"bg_color": "#d51ef5", "bg1_color": "#dc39f9" },
+ 
+  { "name": "Bali","image": "https://lh3.googleusercontent.com/d/1PjFR3hooAxcVncN847J2I5-DeD6jLzBr",
+"bg_image": "https://lh3.googleusercontent.com/d/1gJTpMfDV9_LQ2HJnuPEQEs1dTW0p4m1K"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Lightning God","image": "https://lh3.googleusercontent.com/d/1WbtKh1uQuc02uarMPQm_ZIFg3BHPdQBH",
+"bg_image": "https://lh3.googleusercontent.com/d/1YzRGVSlnHY4y9smzKjm5orKvNz4LxdD8"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Lucky Streak","image": "https://lh3.googleusercontent.com/d/1c8vhVFFBvJwBEN1X10Mj0B-HXKjB4oO7",
+"bg_image": "https://lh3.googleusercontent.com/d/1sswAQBFfk0gM7XknfZN9hoFuUqeQhWkC"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Lucky God Progressive 2","image": "https://lh3.googleusercontent.com/d/1V8_9j899X2JmgVTetY2Nn7Xjr5r9XafO",
+"bg_image": "https://lh3.googleusercontent.com/d/1BJXFR4YK6IHXLCJYLHwuRKDmqUyu6mN1"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Dragon Power Flame","image": "https://lh3.googleusercontent.com/d/14lT3H090Iu6pAqBJY94OPUGXkl8vV5-9",
+"bg_image": "https://lh3.googleusercontent.com/d/1AIFH8paTQzuH0ZqIaIpH0qCIwmUcLMhu"
+,"bg_color": "#2389ba", "bg1_color": "#329fd2" },
+ 
+  { "name": "Crypto Mania","image": "https://lh3.googleusercontent.com/d/1mNAKcSNNNuBadePc0og-gDBo6FuRIhjJ",
+"bg_image": "https://lh3.googleusercontent.com/d/1JEQGvMODj29FUDXAmvkppTw2khPPy1t1"
+,"bg_color": "#131519", "bg1_color": "#2c2f35" },
+ 
+  { "name": "Neptune Treasure","image": "https://lh3.googleusercontent.com/d/18mqj6bvOY_v-VwhGh4q8i1SN3AevRM9e",
+"bg_image": "https://lh3.googleusercontent.com/d/1BS3bCDHnNj0h6TARigEhJYH062RkCgW1"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Roma","image": "https://lh3.googleusercontent.com/d/14HK7u6dNesZi3woNu62NEB1tHfVjckAg",
+"bg_image": "https://lh3.googleusercontent.com/d/1rmoGbHHWkN9HiAkvlZMc5yknNa6GIGjN"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Bushido Blade","image": "https://lh3.googleusercontent.com/d/1_xDh0zej0wDKq8WJ1X9lQQKVXk8OCLlj",
+"bg_image": "https://lh3.googleusercontent.com/d/1P8X04dJOCIRNlxRTt0nQqRcj2NgNuH-W"
+,"bg_color": "#2389ba", "bg1_color": "#329fd2" },
+ 
+  { "name": "Thunder God","image": "https://lh3.googleusercontent.com/d/16i9f9GAjRViRzfA69kdfYVqJA7A9uQ4P",
+"bg_image": "https://lh3.googleusercontent.com/d/1Rmkpr0fldqpV0G6qfqLPDi4TPpnetQM7"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Golden Dragon","image": "https://lh3.googleusercontent.com/d/14NDFRp_Gn2UcD-Sk8jmdJO2WB-eYI5HJ",
+"bg_image": "https://lh3.googleusercontent.com/d/1yaSxqzLzgud0nBihRLH6FHiWzCw-lGec"
+,"bg_color": "#d51ef5", "bg1_color": "#dc39f9" },
+ 
+  { "name": "Zhao Cai Jin Bao","image": "https://lh3.googleusercontent.com/d/1gbEnpCa9lXM44BwByMGrfGFqW_h2-fW4",
+"bg_image": "https://lh3.googleusercontent.com/d/1LBlMjbAi9xB5IsGLg3kvSf7kqIhGM0FK"
+,"bg_color": "#d51ef5", "bg1_color": "#dc39f9" },
+ 
+  { "name": "Mulan","image": "https://lh3.googleusercontent.com/d/16IF9qZYQVMXyv6YT8ZB5Ncp1VIH15dU_",
+"bg_image": "https://lh3.googleusercontent.com/d/1P-KIwzrEWWpYEFMItqUldrYosHQdaBCU"
+,"bg_color": "#008f29", "bg1_color": "#099f34" },
+ 
+  { "name": "Supreme Caishen","image": "https://lh3.googleusercontent.com/d/1hVsJ8hVg7KYB9hz8Iku92fZl7wDW-V4R",
+"bg_image": "https://lh3.googleusercontent.com/d/1EZIFluGK5FfyUy8mEvUjrbPK8lndlbpL"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Respin Mania","image": "https://lh3.googleusercontent.com/d/1QhCTRDL7vp6Whe_VHrcqoxK_1u84UnEp",
+"bg_image": "https://lh3.googleusercontent.com/d/1MyHFX7icYr4vOHT8IJwwuClhtPW3JaiV"
+,"bg_color": "#d51ef5", "bg1_color": "#dc39f9" },
+ 
+  { "name": "Bagua","image": "https://lh3.googleusercontent.com/d/1tiqwDPIPlPIrm2XTiWKPYldaXzLQxsDu",
+"bg_image": "https://lh3.googleusercontent.com/d/1qyG6Q_fJbIqYtnHJkO5IrWkH2h2Ml4LM"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Mayan Gems","image": "https://lh3.googleusercontent.com/d/1aU0FFItzK_EMcdOZU2e0zAYs10hThdFx",
+"bg_image": "https://lh3.googleusercontent.com/d/1O_qFUcoBq7ak4kwkrVoGCOzpB_4-wNWR"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Horus Eye","image": "https://lh3.googleusercontent.com/d/1Fzr8PfsCNeCnhGCwJ2E_yilAHjJA4uoJ",
+"bg_image": "https://lh3.googleusercontent.com/d/1wdbHjpV2GxqtXfrJ5fLGkW12nGCJSdSK"
+,"bg_color": "#f64301", "bg1_color": "#fc581d" },
+ 
+  { "name": "Chilli Hunter","image": "https://lh3.googleusercontent.com/d/1-sb_0d92HQXYLuNP0EjcLpHJnkUq8Gfk",
+"bg_image": "https://lh3.googleusercontent.com/d/1J6IH0rWneGl_XHZhEmPlLWw02Zr4DAL7"
+,"bg_color": "#8cfd00", "bg1_color": "#98ff1a" },
+ 
+  { "name": "Beanstalk","image": "https://lh3.googleusercontent.com/d/157GofRfE5Zx6sZ-UD_TH-POEdVF0YOKa",
+"bg_image": "https://lh3.googleusercontent.com/d/1Aem2vRho6VFvp3vwjthgU_HSINRZ1epw"
+,"bg_color": "#f64301", "bg1_color": "#fc581d" },
+ 
+  { "name": "Fire Reign","image": "https://lh3.googleusercontent.com/d/1QQNSTTKMSBUMjvlghmHlDGJL3DRyOBvZ",
+"bg_image": "https://lh3.googleusercontent.com/d/1XBSr7Q4hAiVWDwnfoUqElbrKoJCbP1aj"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Wild Giant Panda","image": "https://lh3.googleusercontent.com/d/1abr7f9ZiUcv1ajFBgleNiznOL2sW7Pkx",
+"bg_image": "https://lh3.googleusercontent.com/d/1W00pwbAbRMMHNJafsohMhgL1WQBDvvRa"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Hot Fruits","image": "https://lh3.googleusercontent.com/d/1vTB8NdRt7bLpsye0zwT9bT42GWA76Jan",
+"bg_image": "https://lh3.googleusercontent.com/d/1I7v5mjLoVfnpYPrm8CzjtUheDLb7C78Q"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Black Beard Legacy","image": "https://lh3.googleusercontent.com/d/187NSNP6a9eXzJN9nZf077xANzFfssSxw",
+"bg_image": "https://lh3.googleusercontent.com/d/1NgvH-ePU3jppu9x9hdz4p3qV2QGhXA_d"
+,"bg_color": "#2389ba", "bg1_color": "#329fd2" },
+ 
+  { "name": "Lady Hawk","image": "https://lh3.googleusercontent.com/d/1qlDT02aG8-quv56_yuVdPKX5iaR8_XR8",
+"bg_image": "https://lh3.googleusercontent.com/d/19Bd1cDtEGbVwl19rSWLXWRKMszJzunGt"
+,"bg_color": "#ee1600", "bg1_color": "#fb2a13" },
+ 
+  { "name": "Sizzling Hot","image": "https://lh3.googleusercontent.com/d/1DiqJzRYOffGR96noZmlR3qN_9Q4E2R4d",
+"bg_image": "https://lh3.googleusercontent.com/d/1dflGEYdF8NVbKrSboWEHcUPk-lCulFhQ"
+,"bg_color": "#8cfd00", "bg1_color": "#98ff1a" },
+ 
+  { "name": "Safari Life","image": "https://lh3.googleusercontent.com/d/1hYkofu4r991syjebx6SYwXfDiJmLTnf1",
+"bg_image": "https://lh3.googleusercontent.com/d/11D4MErd1KGEb8-eaozK__IBGfHje1MdW"
+,"bg_color": "#10067b", "bg1_color": "#1a0f8f" },
+ 
+  { "name": "Caishen Riches","image": "https://lh3.googleusercontent.com/d/1gHSQpJRssnqA4nWGqJo3NMn6byH-FZM7",
+"bg_image": "https://lh3.googleusercontent.com/d/1AwjHzAcNsGotnDl7lZM-xsyyxb-AkX3f"
+,"bg_color": "#d51ef5", "bg1_color": "#dc39f9" }
+ ]

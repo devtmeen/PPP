@@ -1,0 +1,1088 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://heylink.me/xautobotline"
+        },
+        "url": "https://img5.pic.in.th/file/secure-sv1/1SMP.png",
+        "animated": true
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ตั้งแต่เวลา21:00 - 22:00 น.",
+                "weight": "bold",
+                "align": "end",
+                "color": "#ffffff",
+                "size": "20px",
+                "offsetTop": "-5px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/H103.png",
+                "size": "4xl",
+                "position": "relative",
+                "animated": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://heylink.me/xautobotline"
+                },
+                "offsetTop": "-85px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรสล็อตอัตราการชนะเกมจาก",
+                "weight": "bold",
+                "align": "center",
+                "color": "#ffffff",
+                "size": "sm",
+                "offsetTop": "-165px"
+              },
+              {
+                "type": "text",
+                "text": "ค่ายยอดฮิต สถิติจากลูกค้าเล่นจริงถอน",
+                "align": "center",
+                "color": "#ffffff",
+                "size": "sm",
+                "weight": "bold",
+                "offsetTop": "-165px"
+              },
+              {
+                "type": "text",
+                "text": "จริง เราการันตรีเล่นตาม ทำกำไรให้คุณ",
+                "weight": "bold",
+                "align": "center",
+                "color": "#ffffff",
+                "size": "sm",
+                "offsetTop": "-165px"
+              },
+              {
+                "type": "text",
+                "text": "ได้อย่างแน่นอน 100%",
+                "weight": "bold",
+                "align": "center",
+                "color": "#ffffff",
+                "size": "sm",
+                "offsetTop": "-165px"
+              }
+            ],
+            "paddingAll": "6px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [],
+            "offsetStart": "2px",
+            "offsetTop": "-2px"
+          },
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/register_button.gif",
+            "offsetTop": "115px",
+            "size": "xl",
+            "position": "absolute",
+            "offsetStart": "155px",
+            "animated": true,
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://heylink.me/xautobotline"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/2login_button-joker89-1.gif",
+            "offsetTop": "115px",
+            "size": "xl",
+            "position": "absolute",
+            "offsetStart": "15px",
+            "animated": true,
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://heylink.me/xautobotline"
+            }
+          }
+        ],
+        "backgroundColor": "#000000",
+        "height": "210px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://heylink.me/xautobotline"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/12n-Ztw8VX5q7dqqJNrG8P0ZxPbYZMeyp",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh3.googleusercontent.com/d/1nTw0go9_gZDy_44YFfxuOQsOs-ZDnLRM",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของเกม",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Zombie Hunter",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "size": "full",
+                    "animated": true,
+                    "aspectMode": "fit",
+                    "offsetTop": "none",
+                    "url": "https://img5.pic.in.th/file/secure-sv1/ezgif.com-effects-14.png",
+                    "aspectRatio": "2:1",
+                    "position": "absolute"
+                  }
+                ],
+                "width": "86.67%",
+                "height": "100%",
+                "cornerRadius": "xxl",
+                "borderWidth": "light",
+                "borderColor": "#363636"
+              },
+              {
+                "type": "text",
+                "text": "86.67%",
+                "color": "#000000",
+                "size": "md",
+                "offsetStart": "110px",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetBottom": "xs"
+              }
+            ],
+            "margin": "sm",
+            "height": "25px",
+            "cornerRadius": "xl",
+            "width": "260px",
+            "backgroundColor": "#3a3a3a",
+            "borderColor": "#3a3a3a",
+            "spacing": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "โอกาศชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "เข้าฟรีสปิน",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "none"
+              },
+              {
+                "type": "text",
+                "text": "ตัวคูณสูงสุด",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "86.67%",
+                "size": "md",
+                "color": "#ffffff",
+                "offsetEnd": "lg",
+                "weight": "bold",
+                "margin": "22px"
+              },
+              {
+                "type": "text",
+                "text": "19%",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "x17000",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "xs"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/simpleplayefd4802bb163adfb.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "50px",
+            "offsetStart": "-3px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "none",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "-15px"
+          }
+        ],
+        "backgroundColor": "#f64301",
+        "height": "210px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#f64301",
+          "endColor": "#fc581d",
+          "centerColor": "#f64301"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/1708-UpYakGLKdLO7RaXTWV0WbUl33mX_",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh3.googleusercontent.com/d/1fnYMjA3LBAy39m-L2hXFyXAKqxx-TcFr",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของเกม",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Pigsy",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "size": "full",
+                    "animated": true,
+                    "aspectMode": "fit",
+                    "offsetTop": "none",
+                    "url": "https://img5.pic.in.th/file/secure-sv1/ezgif.com-effects-14.png",
+                    "aspectRatio": "2:1",
+                    "position": "absolute"
+                  }
+                ],
+                "width": "76.19%",
+                "height": "100%",
+                "cornerRadius": "xxl",
+                "borderWidth": "light",
+                "borderColor": "#363636"
+              },
+              {
+                "type": "text",
+                "text": "76.19%",
+                "color": "#000000",
+                "size": "md",
+                "offsetStart": "110px",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetBottom": "xs"
+              }
+            ],
+            "margin": "sm",
+            "height": "25px",
+            "cornerRadius": "xl",
+            "width": "260px",
+            "backgroundColor": "#3a3a3a",
+            "borderColor": "#3a3a3a",
+            "spacing": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "โอกาศชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "เข้าฟรีสปิน",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "none"
+              },
+              {
+                "type": "text",
+                "text": "ตัวคูณสูงสุด",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "76.19%",
+                "size": "md",
+                "color": "#ffffff",
+                "offsetEnd": "lg",
+                "weight": "bold",
+                "margin": "22px"
+              },
+              {
+                "type": "text",
+                "text": "21%",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "x20000",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "xs"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/simpleplayefd4802bb163adfb.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "50px",
+            "offsetStart": "-3px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "none",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "-15px"
+          }
+        ],
+        "backgroundColor": "#2516c6",
+        "height": "210px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#2516c6",
+          "endColor": "#3223d7",
+          "centerColor": "#2516c6"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/12u5JrLmQIo-os5ZkAxZ7HQZa7KLJBoE8",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh3.googleusercontent.com/d/1HWPNhUczVe8N9s6RYtIJS0uycYwNXNz-",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของเกม",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Super 7",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "size": "full",
+                    "animated": true,
+                    "aspectMode": "fit",
+                    "offsetTop": "none",
+                    "url": "https://img5.pic.in.th/file/secure-sv1/ezgif.com-effects-14.png",
+                    "aspectRatio": "2:1",
+                    "position": "absolute"
+                  }
+                ],
+                "width": "72.29%",
+                "height": "100%",
+                "cornerRadius": "xxl",
+                "borderWidth": "light",
+                "borderColor": "#363636"
+              },
+              {
+                "type": "text",
+                "text": "72.29%",
+                "color": "#000000",
+                "size": "md",
+                "offsetStart": "110px",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetBottom": "xs"
+              }
+            ],
+            "margin": "sm",
+            "height": "25px",
+            "cornerRadius": "xl",
+            "width": "260px",
+            "backgroundColor": "#3a3a3a",
+            "borderColor": "#3a3a3a",
+            "spacing": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "โอกาศชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "เข้าฟรีสปิน",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "none"
+              },
+              {
+                "type": "text",
+                "text": "ตัวคูณสูงสุด",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "72.29%",
+                "size": "md",
+                "color": "#ffffff",
+                "offsetEnd": "lg",
+                "weight": "bold",
+                "margin": "22px"
+              },
+              {
+                "type": "text",
+                "text": "18%",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "x11000",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "xs"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/simpleplayefd4802bb163adfb.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "50px",
+            "offsetStart": "-3px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "none",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "-15px"
+          }
+        ],
+        "backgroundColor": "#ec0059",
+        "height": "210px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#ec0059",
+          "endColor": "#fd126c",
+          "centerColor": "#ec0059"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/d/1irPx88rZErUUR8vhtJiYTHNoXqyfQqVG",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://lh3.googleusercontent.com/d/1I1FYD1hYoAzrtGXsBNJwhOFoLEqPTaXb",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "อัตราการชนะของเกม",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "80px",
+                "offsetTop": "-2px",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "Cage Fight",
+                "size": "17px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "15px"
+              },
+              {
+                "type": "text",
+                "text": "สูตรมาจากสถิติลูกค้าเล่นจริง",
+                "size": "10px",
+                "color": "#ffffff",
+                "position": "absolute",
+                "offsetStart": "80px",
+                "offsetTop": "42px"
+              }
+            ],
+            "offsetStart": "-5px",
+            "offsetTop": "-10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "size": "full",
+                    "animated": true,
+                    "aspectMode": "fit",
+                    "offsetTop": "none",
+                    "url": "https://img5.pic.in.th/file/secure-sv1/ezgif.com-effects-14.png",
+                    "aspectRatio": "2:1",
+                    "position": "absolute"
+                  }
+                ],
+                "width": "76.01%",
+                "height": "100%",
+                "cornerRadius": "xxl",
+                "borderWidth": "light",
+                "borderColor": "#363636"
+              },
+              {
+                "type": "text",
+                "text": "76.01%",
+                "color": "#000000",
+                "size": "md",
+                "offsetStart": "110px",
+                "weight": "bold",
+                "position": "absolute",
+                "offsetBottom": "xs"
+              }
+            ],
+            "margin": "sm",
+            "height": "25px",
+            "cornerRadius": "xl",
+            "width": "260px",
+            "backgroundColor": "#3a3a3a",
+            "borderColor": "#3a3a3a",
+            "spacing": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "โอกาศชนะ",
+                "size": "10px",
+                "color": "#ffffff",
+                "offsetStart": "none",
+                "offsetTop": "none",
+                "margin": "10px"
+              },
+              {
+                "type": "text",
+                "text": "เข้าฟรีสปิน",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold",
+                "offsetStart": "none"
+              },
+              {
+                "type": "text",
+                "text": "ตัวคูณสูงสุด",
+                "size": "10px",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "76.01%",
+                "size": "md",
+                "color": "#ffffff",
+                "offsetEnd": "lg",
+                "weight": "bold",
+                "margin": "22px"
+              },
+              {
+                "type": "text",
+                "text": "28%",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "x1000",
+                "size": "md",
+                "color": "#ffffff",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "2px",
+            "offsetTop": "-2px",
+            "margin": "xs"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/simpleplayefd4802bb163adfb.webp",
+                "position": "absolute",
+                "size": "45px",
+                "offsetStart": "35px",
+                "offsetTop": "0px"
+              },
+              {
+                "type": "image",
+                "position": "absolute",
+                "size": "120px",
+                "url": "https://img5.pic.in.th/file/secure-sv1/sadvc.png",
+                "offsetStart": "100px",
+                "offsetTop": "-30px"
+              },
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Pngtreethailand-icon-circle_5144221c437c8106b7a102d4f1e4787a2f3d641.png",
+                "position": "absolute",
+                "offsetTop": "0px",
+                "size": "45px",
+                "offsetStart": "230px"
+              }
+            ],
+            "offsetTop": "150px",
+            "position": "absolute",
+            "width": "400px",
+            "height": "50px",
+            "offsetStart": "-3px"
+          },
+          {
+            "type": "text",
+            "text": "ใบรับรอง",
+            "size": "10px",
+            "margin": "30px",
+            "color": "#ffffff",
+            "offsetTop": "none",
+            "offsetStart": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รองรับภาษา",
+            "color": "#ffffff",
+            "size": "10px",
+            "offsetStart": "200px",
+            "offsetTop": "-15px"
+          }
+        ],
+        "backgroundColor": "#ee1600",
+        "height": "210px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "startColor": "#ee1600",
+          "endColor": "#fb2a13",
+          "centerColor": "#ee1600"
+        }
+      }
+    }
+  ],
+  "sender": {
+    "iconUrl": "https://video-public.canva.com/VAEQmJMm6R8/v/a372d097e3.gif",
+    "name": "เลขาธีม 😁"
+  },
+  "quickReply": {
+    "items": [
+      {
+        "type": "action",
+        "imageUrl": "https://video-public.canva.com/VADhwZBf_RY/v/0d1c3ca5c8.gif",
+        "action": {
+          "type": "uri",
+          "label": "ธีมทางการใหม่",
+          "uri": "https://line.me/R/shop/theme/showcase?id=new"
+        }
+      },
+      {
+        "type": "action",
+        "imageUrl": "https://media-public.canva.com/M7NGs/MAEwAnM7NGs/1/tl.png",
+        "action": {
+          "type": "uri",
+          "label": "สั่งซื้อ iton5",
+          "uri": "line://nv/profilePopup/mid=ufb9d34cac39cc328b9febede9f106341"
+        }
+      }
+    ]
+  }
+}

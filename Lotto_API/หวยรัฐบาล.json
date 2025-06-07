@@ -1,0 +1,385 @@
+{
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "วันศุกร์ 17/01/68",
+                                        "align": "end",
+                                        "size": "xxs",
+                                        "color": "#00a540"
+                                    }
+                                ],
+                                "margin": "none",
+                                "paddingAll": "none"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "image",
+                                        "url": "https://i.postimg.cc/Hkzq6ShQ/unnamed.png",
+                                        "size": "lg"
+                                    }
+                                ],
+                                "margin": "md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ผลรางวัลสลากกินแบ่งรัฐบาล",
+                                        "align": "center",
+                                        "size": "sm",
+                                        "color": "#ffffff"
+                                    }
+                                ],
+                                "margin": "none",
+                                "paddingAll": "xl"
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "รางวัลที่ 1",
+                                        "align": "center",
+                                        "size": "sm",
+                                        "color": "#ffffff"
+                                    }
+                                ],
+                                "paddingAll": "none",
+                                "margin": "md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/2.png",
+                                        "size": "xs"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/5.png",
+                                        "size": "xs"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/1.png",
+                                        "size": "xs"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/3.png",
+                                        "size": "xs"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/0.png",
+                                        "size": "xs"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/9.png",
+                                        "size": "xs"
+                                    }
+                                ],
+                                "paddingStart": "none",
+                                "paddingEnd": "none"
+                            }
+                        ]
+                    }
+                ],
+                "paddingTop": "xxl",
+                "paddingBottom": "none",
+                "paddingStart": "xxl",
+                "paddingEnd": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "เลขหน้า 3 ตัว",
+                                                "align": "center",
+                                                "size": "sm",
+                                                "color": "#ffffff"
+                                            }
+                                        ],
+                                        "margin": "none",
+                                        "paddingAll": "sm"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/1.png",
+                                        "size": "xs",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/0.png",
+                                        "size": "xs",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/9.png",
+                                        "size": "xs",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "filler",
+                                        "flex": 1
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/2.png",
+                                        "size": "xs",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/3.png",
+                                        "size": "xs",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/1.png",
+                                        "size": "xs",
+                                        "flex": 2
+                                    }
+                                ],
+                                "paddingStart": "none",
+                                "paddingEnd": "none"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "เลขท้าย 3 ตัว",
+                                                        "align": "center",
+                                                        "size": "sm",
+                                                        "color": "#ffffff"
+                                                    }
+                                                ],
+                                                "margin": "none",
+                                                "paddingAll": "sm"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/9.png",
+                                                "size": "xs",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/6.png",
+                                                "size": "xs",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/5.png",
+                                                "size": "xs",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "filler",
+                                                "flex": 1
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/6.png",
+                                                "size": "xs",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/3.png",
+                                                "size": "xs",
+                                                "flex": 2
+                                            },
+                                            {
+                                                "type": "image",
+                                                "url": "https://piggy.services/image/1.png",
+                                                "size": "xs",
+                                                "flex": 2
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "paddingEnd": "none"
+                                    }
+                                ],
+                                "offsetEnd": "none"
+                            }
+                        ],
+                        "flex": 4
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "เลขท้าย 2 ตัว",
+                                        "align": "center",
+                                        "size": "sm",
+                                        "color": "#ffffff"
+                                    }
+                                ],
+                                "margin": "none",
+                                "paddingAll": "sm",
+                                "justifyContent": "space-around"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/8.png",
+                                        "size": "xs"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/7.png",
+                                        "size": "xs",
+                                        "position": "relative"
+                                    }
+                                ],
+                                "paddingStart": "none",
+                                "paddingEnd": "none",
+                                "justifyContent": "space-around"
+                            }
+                        ],
+                        "justifyContent": "center",
+                        "flex": 3
+                    }
+                ],
+                "margin": "none",
+                "offsetTop": "none",
+                "offsetStart": "none",
+                "offsetEnd": "none",
+                "paddingStart": "lg",
+                "paddingEnd": "lg"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "md",
+                        "contents": [
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "เว็บแทงหวยที่ดีที่สุด",
+                                        "size": "xxs",
+                                        "color": "#999999"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "อ้างอิง : สมาคมสลากกินแบ่งโลก",
+                                        "size": "xxs",
+                                        "align": "end",
+                                        "color": "#999999"
+                                    }
+                                ],
+                                "margin": "lg"
+                            }
+                        ],
+                        "paddingAll": "none",
+                        "paddingTop": "none",
+                        "margin": "lg"
+                    }
+                ],
+                "paddingAll": "xxl",
+                "paddingTop": "none"
+            }
+        ],
+        "paddingAll": "none"
+    },
+    "styles": {
+        "hero": {
+            "backgroundColor": "#222222"
+        },
+        "body": {
+            "backgroundColor": "#222222"
+        },
+        "footer": {
+            "backgroundColor": "#222222"
+        }
+    }
+}

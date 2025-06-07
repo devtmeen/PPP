@@ -1,0 +1,141 @@
+[ 
+{ "name": "Disco Baby","image": "https://lh3.googleusercontent.com/d/1c_0idLPlH9TVmBoMrtgKXhHqGp20byFZ",
+"bg_image": "https://lh3.googleusercontent.com/d/1hdPP28cQrRdMAlNLUfZoKAkBMzD8telw"
+,"bg_color": "#58021f", "bg1_color": "#54031e" },
+ 
+  { "name": "Legend Of Aztec","image": "https://lh3.googleusercontent.com/d/1LF3VwZCnYNQNwwFLuNwwsiZ8CEuhg1zE",
+"bg_image": "https://lh3.googleusercontent.com/d/1DgYK4qewZkaLQld4cSFb2cqnzk0N0qig"
+,"bg_color": "#2d1b27", "bg1_color": "#301d29" },
+
+ 
+{ "name": "Almighty Zeus","image": "https://lh3.googleusercontent.com/d/1jS_uM3Z_sDowXwo-gv9FcAuvsa03tT4w",
+"bg_image": "https://lh3.googleusercontent.com/d/1rHFHF9E_wNgYVEqRxvhCvA_rfcHDxBv5"
+,"bg_color": "#f9e2d0", "bg1_color": "#efdccc" },
+ 
+  { "name": "Mahjong Gold","image": "https://lh3.googleusercontent.com/d/1llJCoYL9kyP2CwDByTxJtDPXFVuoPybi",
+"bg_image": "https://lh3.googleusercontent.com/d/1Ko3MLxyCD_HXl0qyuXcy2uvCLBuHceRX"
+,"bg_color": "#ee4701", "bg1_color": "#e24603" },
+
+ 
+{ "name": "Jalapeno","image": "https://lh3.googleusercontent.com/d/1yChDDrt-nNRtc1axHm_65ysh4M9Q-UCW",
+"bg_image": "https://lh3.googleusercontent.com/d/1PRN3OQ4QjcBQvc9REOoFfttrfLfnb6kL"
+,"bg_color": "#d2514a", "bg1_color": "#c8524c" },
+ 
+  { "name": "Slot Cup","image": "https://lh3.googleusercontent.com/d/1e26s7yLJQ4qGCdFbcrer4IXpHeTdpAop",
+"bg_image": "https://lh3.googleusercontent.com/d/11O6HLN45JYYQJazvf0WwdAs4xSbFoZeM"
+,"bg_color": "#0f245b", "bg1_color": "#0e255d" },
+
+ 
+{ "name": "Lady Sheriff","image": "https://lh3.googleusercontent.com/d/1LCQw67bNbywr1NZcxLD1R77oi3PW5v7L",
+"bg_image": "https://lh3.googleusercontent.com/d/1uCQ_WlYXGISIlJqJtXGkP14Hycqy0Ost"
+,"bg_color": "#d96d2d", "bg1_color": "#cf672a" },
+ 
+  { "name": "Journey To The West","image": "https://lh3.googleusercontent.com/d/1UR7OQ6I-ilXXdBpVjIzHzfKetReyuCMV",
+"bg_image": "https://lh3.googleusercontent.com/d/1tU8QY5lgtaOOWZ6sTaZzE7K0fJVDRCin"
+,"bg_color": "#ad521d", "bg1_color": "#aa5422" },
+
+ 
+{ "name": "Panda Paradise","image": "https://lh3.googleusercontent.com/d/1q5TUaqSLplBdgPtB1e9CkZGdu-N3cj4D",
+"bg_image": "https://lh3.googleusercontent.com/d/16_7QN3w7chkzTx18Rlvs5J1rTv5YiPxT"
+,"bg_color": "#165037", "bg1_color": "#144d34" },
+ 
+  { "name": "Golden Tree","image": "https://lh3.googleusercontent.com/d/17zM5mLORVe7qQcBGtb7Ksr59H3lmEdyn",
+"bg_image": "https://lh3.googleusercontent.com/d/1dih4xM9TlDyKd6SfK1YtWvcb_DPNL_M2"
+,"bg_color": "#facd00", "bg1_color": "#e1b905" },
+
+ 
+{ "name": "Maximum","image": "https://lh3.googleusercontent.com/d/1T-CmLjXquqbWCExHwiZyhO8BRsCsKWa4",
+"bg_image": "https://lh3.googleusercontent.com/d/1CcQ3RpeDve-tZmtnZ-EfqUWzk64gxGUg"
+,"bg_color": "#160b05", "bg1_color": "#28150b" },
+ 
+  { "name": "Magic Frog","image": "https://lh3.googleusercontent.com/d/1N5rbaOe8reDCm8u7k-hKOsbYnU1VEvJv",
+"bg_image": "https://lh3.googleusercontent.com/d/1PR9MXVJxrNm0DPTQRNIquZDwu9qK1azP"
+,"bg_color": "#aac264", "bg1_color": "#a6be60" },
+
+ 
+{ "name": "Indian Spirit","image": "https://lh3.googleusercontent.com/d/1Zsv35FjuFKYiSinbRY4M4_CgOf0qV-pY",
+"bg_image": "https://lh3.googleusercontent.com/d/1TFqGRqh5OgaZ8fv5wNjiFgJsN8rEAIRB"
+,"bg_color": "#e6ae7b", "bg1_color": "#dca979" },
+ 
+  { "name": "Atlantis","image": "https://lh3.googleusercontent.com/d/1wKSH6-EU3dRD-7z2Li0tGinXVcHBdrAy",
+"bg_image": "https://lh3.googleusercontent.com/d/1jFEq5apV3bDHr9v8iDqd7lE01NfF7IHs"
+,"bg_color": "#002b34", "bg1_color": "#02323b" },
+
+ 
+{ "name": "Four God Beasts","image": "https://lh3.googleusercontent.com/d/187edUbLdNYS-xOTDuELiTB4zUTKsP5fW",
+"bg_image": "https://lh3.googleusercontent.com/d/1ZCVs4AxfGmKLHIzaC9Te33j2plw7Swdb"
+,"bg_color": "#9d0e8a", "bg1_color": "#971186" },
+ 
+  { "name": "Space Blast","image": "https://lh3.googleusercontent.com/d/1QQItfWN8cP41K4pU9L8w2kZWfkiGQplq",
+"bg_image": "https://lh3.googleusercontent.com/d/1-2nYsFHQuZN-or0FOlUn8ihP4q78n20H"
+,"bg_color": "#3f67ad#", "bg1_color": "#3d62a4" },
+
+ 
+{ "name": "King Midas","image": "https://lh3.googleusercontent.com/d/1X1oSbN-h5n1TVVKJyv8tVHzuuAfoLzsw",
+"bg_image": "https://lh3.googleusercontent.com/d/1k-7c6badP0NCl8t7eClA9V4JP6G5tWGj"
+,"bg_color": "#000630", "bg1_color": "#02072c" },
+ 
+  { "name": "Fa Fa Spin","image": "https://lh3.googleusercontent.com/d/1ySpx0KbboojBazBeLjlOZSFaBZP49_q7",
+"bg_image": "https://lh3.googleusercontent.com/d/1GOD_1odptF03GGXzthQWzoeZYwTe5MCy"
+,"bg_color": "#cc0502", "bg1_color": "#c30704" },
+
+ 
+{ "name": "Songkran Holidays","image": "https://lh3.googleusercontent.com/d/12HFWCaSfqN27mTvpyC4FdrkiZ0gY5uEy",
+"bg_image": "https://lh3.googleusercontent.com/d/1i08gWpO8IxHyNtVKwFDBD7eijrfk4e4a"
+,"bg_color": "#c28556", "bg1_color": "#bc8357" },
+ 
+  { "name": "King Neptun","image": "https://lh3.googleusercontent.com/d/1fqBV6tx0gbWsFawdDe34E3DEdPKoZyAO",
+"bg_image": "https://lh3.googleusercontent.com/d/1qyTzGHUN9OITsnOgjZWzfHKkuGuiym1g"
+,"bg_color": "#7a2b62", "bg1_color": "#792a61" },
+
+ 
+{ "name": "Golden Pig","image": "https://lh3.googleusercontent.com/d/1CMFxzEk5N0ySAso3rvWLAW1Fvl5oAl4x",
+"bg_image": "https://lh3.googleusercontent.com/d/1mEosh2WlGBJiHGNhKqfzCX0rH4q867AS"
+,"bg_color": "#e67273", "bg1_color": "#db6b6d" },
+ 
+  { "name": "Emperor Qin","image": "https://lh3.googleusercontent.com/d/1RDpGhVZhxqKjZOI_6TrCR6eFXo9ii9bS",
+"bg_image": "https://lh3.googleusercontent.com/d/1g2YFaeDaWym27Cl4xtV-dOKFMJ6-enjB"
+,"bg_color": "#c47d69", "bg1_color": "#bf7763" },
+
+ 
+{ "name": "Gold Of Ra","image": "https://lh3.googleusercontent.com/d/1D8yk6fojQ8-l6sl-loSLLRm8zKB2jsym",
+"bg_image": "https://lh3.googleusercontent.com/d/1soT0Qg_n1s_dmYacmAvAG38iaKgvT5eO"
+,"bg_color": "#a84702", "bg1_color": "#a04503" },
+ 
+  { "name": "Dynamite Jack","image": "https://lh3.googleusercontent.com/d/16pUJgIqlYu6tFfZ6vS4o90npZb-pYpkY",
+"bg_image": "https://lh3.googleusercontent.com/d/1Z904OXqHaBcTD5xfGd8nRdhqFHZIArt0"
+,"bg_color": "#3c3736", "bg1_color": "#363130" },
+
+ 
+{ "name": "Bandit's bounty ","image": "https://lh3.googleusercontent.com/d/1rt08IWW5bjmnHZEEbxVzu69m_K_ax3gx",
+"bg_image": "https://lh3.googleusercontent.com/d/1dbMWj5XFN-tfoLciSLiN8hVh-V2Rutgv"
+,"bg_color": "#9d7d70", "bg1_color": "#9c7e73" },
+ 
+  { "name": "Lotus Luck","image": "https://lh3.googleusercontent.com/d/1RkMMZgRFQHN3CSXmgBhjStMlLUEnh1lr",
+"bg_image": "https://lh3.googleusercontent.com/d/1dNfGGC0YrdG_iw62rMvpqK6vy53bAuYA"
+,"bg_color": "#495565", "bg1_color": "#44505f" },
+
+ 
+{ "name": "Goodluck Hot Pot","image": "https://lh3.googleusercontent.com/d/14HYUKTZf5OxFYG31MpkOg1hSpMeWG9Gd",
+"bg_image": "https://lh3.googleusercontent.com/d/1DccN4hCDbn9TsdsNyzBxUabGu-zv3_0m"
+,"bg_color": "#ab3c0e", "bg1_color": "#a73e11" },
+ 
+  { "name": "Wily fox","image": "https://lh3.googleusercontent.com/d/1tTKSKTc13OIf8VImSj1amMjRgt3Q0Wnh",
+"bg_image": "https://lh3.googleusercontent.com/d/16ZsYC-qe-yy28Bo0E4-WCIfoJsN0ZG74"
+,"bg_color": "#bcba87", "bg1_color": "#b1b081" },
+
+ 
+{ "name": "SharkGo","image": "https://lh3.googleusercontent.com/d/1642N6HQuOwACBAzt72KnUb8U65ol--Eb",
+"bg_image": "https://lh3.googleusercontent.com/d/19XIkUAFhac8MaebTdDH9e8uKqcGuvf9Q"
+,"bg_color": "#053a62", "bg1_color": "#083c63" },
+ 
+  { "name": "Gold Toad","image": "https://lh3.googleusercontent.com/d/1DbvkYuQezebFHAVuTe8Xq9fgVztq9blj",
+"bg_image": "https://lh3.googleusercontent.com/d/1g5tqL-usqlxwbI3O8wMhnOI7dEFPAeYL"
+,"bg_color": "#e43c60", "bg1_color": "#de3b5e" },
+
+ 
+{ "name": "Lion Legend","image": "https://lh3.googleusercontent.com/d/1aYQOvbVyFrZEjFP5027YEiLvZIiOfcSB",
+"bg_image": "https://lh3.googleusercontent.com/d/1i5PyfTWTRDXr70bcLuwpAHw3isoUFFWy"
+,"bg_color": "#a41f0c", "bg1_color": "#a3200f" }
+
+ ]

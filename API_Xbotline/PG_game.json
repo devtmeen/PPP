@@ -1,0 +1,164 @@
+[
+    { "name": "Ninja Raccoon Frenzy", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/ninja-raccoon/app_icon_small@3x-de065e33.png", "bg_image": "https://lh3.googleusercontent.com/d/1cK7H2BiF639eZqLLH5_4lxtCd8J20cBu", "bg_color": "#ad01df", "bg1_color": "#bf1ef1" },
+
+    { "name": "Fortune Snake", "image": "https://lh3.googleusercontent.com/d/182y4FS4f9G8vR7-PmC0jaPhlppQ-zYMm", "bg_image": "https://lh3.googleusercontent.com/d/1XMwQzfPRLWVgKGWLDlHx74dAtDiIbrJw", "bg_color": "#f2276a", "bg1_color": "#c60c4a" },
+    { "name": "Geisha's Revenge", "image": "https://lh3.googleusercontent.com/d/1cMKDCpzXQ2I1JjLczW4LNaPScshq4d64", "bg_image": "https://lh3.googleusercontent.com/d/1Bg89lYRSjGXrGAJOtM50bVFnLon3yzm8", "bg_color": "#672ab2", "bg1_color": "#591da1" },
+    { "name": "Chocolate Deluxe", "image": "https://lh3.googleusercontent.com/d/14BlBI9XCIPZU-RjHGeEks66wuM3q2qiF", "bg_image": "https://lh3.googleusercontent.com/d/1W7fsnRp8Xe_S7FDVhK1iV0PmgprkBgTL", "bg_color": "#f23b26", "bg1_color": "#e9301c" },
+    { "name": "Rio Fantasia", "image": "https://lh3.googleusercontent.com/d/1z_TxXusUR9tmMAB7UqtDrlSX-32iSzKu", "bg_image": "https://lh3.googleusercontent.com/d/1m_VEn3gbkgRZqfqU0tJ46MYdyanefwyn", "bg_color": "#2b276d", "bg1_color": "#201d5c" },
+    { "name": "Museum Mystery", "image": "https://lh3.googleusercontent.com/d/1xNJLvNY1wLaUkHPtDjFHbuldhv6YZDkU", "bg_image": "https://lh3.googleusercontent.com/d/1e2r8iMSr-VG20hRmn45CgMiifhKoen_w", "bg_color": "#f2276a", "bg1_color": "#c60c4a" },
+    { "name": "Oishi Delights", "image": "https://lh3.googleusercontent.com/d/1ghcl7BbCZI9Ajgnpd5JtOZ0VwIPgF6TG", "bg_image": "https://lh3.googleusercontent.com/d/1x4YNdy3G6mBuT7YLamxeTQjM5xTyz088", "bg_color": "#f2276a", "bg1_color": "#c60c4a" },
+
+
+    { "name": "Wild Bounty Showdown", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/wild-bounty-sd/app_icon_small@3x-5b4f52b8.png", "bg_image": "https://lh3.googleusercontent.com/d/1siAKze2AIZF4d-TgYQX1bARcDL-U3Iq6", "bg_color": "#00b67d", "bg1_color": "#12ce93" },
+
+    { "name": "Midas Fortune", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/midas-fortune/app_icon_small@3x-c84e1a9e.png", "bg_image": "https://lh3.googleusercontent.com/d/1ipJ7-WXevowKCwZst31X1kQNepxMI33M", "bg_color": "#28680d", "bg1_color": "#388118" },
+
+    { "name": "Leprechaun Riches", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/60/app_icon_small@3x-8a19a680.png", "bg_image": "https://lh3.googleusercontent.com/d/1MxE20XR-LNJZTrpaM_bKgYmtgtoUhOoN", "bg_color": "#f80000", "bg1_color": "#fd1c1c" },
+
+    { "name": "Wild Bandito", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/104/app_icon_small@3x-f4729b69.png", "bg_image": "https://lh3.googleusercontent.com/d/1UVaU98QXmNd7Rqnjiy9EeP7tf4SaH0ZQ", "bg_color": "#28680d", "bg1_color": "#388118" },
+
+    { "name": "Gladiator's Glory", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/gladi-glory/app_icon_small@3x-05ded35d.png", "bg_image": "https://lh3.googleusercontent.com/d/1tiyd0jRV3hI6udlHImQ6SKUnvVeBAH7C", "bg_color": "#7002fb", "bg1_color": "#811efa" },
+  
+    { "name": "Spirited Wonders", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/119/app_icon_small@3x-e1030e10.png", "bg_image": "https://lh3.googleusercontent.com/d/1i7lApdc7pDedvdzu8XX3HkFMrcx0P5zx", "bg_color": "#00b67d", "bg1_color": "#12ce93" },
+  
+    { "name": "Battleground Royale", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/124/app_icon_small@3x-281f422d.png", "bg_image": "https://lh3.googleusercontent.com/d/1fXFqs2wFOgWMwXUmmtZbX1oAhMAcw85h", "bg_color": "#ad01df", "bg1_color": "#bf1ef1" },
+  
+    { "name": "Dragon Hatch 2 ", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/dragon-hatch2/app_icon_small@3x-82aad7d1.png", "bg_image": "https://lh3.googleusercontent.com/d/1eRiN4nd3HjOkIU20uLAsoisCRs54gJqd", "bg_color": "#b94e54", "bg1_color": "#cc666b" },
+  
+    { "name": "Legend of Perseus", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/legend-perseus/app_icon_small@3x-e280976c.png", "bg_image": "https://lh3.googleusercontent.com/d/1pYzgtItvsDLh8SckMnLmSbJPhozhP2hS", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+  
+    { "name": "Circus Delight", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/80/app_icon_small@3x-c118ee2c.png", "bg_image": "https://lh3.googleusercontent.com/d/1e3SseY2SOunUGs8VJ_cxAkxwhGQ5fPPH","bg_color": "#052de5", "bg1_color": "#1841f7" },
+  
+    { "name": "Rooster Rumble", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/123/app_icon_small@3x-bc94e39c.png", "bg_image": "https://lh3.googleusercontent.com/d/1O4gs78yR5l-5iTlJJ2xx3ZYbvpK0A3df", "bg_color": "#28680d", "bg1_color": "#388118" },
+  
+    { "name": "Journey To The Wealth", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/50/app_icon_small@3x-eff10237.png", "bg_image": "https://lh3.googleusercontent.com/d/1RhEKwE99n30ST7982NMzltwhtOJZuEme", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+  
+    { "name": "Shaolin Soccer", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/67/app_icon_small@3x-49ee0974.png", "bg_image": "https://lh3.googleusercontent.com/d/1P7y22TdzZJ88tO1EIXPzh0G2tiUh4vHE", "bg_color": "#f80000", "bg1_color": "#fd1c1c" },
+  
+    { "name": "Wild Bandito", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/104/app_icon_small@3x-f4729b69.png", "bg_image": "https://lh3.googleusercontent.com/d/1UVaU98QXmNd7Rqnjiy9EeP7tf4SaH0ZQ", "bg_color": "#28680d", "bg1_color": "#388118" },
+  
+    { "name": "Prosperity Fortune Tree", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/prosper-ftree/app_icon_small@3x-77e281f3.png", "bg_image": "https://lh3.googleusercontent.com/d/1bJeoVBSbutpTx6a51VJpm7s2lbCYqNNu", "bg_color": "#a002eb", "bg1_color": "#b213fb" },
+  
+    { "name": "Mask Carnival", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/118/app_icon_small@3x-35affbdc.png", "bg_image": "https://lh3.googleusercontent.com/d/1Eryv_E1HW1oKSbRWXDdhHrKaYN35kKDn", "bg_color": "#28680d", "bg1_color": "#388118" },
+  
+    { "name": "Songkran Splash", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/songkran-spl/app_icon_small@3x-56ef5f45.png", "bg_image": "https://lh3.googleusercontent.com/d/1dlrVeCBAIJjM6Ncar4dLXWHEs4e8xtfT", "bg_color": "#0068ff", "bg1_color": "#2b7ffd" },
+  
+    { "name": "Diner Delights", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/diner-delights/app_icon_small@3x-276d7e0c.png", "bg_image": "https://lh3.googleusercontent.com/d/1ziP1MtD7-9_KJJKk7AGC5kKvHowPml9z", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+  
+    { "name": "Candy Bonanza", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/100/app_icon_small@3x-0fef06a8.png", "bg_image": "https://lh3.googleusercontent.com/d/1zRMFCteoq03j8rjZENpom6Mr6z-7n6d2", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+  
+    { "name": "Dragon Legend", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/29/app_icon_small@3x-b12b8303.png", "bg_image": "https://lh3.googleusercontent.com/d/16Rwcf9uW7S60r7WIaMSH-Ak80N9dzb_6", "bg_color": "#0068ff", "bg1_color": "#2b7ffd" },
+  
+    { "name": "Plushie Frenzy", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/25/app_icon_small@3x-b304681e.png", "bg_image": "https://lh3.googleusercontent.com/d/1MOJVDsCpgBROLyAcYF3ffaxsQQJMeADJ", "bg_color": "#ad01df", "bg1_color": "#bf1ef1" },
+  
+    { "name": "Reel Love", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/20/app_icon_small@3x-2c8b1f69.png", "bg_image": "https://lh3.googleusercontent.com/d/1Y9T5HeaNF4hT25lO-YAF8dEo5IgktasT", "bg_color": "#f80000", "bg1_color": "#fd1c1c" },
+  
+    { "name": "Fortune Ox", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/98/app_icon_small@3x-c2cc71cb.png", "bg_image": "https://lh3.googleusercontent.com/d/1mxbrFklvhPTDKKtDwa2I6SNoojl1H0ai", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+  
+    { "name": "Three Crazy Piggies", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/three-cz-pigs/app_icon_small@3x-efb4dce0.webp", "bg_image": "https://lh3.googleusercontent.com/d/1MWItfQKR7ZnHRwgeaxE837rKRbIcKiuu", "bg_color": "#28680d", "bg1_color": "#388118" },
+  
+    { "name": "Wings of Iguazu", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/wings-iguazu/app_icon_small@3x-3752f456.webp", "bg_image": "https://lh3.googleusercontent.com/d/1_C2THs8ao8RFYiTc6qvi_b-aDv-T9OOI", "bg_color": "#035aa5", "bg1_color": "#0d69ba" },
+  
+    { "name": "Yakuza Honor", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/yakuza-honor/app_icon_small@3x-8beb4e40.webp", "bg_image": "https://lh3.googleusercontent.com/d/1QaWv5qXJx9X33YvNYMznAaCrBZ7RD7Ke", "bg_color": "#ab1b00", "bg1_color": "#bf280d" },
+  
+    { "name": "Shark Bounty", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/shark-bounty/app_icon_small@3x-58fea7b4.webp", "bg_image": "https://lh3.googleusercontent.com/d/1qnyRl2ue9GtGcReGp5-k1KZtrulwtcJH", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+  
+    { "name": "Futebol Fever", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/futebol-fever/app_icon_small@3x-e2e59111.webp", "bg_image": "https://lh3.googleusercontent.com/d/1IOhDkTiiCXrYfC4riJzk-ihPPG1VRWpk", "bg_color": "#28680d", "bg1_color": "#388118" },
+  
+    { "name": "Chicky Run", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/chicky-run/app_icon_small@3x-3aab2440.png", "bg_image": "https://lh3.googleusercontent.com/d/1KmBJYMpeSIRgo5vh-IlNDFITFENfFGmc", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+  
+    { "name": "Zombie Outbreak", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/zombie-outbrk/app_icon_small@3x-d680c977.webp", "bg_image": "https://lh3.googleusercontent.com/d/1cI7sZKBvfG4qkE1DbmRhn5Y5nMEYSqh1", "bg_color": "#f80000", "bg1_color": "#fd1c1c" },
+  
+    { "name": "Anubis Wrath", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/anubis-wrath/app_icon_small@3x-896b7aed.png", "bg_image": "https://lh3.googleusercontent.com/d/1TjAa-ve3Uwq78O9DQQlNWm1lbqeBjoIF", "bg_color": "#ab1b00", "bg1_color": "#bf280d" },
+    
+    { "name": "Pinata Wins", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/pinata-wins/app_icon_small@3x-67465c1e.png", "bg_image": "https://lh3.googleusercontent.com/d/1jZ1wVo1zInAcHuUTGxXNTp1t-hZTbrlK", "bg_color": "#28680d", "bg1_color": "#388118" },
+  
+    { "name": "Wild Ape", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/wild-ape-3258/app_icon_small@3x-df2d12ac.png", "bg_image": "https://lh3.googleusercontent.com/d/152P9ZWLVtJnW8asZyCIa2z7_AgPFok2S", "bg_color": "#e0b870", "bg1_color": "#f2cf8c" },
+  
+    { "name": "Cash Mania", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/cash-mania/app_icon_small@3x-fbc6adf6.png", "bg_image": "https://lh3.googleusercontent.com/d/1U3TIsNAzqP6kEYhvPH6egUrBNkeSkdUb", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+  
+    { "name": "Gemstones Gold", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/gemstones-gold/app_icon_small@3x-5b02ddf7.png", "bg_image": "https://lh3.googleusercontent.com/d/1_s_tRyMDOj48c4dU_-JPm6f0bX5jQii0", "bg_color": "#af3045", "bg1_color": "#c34157" },
+  
+    { "name": "Fortune Dragon", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/fortune-dragon/app_icon_small@3x-dc4d52fe.png", "bg_image": "https://lh3.googleusercontent.com/d/1j6scheeDOdHDZ5rrlV363Vr--wQV562I", "bg_color": "#d5ce02", "bg1_color": "#dbd50f" },
+  
+    { "name": "Werewolf's Hunt", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/werewolf-hunt/app_icon_small@3x-c8cc10a3.png", "bg_image": "https://lh3.googleusercontent.com/d/10XxKimvq6tveYmQ4PkkA8FNuRtG-q77j", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+  
+    { "name": "Tsar Treasures", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/tsar-treasures/app_icon_small@3x-cc7986db.png", "bg_image": "https://lh3.googleusercontent.com/d/1L88E6jgG2xM6X_5Eb3M9pWyAtEi_idCT", "bg_color": "#28680d", "bg1_color": "#388118" },
+  
+    { "name": "Bali Vacation", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/94/app_icon_small@3x-00633fdb.png", "bg_image": "https://lh3.googleusercontent.com/d/1aJ5W8XYbxL8FBzbNjmYVNbiIuYXv3v3F", "bg_color": "#00b67d", "bg1_color": "#12ce93" },
+  
+    { "name": "Medusa II", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/6/app_icon_small@3x-2f224355.png", "bg_image": "https://lh3.googleusercontent.com/d/1JpXMDb-fCHpy_3BTp7r_201L3rMSOZo8", "bg_color": "#f80000", "bg1_color": "#fd1c1c" },
+   
+    { "name": "Fortune Gods", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/3/app_icon_small@3x-1fcf1f40.png", "bg_image": "https://lh3.googleusercontent.com/d/1O3UskkEopesxR0oiyKIz-Gx4Jo5NeZnS", "bg_color": "#28680d", "bg1_color": "#388118" },
+    
+    { "name": "Hood vs Wolf", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/18/app_icon_small@3x-394ce800.png", "bg_image": "https://lh3.googleusercontent.com/d/1vFuPolcwZAGq9GYyKerin_i_m28mEXwi", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Buffalo Win", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/108/app_icon_small@3x-9bda58e3.png", "bg_image": "https://lh3.googleusercontent.com/d/1S810ywAv4PN9-VQ-NZuL7xVgPxWCMIvp", "bg_color": "#734794", "bg1_color": "#8256a4" },
+   
+    { "name": "Fruity Candy", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/fruity-candy/app_icon_small@3x-fdf04262.png", "bg_image": "https://lh3.googleusercontent.com/d/1wxrRk-S74Fj1Lsl6Usf-s18jacvA7U7u", "bg_color": "#007ed2", "bg1_color": "#0a88db" },
+   
+    { "name": "Legendary Monkey King", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/107/app_icon_small@3x-ab68c5cf.png", "bg_image": "https://lh3.googleusercontent.com/d/1vetUAE9Xmrj7Ji0rzS8uXdtfFpgM_UVR", "bg_color": "#6052c4", "bg1_color": "#7164d3" },
+   
+    { "name": "Flirting Scholar", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/61/app_icon_small@3x-3d69bbf5.png", "bg_image": "https://lh3.googleusercontent.com/d/19ihWr2ez-HKHemyjiiIWomrqx4hB5vOY", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Fortune Tiger", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/126/app_icon_small@3x-01a11d6e.png", "bg_image": "https://lh3.googleusercontent.com/d/12My8oapV2gSjlnIR5PCuwwt7-6Eik84A", "bg_color": "#28680d", "bg1_color": "#388118" },
+   
+    { "name": "Fortune Mouse", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/68/app_icon_small@3x-d6b36ce6.png", "bg_image": "https://lh3.googleusercontent.com/d/1arI-B88kMCxU-CDpU1i6FAYay-Ch0cHt", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Gem Saviour", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/2/app_icon_small@3x-9f7c82a5.png", "bg_image": "https://lh3.googleusercontent.com/d/1xnAdWI0UlwH4_YZp34x6vzcTxEErUO_W", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Mahjong Ways 2", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/74/app_icon_small@3x-208be8ea.png", "bg_image": "https://lh3.googleusercontent.com/d/1vRFNHXzNtxsbjYMKDPX-0E0yYH5fDk6D", "bg_color": "#ad01df", "bg1_color": "#bf1ef1" },
+   
+    { "name": "Mahjong Ways", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/65/app_icon_small@3x-2014dac2.png", "bg_image": "https://lh3.googleusercontent.com/d/1vRFNHXzNtxsbjYMKDPX-0E0yYH5fDk6D", "bg_color": "#ad01df", "bg1_color": "#bf1ef1" },
+   
+    { "name": "Piggy Gold", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/39/app_icon_small@3x-c2d48a30.png", "bg_image": "https://lh3.googleusercontent.com/d/1eT3Digm9E7B8WvIuiBpnJ_bDnhLWKqJ7", "bg_color": "#2b1c83", "bg1_color": "#3b2b97" },
+   
+    { "name": "Medusa", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/7/app_icon_small@3x-c18d919a.png", "bg_image": "https://lh3.googleusercontent.com/d/1rStz_5vTHqho24F9vmaIHoLZxC56dVAz", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Mr. Hallow-Win", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/35/app_icon_small@3x-7abe0748.png", "bg_image": "https://lh3.googleusercontent.com/d/1jaYn89DSx8Q7m-GnywXLyVQV_sTz_K38", "bg_color": "#00b67d", "bg1_color": "#12ce93" },
+   
+    { "name": "Wild Fireworks", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/83/app_icon_small@3x-87b43a8a.png", "bg_image": "https://lh3.googleusercontent.com/d/17w57NKkg4NgjR-uaHaC_GAgqJan5DQmd", "bg_color": "#0181c2", "bg1_color": "#0f91d2" },
+   
+    { "name": "Jungle Delight", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/40/app_icon_small@3x-5609a19a.png", "bg_image": "https://lh3.googleusercontent.com/d/1rq1Na6CPwKmDfIodNjRkw9TnTi00HYeA", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Galactic Gems", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/86/app_icon_small@3x-b6814d30.png", "bg_image": "https://lh3.googleusercontent.com/d/164_xNegfaURTf_E-wHrlJaF4CttBbjPX", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+   
+    { "name": "Win Win Won", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/24/app_icon_small@3x-1ce2fe2c.png", "bg_image": "https://lh3.googleusercontent.com/d/17ZUlypHc8n45qvadBxRmGfWbgQ_1lAzP", "bg_color": "#f80000", "bg1_color": "#fd1c1c" },
+   
+    { "name": "Phoenix Rises", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/82/app_icon_small@3x-7d601e56.png", "bg_image": "https://lh3.googleusercontent.com/d/1E-N-Z7WQI1G-xqx70rAk7THLj1o-ZK4e", "bg_color": "#00b67d", "bg1_color": "#12ce93" },
+   
+    { "name": "Garuda Gems", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/122/app_icon_small@3x-3ed9de05.png", "bg_image": "https://lh3.googleusercontent.com/d/1hI4u4LWUjfGqXYzk9igaHNucibf4uFfY", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Wild Heist Cashout", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/wild-heist-co/app_icon_small@3x-722d88a9.png", "bg_image": "https://lh3.googleusercontent.com/d/1lbNWren7E0Cv2Wk-KiaP_rQzOgFCwSTx", "bg_color": "#f80000", "bg1_color": "#fd1c1c" },
+   
+    { "name": "Ninja vs Samurai", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/59/app_icon_small@3x-ffeabf60.png", "bg_image": "https://lh3.googleusercontent.com/d/1MNSeJE68BxyBtwyYuoIWeUlYal_Jqu0k", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Candy Burst", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/70/app_icon_small@3x-6e3dd021.png", "bg_image": "https://lh3.googleusercontent.com/d/1X66-Vsa9l4DdjZwDeiitGupOgc9tN_fZ", "bg_color": "#28680d", "bg1_color": "#388118" },
+   
+    { "name": "Mystical Spirits", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/myst-spirits/app_icon_small@3x-ed029b44.png", "bg_image": "https://lh3.googleusercontent.com/d/1QMYGw9COcE3rNQVO6Sb1S5HBS2B3624-", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Lucky Clover Lady", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/lucky-clover/app_icon_small@3x-5c1f67d1.png", "bg_image": "https://lh3.googleusercontent.com/d/1qTzPkx6rNt_tygXsg7NHKFGWMXRI2wHr", "bg_color": "#c51c21", "bg1_color": "#d1292f" },
+   
+    { "name": "Super Golf Drive", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/spr-golf-drive/app_icon_small@3x-bf0ff35e.png", "bg_image": "https://lh3.googleusercontent.com/d/1159JB0zWrNEdc7xizvkkKcuilAcI7hHr","bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Mafia Mayhem", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/mafia-mayhem/app_icon_small@3x-95689213.png", "bg_image": "https://lh3.googleusercontent.com/d/1mNC5OpflH_yPzs1frHBPT3yhW4qoGKDt", "bg_color": "#28680d", "bg1_color": "#388118" },
+   
+    { "name": "Forge of Wealth", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/forge-wealth/app_icon_small@3x-b7acf371.png", "bg_image": "https://lh3.googleusercontent.com/d/1BeOdS0O_Scm1RL8p8Q_ZJGmshAZhMPaX", "bg_color": "#aa04e2", "bg1_color": "#ba12f3" },
+   
+    { "name": "Cruise Royale", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/cruise-royale/app_icon_small@3x-fd48b848.png", "bg_image": "https://lh3.googleusercontent.com/d/1CxM9_vnxW-g6TJwKHoX2N9vYb-IvbRHh", "bg_color": "#eb4803", "bg1_color": "#fc601d" },
+   
+    { "name": "Supermarket Spree", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/115/app_icon_small@3x-45f37a89.png", "bg_image": "https://lh3.googleusercontent.com/d/1PC9T49x8xCpBi4j9LQvafLc-30BPFyrb", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Totem Wonders", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/totem-wonders/app_icon_small@3x-ab03d5d3.png", "bg_image": "https://lh3.googleusercontent.com/d/1XeIGKYeafKhhKtKCAQsGM0oV-8rROlbu", "bg_color": "#8e22f1", "bg1_color": "#a143f9" },
+   
+    { "name": "Fortune Rabbit", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/fortune-rabbit/app_icon_small@3x-518292a0.png", "bg_image": "https://lh3.googleusercontent.com/d/1M80EtsIgR01wjgfVzC0s9-N_AVnQk1z1", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Jack Frost's Winter", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/97/app_icon_small@3x-bec41b26.png", "bg_image": "https://lh3.googleusercontent.com/d/1phZEbMpYqClfmmfEUlq4wnGqYSinpYmR", "bg_color": "#8d01e6", "bg1_color": "#9f13f6" },
+   
+    { "name": "Alchemy Gold", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/alchemy-gold/app_icon_small@3x-ca45c037.png", "bg_image": "https://lh3.googleusercontent.com/d/1tpqtLM-_vVeH6vCIWMknBBVl00nQXZrG", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "Speed Winner", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/speed-winner/app_icon_small@3x-fdda4daa.png", "bg_image": "https://lh3.googleusercontent.com/d/1hj6HY8wl5kTRKmUQqFP68x6pU2KGndp1", "bg_color": "#052de5", "bg1_color": "#1841f7" },
+   
+    { "name": "The Great Icescape", "image": "https://public.pg-demo.com/pages/static/image/en/Small_Icon/53/app_icon_small@3x-9455d986.png", "bg_image": "https://lh3.googleusercontent.com/d/13c2-WG93ME5boWEOd-fqJaSEaTLpRFAA", "bg_color": "#eb4803", "bg1_color": "#fc601d" }
+  ]
+  

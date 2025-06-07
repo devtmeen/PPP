@@ -1,0 +1,123 @@
+[ 
+{ "name": "Candy Pop","image": "https://lh3.googleusercontent.com/d/1Qo5saecTn-J_avsCl_PGqorTagsaNdyU",
+"bg_image": "https://lh3.googleusercontent.com/d/1nxyMYAsx5MKX4dBqtxkG7Bf_gYph2w6k"
+,"bg_color": "#232b76", "bg1_color": "#1a2370" },
+ 
+  { "name": "Angry Bird","image": "https://lh3.googleusercontent.com/d/1HCuqFkZD3n4XywjZhIsFCuLnjUt3iHtq",
+"bg_image": "https://lh3.googleusercontent.com/d/1dROM0A2h3_J_NZmBI6zQQDvsBPgFmX2P"
+,"bg_color": "#831a77", "bg1_color": "#63125a" },
+
+ 
+{ "name": "Lucky Car","image": "https://lh3.googleusercontent.com/d/1gq3krobEkVEVZWA_QWNt5XlCozXst7Nb",
+"bg_image": "https://lh3.googleusercontent.com/d/1vuoYPMw9uuI6igTb_k77L5AJuOYNOSlt"
+,"bg_color": "#00f000", "bg1_color": "#009900" },
+ 
+  { "name": "Galaxy","image": "https://lh3.googleusercontent.com/d/1Hd0PovM5q8xC66tkqs1d1OIrIFegP8Fi",
+"bg_image": "https://lh3.googleusercontent.com/d/1ybeQzpq3WAi-iwgN-A6ygAS6c1-NZry4"
+,"bg_color": "#ff01ff", "bg1_color": "#b300b3" },
+
+ 
+{ "name": "Up Down","image": "https://lh3.googleusercontent.com/d/1jgpRovc58VGmh254UDKG7MrQTkOxRqPe",
+"bg_image": "https://lh3.googleusercontent.com/d/1IoPOA4UDefKjp4KIXSQqgZ4c2K0nSxXS"
+,"bg_color": "#ff01ff", "bg1_color": "#b300b3" },
+ 
+  { "name": "Count Sheep","image": "https://lh3.googleusercontent.com/d/1QCh2_Nlq4P2Nf60hSwTrKm-gJIbf5Rju",
+"bg_image": "https://lh3.googleusercontent.com/d/1aTrdtAaVunv6hcXc-EOZ5dfrS9L3-0Ha"
+,"bg_color": "#00f000", "bg1_color": "#009900" },
+
+ 
+{ "name": "Fruit Kong","image": "https://lh3.googleusercontent.com/d/1vAuI1yIIxfz8uL3cXcV9SYwy71-ROfCU",
+"bg_image": "https://lh3.googleusercontent.com/d/1fRlxI-NJgQvbYxBKZGOyZUYeAlJEbnqO"
+,"bg_color": "#2420f9", "bg1_color": "#110ec4" },
+ 
+  { "name": "Kill Virus","image": "https://lh3.googleusercontent.com/d/1yycTBKwDORxoZE9JRWEXN93AffwmObHG",
+"bg_image": "https://lh3.googleusercontent.com/d/15ShLHBqHY0-QZPt_NPiYOVxMimKt2pCi"
+,"bg_color": "#ff0101", "bg1_color": "#b80000" },
+
+ 
+{ "name": "Chiba","image": "https://lh3.googleusercontent.com/d/1SPDWF0ey4MkfimdDSYYxCaVYnBzbv5mp",
+"bg_image": "https://lh3.googleusercontent.com/d/1bGlbFN7_6OANsOJt2SL2FPPpjrckVnrh"
+,"bg_color": "#ff0101", "bg1_color": "#b80000" },
+ 
+  { "name": "Irish Luck","image": "https://lh3.googleusercontent.com/d/1craLmzT_lwqgNICWFQVAw5rNNMkk4LCp",
+"bg_image": "https://lh3.googleusercontent.com/d/1N-qu370hdER2xAfh8dqrB5Zqdn357m-A"
+,"bg_color": "#ff0101", "bg1_color": "#b80000" },
+
+ 
+{ "name": "Coin Master","image": "https://lh3.googleusercontent.com/d/1qycWnHR4ipQ47a0WTNKbfS8-jOe2OHjN",
+"bg_image": "https://lh3.googleusercontent.com/d/1uCrMzEvFgIwQZFo7azZp5XdIjtFk2TZh"
+,"bg_color": "#949ccb", "bg1_color": "#5f689b" },
+ 
+  { "name": "Hallowin","image": "https://lh3.googleusercontent.com/d/1IeSjSpb9Sy1lx6m9Tyr22PePH4BtJM6Z",
+"bg_image": "https://lh3.googleusercontent.com/d/1hIduqd-slOcccvQI2_uHZ6KTknjndkOi"
+,"bg_color": "#ff01ff", "bg1_color": "#b300b3" },
+
+ 
+{ "name": "Four Kings","image": "https://lh3.googleusercontent.com/d/16VYuwuCRfhLSP8qYOZWk6V9cCjnB4wk1",
+"bg_image": "https://lh3.googleusercontent.com/d/1dHoPtsx9KFeNDk1qvF20iYf9_6RVPiv7"
+,"bg_color": "#ff0101", "bg1_color": "#b80000" },
+ 
+  { "name": "Golden Frog","image": "https://lh3.googleusercontent.com/d/1Qlqor0LHd1nBGEDrQqlHPOn2AKJ3eDNh",
+"bg_image": "https://lh3.googleusercontent.com/d/1v4dVOq-NIICKSnmH_pD2ws9Piwz3fcxV"
+,"bg_color": "#f0ea02", "bg1_color": "#b3ad00" },
+
+ 
+{ "name": "Robinhood","image": "https://lh3.googleusercontent.com/d/1wyhvVsKeu40MHCTUx6mWw2skVvi6gJo2",
+"bg_image": "https://lh3.googleusercontent.com/d/1TRpjhXv68HnOgaen106uOF3t-B6QhXr0"
+,"bg_color": "#176ce3", "bg1_color": "#0b51b1" },
+ 
+  { "name": "Jump Or Die","image": "https://lh3.googleusercontent.com/d/1fon_Psxy0QQCFG6JMa2cHQhq_-CjJX9W",
+"bg_image": "https://lh3.googleusercontent.com/d/1oNZMLxAQX_dDSv_CNpRuWCwt8kubtJ8m"
+,"bg_color": "#0c0b09", "bg1_color": "#3c3934" },
+
+ 
+{ "name": "Zeus","image": "https://lh3.googleusercontent.com/d/1ClenaPIaIIYVqgV_FMbRxR27w-gGFvFq",
+"bg_image": "https://lh3.googleusercontent.com/d/1fECgN_qGNHYIHuAQDs8D4a-33mftGQiC"
+,"bg_color": "#0c0b09", "bg1_color": "#3c3934" },
+ 
+  { "name": "Aladin","image": "https://lh3.googleusercontent.com/d/1c-SIEfFnA_pdZs5XS_F4QAKW8MMG24QN",
+"bg_image": "https://lh3.googleusercontent.com/d/1Ogo-SMM4Im9X30Zf3pL_6fJqUnzqkQuP"
+,"bg_color": "#ff01ff", "bg1_color": "#b300b3" },
+
+ 
+{ "name": "Pirates Treasure","image": "https://lh3.googleusercontent.com/d/1RWL4lszNHAg8x-uXxw4TivPei8zran6X",
+"bg_image": "https://lh3.googleusercontent.com/d/1JgwVTr1kIOPkOUXeoBT8KkxrAiLnKych"
+,"bg_color": "#176ce3", "bg1_color": "#0b51b1" },
+ 
+  { "name": "Golden Dragon","image": "https://lh3.googleusercontent.com/d/1crVRKdyBtfqqMnxaAmZO3-3RBIBKx3mC",
+"bg_image": "https://lh3.googleusercontent.com/d/1X4SbCRHsd2kxEnE49ZbNsJys7Ifk6GuZ"
+,"bg_color": "#ff01ff", "bg1_color": "#b300b3" },
+
+ 
+{ "name": "Four Beasts","image": "https://lh3.googleusercontent.com/d/10fqGvHfHP0RDXg5iKnsRQT8FoiQWNdTY",
+"bg_image": "https://lh3.googleusercontent.com/d/1b8T8bd6KbNsHn7E33YsS4wRzT75DHWG-"
+,"bg_color": "#176ce3", "bg1_color": "#0b51b1" },
+ 
+  { "name": "Lunar","image": "https://lh3.googleusercontent.com/d/1ellPJikzTktBA9xxrN5C3syjnWvMDhh2",
+"bg_image": "https://lh3.googleusercontent.com/d/13_ugqAO0iLLL7knKQYkIQdjhle7rXF6w"
+,"bg_color": "#ff01ff", "bg1_color": "#b300b3" },
+
+ 
+{ "name": "Great Blue","image": "https://lh3.googleusercontent.com/d/1i__w4KmqPN-0hhIZOYsfjyHLW2wpDLgJ",
+"bg_image": "https://lh3.googleusercontent.com/d/18GlJbbmmTB1v_yg9vM1OVjyZjeE0wNO2"
+,"bg_color": "#007002", "bg1_color": "#014b02" },
+ 
+  { "name": "Santa","image": "https://lh3.googleusercontent.com/d/1nisTdTIcQQDt-pc9CzDzIykVdrOtFm0K",
+"bg_image": "https://lh3.googleusercontent.com/d/110NhlhlCgGgGWqk-Ze-RfzC8aD9AZ2i1"
+,"bg_color": "#007002", "bg1_color": "#014b02" },
+
+ 
+{ "name": "Lucky Panda","image": "https://lh3.googleusercontent.com/d/11ZwfvAxHEPWBudyRcT5r9vjJDT1hjnBp",
+"bg_image": "https://lh3.googleusercontent.com/d/1sAb16J5z7Yx-JbSeOTB02vcOJBqiDuDs"
+,"bg_color": "#007002", "bg1_color": "#014b02" },
+ 
+  { "name": "Crystal 7","image": "https://lh3.googleusercontent.com/d/1pPX4ss0pZcKLjTtI3vtk38ku7GObXO85",
+"bg_image": "https://lh3.googleusercontent.com/d/1nfBmQAFw1EsrneobXKx5H9UPM69in02e"
+,"bg_color": "#ff0101", "bg1_color": "#b80000" },
+
+ 
+{ "name": "Fu Xing Gao Zhao","image": "https://lh3.googleusercontent.com/d/15qDBVkkIJNZygDZpPU9dQNwcV8YSHxBx",
+"bg_image": "https://lh3.googleusercontent.com/d/1FFFncgWfR8f8ElUibJBLhoq5C-uFDlwQ"
+,"bg_color": "#3924b1", "bg1_color": "#3924b1" }
+
+ ]

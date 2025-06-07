@@ -1,0 +1,317 @@
+[
+    {
+      "name": "Much Richer",
+      "image": "https://lh3.googleusercontent.com/d/1CluNxSXNrGjIXAnx0h7OdM-UcxlmOy0l",
+      "bg_image": "https://lh3.googleusercontent.com/d/1Ks69Hsl_u_S49N9Ewxf9NA1l_ikHysfv",
+      "bg_color": "#ae0402",
+      "bg1_color": "#bf100d"
+    },
+    {
+      "name": "Fire Ball Blaze Phoenix",
+      "image": "https://lh3.googleusercontent.com/d/1s9pZfBEYKTad4uj9X_1nu3TplC29XXQC",
+      "bg_image": "https://lh3.googleusercontent.com/d/1nc-HuFs3c5DAhPXJIjTxz342ZML_jDu7",
+      "bg_color": "#7344b0",
+      "bg1_color": "#8557c1"
+    },
+    {
+      "name": "Midas Hand",
+      "image": "https://lh3.googleusercontent.com/d/1M7pARGHwvtErpiBhB7bjX0DIMUE3To4Y",
+      "bg_image": "https://lh3.googleusercontent.com/d/18ulscrCq2FHS-kRp0z9XhAlb8duNxtlw",
+      "bg_color": "#003ff6",
+      "bg1_color": "#1a53ff"
+    },
+    {
+      "name": "Dancing Samba",
+      "image": "https://lh3.googleusercontent.com/d/1jmrev_wzv9JCkSRnBLAHcEM9aUBOlf3G",
+      "bg_image": "https://lh3.googleusercontent.com/d/1upvUTZrHJHuPGd1FAwmCespO617uC2ck",
+      "bg_color": "#8f07dd",
+      "bg1_color": "#9e18ec"
+    },
+    {
+      "name": "Fortune Twins",
+      "image": "https://lh3.googleusercontent.com/d/1EXbccJSjbzuHBGQdRiUOG0ZgmHkN2lko",
+      "bg_image": "https://lh3.googleusercontent.com/d/1hPqmhLZ5JTQ8M9ozV17eTmh3Rz94UL-O",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Mahjong Win",
+      "image": "https://lh3.googleusercontent.com/d/1x1DwiOqAEbZSgtjV1226xOsT63ETvIfi",
+      "bg_image": "https://lh3.googleusercontent.com/d/1ArnsQNMFTy1ghnxRfvZXJvY6c61caOWP",
+      "bg_color": "#a6183e",
+      "bg1_color": "#b0274b"
+    },
+    {
+      "name": "Super Hoo Hey How",
+      "image": "https://lh3.googleusercontent.com/d/1PNERi-wJLxvNGENfo1QQIvAOV64SVUaV",
+      "bg_image": "https://lh3.googleusercontent.com/d/1YeNKAZwBeUuLT_WEDBKcrMQWb46CcxFl",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Party Night",
+      "image": "https://lh3.googleusercontent.com/d/1t-hjTmRdHJb26kzMMN8w67c8V0UUrwPk",
+      "bg_image": "https://lh3.googleusercontent.com/d/1z0LUgHAbE6aUjYT5u7rYzM6xNWkQ0mXs",
+      "bg_color": "#017d4b",
+      "bg1_color": "#0e905c"
+    },
+    {
+      "name": "Halloween Win",
+      "image": "https://lh3.googleusercontent.com/d/1dEH5naJHsmXUy6ASvEgkpiA2xIQrcfoD",
+      "bg_image": "https://lh3.googleusercontent.com/d/114578g-VmvJ8pFYAQnUe4MrO6ymFWXLg",
+      "bg_color": "#a8009d",
+      "bg1_color": "#b30fa8"
+    },
+    {
+      "name": "Grand Sheriff",
+      "image": "https://lh3.googleusercontent.com/d/1a-ToBv99669wUhp7N6VERE1Qs9_lDvYr",
+      "bg_image": "https://lh3.googleusercontent.com/d/132eVK6_F_co5_lZFcUHbmHMchGHUiQyU",
+      "bg_color": "#2520ba",
+      "bg1_color": "#3933d1"
+    },
+    {
+      "name": "Overlord & Concubine",
+      "image": "https://lh3.googleusercontent.com/d/1EpOM5-hHzd1U92vQOz1umOErMQz8HcnU",
+      "bg_image": "https://lh3.googleusercontent.com/d/1kqRFKsCCDI16HkQppW9qStgyneCor9bh",
+      "bg_color": "#a8009d",
+      "bg1_color": "#b30fa8"
+    },
+    {
+      "name": "Buffalo Burst",
+      "image": "https://lh3.googleusercontent.com/d/1g4TpBb5R85g3OSBEFHrpSNhjUDbFJcZK",
+      "bg_image": "https://lh3.googleusercontent.com/d/14pye1s5vUVgPBSWzJakx2YsZdQMxdoFt",
+      "bg_color": "#a8009d",
+      "bg1_color": "#b30fa8"
+    },
+    {
+      "name": "Bengal Tiger",
+      "image": "https://lh3.googleusercontent.com/d/17c1NQSJnpNylutN2zLaj1dDxhn5spUsT",
+      "bg_image": "https://lh3.googleusercontent.com/d/11WPaFNc1BLFd54ZA2fAUyuYf2gWmfJyY",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Diamond Mogul",
+      "image": "https://lh3.googleusercontent.com/d/1-iUD9BaA5mauciiLKnEMq2y_EgFBpTP7",
+      "bg_image": "https://lh3.googleusercontent.com/d/1bePf416U16jMnTKICsBEeI-OFa8UFwd4",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Over Dragon's Gate",
+      "image": "https://lh3.googleusercontent.com/d/1rA3gd93DS6mXJMfUncg9h7SScIOGKDMb",
+      "bg_image": "https://lh3.googleusercontent.com/d/1pO25vZqg6O07HPQAoYqZz1k_OX5EURGB",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Get Money",
+      "image": "https://lh3.googleusercontent.com/d/1dMaQNcp8M-n8dgDBETN-AczrpzTv7OiP",
+      "bg_image": "https://lh3.googleusercontent.com/d/1bG2c2V5p75T_ynkKCNEHew1tAFjMM2-8",
+      "bg_color": "#a8009d",
+      "bg1_color": "#b30fa8"
+    },
+    {
+      "name": "Great Lion",
+      "image": "https://lh3.googleusercontent.com/d/1oZncp68mZS5x2R31prb_WRTdDNQAoKmy",
+      "bg_image": "https://lh3.googleusercontent.com/d/1YBf5sn_D0gwbEvyPL2T3aErExuLR_KBj",
+      "bg_color": "#76027d",
+      "bg1_color": "#8f0e95"
+    },
+    {
+      "name": "Ultra Treasure",
+      "image": "https://lh3.googleusercontent.com/d/1qE1nfzXeujVLTgPouVgFhuGpM7NkG7HC",
+      "bg_image": "https://lh3.googleusercontent.com/d/1YkXNnJGydn8VgOgj9pWS2ElE3h0ofi9o",
+      "bg_color": "#76027d",
+      "bg1_color": "#8f0e95"
+    },
+    {
+      "name": "Caishen Coming",
+      "image": "https://lh3.googleusercontent.com/d/1j7keR3S_Cf3V4xF3Q4jpzTzA3ObFx6aj",
+      "bg_image": "https://lh3.googleusercontent.com/d/15yrCwPL8TEM7nB8g4DvZcJbUNE7PSwrR",
+      "bg_color": "#bc40c4",
+      "bg1_color": "#cc54d4"
+    },
+    {
+      "name": "Candy Dynasty",
+      "image": "https://lh3.googleusercontent.com/d/16DCw6qXGq1OOgI1U0w2_FNFx4jBazcer",
+      "bg_image": "https://lh3.googleusercontent.com/d/1hnG0tmbdWzDaKkvrGJUpGIYHufwf9lGt",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Rich Lion",
+      "image": "https://lh3.googleusercontent.com/d/1evrfP3O93dMYFNiMgPZc2y1vUwyIoUUa",
+      "bg_image": "https://lh3.googleusercontent.com/d/1TV7LHXGnBP-o1sVcwVqbm25ePqfwD27r",
+      "bg_color": "#934341",
+      "bg1_color": "#aa5755"
+    },
+    {
+      "name": "Monkey King",
+      "image": "https://lh3.googleusercontent.com/d/1ffcAWhX9eo_SjUiDOJVqF2VJEHjfMjjg",
+      "bg_image": "https://lh3.googleusercontent.com/d/1L8L2NDrKvN-YAge7XcDEsqVnB3uJkGoo",
+      "bg_color": "#9c0092",
+      "bg1_color": "#af0ea4"
+    },
+    {
+      "name": "Get High",
+      "image": "https://lh3.googleusercontent.com/d/1Mcb_fiDKZ8UgF1zrPPg9dZ2MNVxiiBpF",
+      "bg_image": "https://lh3.googleusercontent.com/d/1MjrHFXBdv5N-i-SFl-I-qKMZ_OkkBNcO",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Arab",
+      "image": "https://lh3.googleusercontent.com/d/1pN7PsZqUWefG0LCxfUi3UoggT-KDJiAm",
+      "bg_image": "https://lh3.googleusercontent.com/d/1Oaw5Z9A0D6cZSOwUw6YEWoxnBqddMCD-",
+      "bg_color": "#2828ac",
+      "bg1_color": "#3636ba"
+    },
+    {
+      "name": "Wolf Legend",
+      "image": "https://lh3.googleusercontent.com/d/12KK5gUHX-EVh01u1TZATpA8kRQ4Q9gxO",
+      "bg_image": "https://lh3.googleusercontent.com/d/1H9b-7sVYhQ8tfNTRg4NthxI5PUrudoBN",
+      "bg_color": "#2828ac",
+      "bg1_color": "#3636ba"
+    },
+    {
+      "name": "Zeus",
+      "image": "https://lh3.googleusercontent.com/d/15DzaXm3tJhxC59j4sEqJyW-OQHImZ8iD",
+      "bg_image": "https://lh3.googleusercontent.com/d/1_ACP4WFXpulVdL8mUfnIM4B3WPeQXaQJ",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Dracula",
+      "image": "https://lh3.googleusercontent.com/d/1BwNs7asccqHflRwnzkcnrZgMJDqpTSEY",
+      "bg_image": "https://lh3.googleusercontent.com/d/1KEKBblnd5MDAPFE2MLnHLN1Kb4DGeBNi",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Pirate King",
+      "image": "https://lh3.googleusercontent.com/d/1MCa7A7U6OwfnxICI1D6wTTOtwbdjB2iU",
+      "bg_image": "https://lh3.googleusercontent.com/d/1paNMRFxNfV3QvO7FcjBZ_v2Mw65aZk_E",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Alice",
+      "image": "https://lh3.googleusercontent.com/d/1yrfwBRal5GxzDjbPzFnSlINxtuDb_NXp",
+      "bg_image": "https://lh3.googleusercontent.com/d/1OFc1hTfYt98FuGUN4cHTxh_6sxf1sSKz",
+      "bg_color": "#9c0092",
+      "bg1_color": "#af0ea4"
+    },
+    {
+      "name": "T-Rex",
+      "image": "https://lh3.googleusercontent.com/d/1cK3gYAdZCwLhNoSmAwenA4ZNzPz4LV4E",
+      "bg_image": "https://lh3.googleusercontent.com/d/1V9PWzhmBNP3Hpoqau-_6Ws6YosvqwAG1",
+      "bg_color": "#9c0092",
+      "bg1_color": "#af0ea4"
+    },
+    {
+      "name": "Greatest Circus",
+      "image": "https://lh3.googleusercontent.com/d/1uy8mINZBb4xmIvS-ovWVS_jYYvkOuTyH",
+      "bg_image": "https://lh3.googleusercontent.com/d/1gXbAmPfRk5cfUfN22O1UEO7o4uWGF2dj",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Maya King",
+      "image": "https://lh3.googleusercontent.com/d/107S3-DiR8evDl9NQcBKsjBgIqQOOCsOA",
+      "bg_image": "https://lh3.googleusercontent.com/d/14o3g50-1NSdTTpmKAIVXBkA5uIOveiCE",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Rich Dragon",
+      "image": "https://lh3.googleusercontent.com/d/1sc3yYVTRI5UBiFVzQX-TFFwpyRjTJ5o8",
+      "bg_image": "https://lh3.googleusercontent.com/d/12T-S0pX1rD_HQnsPLSWFGMoZMG5yDuFF",
+      "bg_color": "#00918e",
+      "bg1_color": "#0da09e"
+    },
+    {
+      "name": "Fushen Coming",
+      "image": "https://lh3.googleusercontent.com/d/1PSL5P91llitcfnNHej6KjYYl3YXid0H_",
+      "bg_image": "https://lh3.googleusercontent.com/d/1d2NCs64E4edd8xOpWY126WNMshrdKaPJ",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Pandaria",
+      "image": "https://lh3.googleusercontent.com/d/148Cp8vbVkgv904PUSevzsWG8VGOefH3H",
+      "bg_image": "https://lh3.googleusercontent.com/d/1eeUCmFJn8shgnN1KfbxR89Fc4we71iQa",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Rich Now",
+      "image": "https://lh3.googleusercontent.com/d/1EMjH5KHqbCf9Pzj64goh6CYuy5Ln8wFg",
+      "bg_image": "https://lh3.googleusercontent.com/d/14X82vrF0xgukaSFHv7-Rab2icnAVZ_pG",
+      "bg_color": "#2828ac",
+      "bg1_color": "#3636ba"
+    },
+    {
+      "name": "777",
+      "image": "https://lh3.googleusercontent.com/d/1xLHg8d0_X3IO09seuJWnXLSyee-AWZgJ",
+      "bg_image": "https://lh3.googleusercontent.com/d/1IARiehqwcSVeigp72AQbd-IlBuSjoun9",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Triple Monkey",
+      "image": "https://lh3.googleusercontent.com/d/1ukM3RCR6jGRWryvntFs8ER5T5Zlq18RF",
+      "bg_image": "https://lh3.googleusercontent.com/d/1w6uERCpJXNVxKgBPeR1-gfjkMyqGZrLi",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Phoenix",
+      "image": "https://lh3.googleusercontent.com/d/1vsqJqx_95aU01NZonw9h1JDihM8xaPYx",
+      "bg_image": "https://lh3.googleusercontent.com/d/1rHP4eke3Qc-c86qE5uvX5UDZSej2py94",
+      "bg_color": "#9c0092",
+      "bg1_color": "#af0ea4"
+    },
+    {
+      "name": "Booming Gems",
+      "image": "https://lh3.googleusercontent.com/d/1GOU88lYOfQvevoaVcYu61kxFIJCUTmFR",
+      "bg_image": "https://lh3.googleusercontent.com/d/1zPUvkZDsWd6jE5AzcmuPMr58bvkUEiHs",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    },
+    {
+      "name": "Doggy Wealth",
+      "image": "https://lh3.googleusercontent.com/d/1byOm3_WPx1bszQbkQk1jcLfPLqOqKxA5",
+      "bg_image": "https://lh3.googleusercontent.com/d/1CEE7x75wlVsLmdOQl8rfi3neOcGn9rx3",
+      "bg_color": "#f20001",
+      "bg1_color": "#f81616"
+    },
+    {
+      "name": "Coin Cat",
+      "image": "https://lh3.googleusercontent.com/d/15godO43LDI9oJfcvjj9zwQiWhWHCEvPg",
+      "bg_image": "https://lh3.googleusercontent.com/d/1pceBRmZd0xR6u5zUudtdhQwlovLu_odE",
+      "bg_color": "#2828ac",
+      "bg1_color": "#3636ba"
+    },
+    {
+      "name": "Immortal Heroes",
+      "image": "https://lh3.googleusercontent.com/d/1fHo3seMtxyhsOqaufbw4a0sygqES5coR",
+      "bg_image": "https://lh3.googleusercontent.com/d/1kbfP96fSPX2Hst7RhLhNp2smMjtTgQuj",
+      "bg_color": "#9c0092",
+      "bg1_color": "#af0ea4"
+    },
+    {
+      "name": "Chef Lady",
+      "image": "https://lh3.googleusercontent.com/d/1ETm6d4vKG69z4VpR6YB9bHewpknOchxm",
+      "bg_image": "https://lh3.googleusercontent.com/d/1fnonXLzIX18rmTbwFgZ1fUZV09U-BHos",
+      "bg_color": "#2828ac",
+      "bg1_color": "#3636ba"
+    },
+    {
+      "name": "LU LING QI",
+      "image": "https://lh3.googleusercontent.com/d/1223NJTW6mSJIgh2WelEEzRH0Co7ha5Hq",
+      "bg_image": "https://lh3.googleusercontent.com/d/1F3Rxfy3lxc0baST_Au2m62uVFeyGCaGA",
+      "bg_color": "#009100",
+      "bg1_color": "#0aa40a"
+    }
+  ]

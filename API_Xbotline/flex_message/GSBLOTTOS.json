@@ -1,0 +1,136 @@
+{
+    "type": "bubble",
+    "hero": {
+        "type": "image",
+        "url": "https://i.postimg.cc/4xjV58cQ/LOTTO-5.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+            "type": "uri",
+            "uri": "https://line.me/"
+        },
+        "aspectRatio": "20:12"
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "หวยออมสิน",
+                "weight": "bold",
+                "size": "xl",
+                "align": "center",
+                "color": "#ffffff"
+            },
+            {
+                "type": "separator",
+                "margin": "md",
+                "color": "#ffffff"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "spacing": "sm",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "เลขเด็ด 3 ตัวบน",
+                                "size": "lg",
+                                "flex": 1,
+                                "weight": "bold",
+                                "color": "#ffffff"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "filler",
+                                        "flex": 2
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/1.png",
+                                        "flex": 5,
+                                        "size": "35px"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/4.png",
+                                        "flex": 5,
+                                        "size": "35px"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/3.png",
+                                        "flex": 5,
+                                        "size": "35px"
+                                    }
+                                ],
+                                "paddingEnd": "none",
+                                "paddingStart": "none",
+                                "width": "110px"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "spacing": "sm",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "เลขเด็ด 2 ตัวล่าง",
+                                "size": "lg",
+                                "flex": 1,
+                                "weight": "bold",
+                                "color": "#ffffff"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "filler",
+                                        "flex": 5
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/7.png",
+                                        "flex": 5,
+                                        "size": "35px"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "url": "https://piggy.services/image/9.png",
+                                        "flex": 5,
+                                        "size": "35px"
+                                    }
+                                ],
+                                "paddingEnd": "none",
+                                "paddingStart": "none",
+                                "width": "100px"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "backgroundColor": "#222222"
+    }
+}

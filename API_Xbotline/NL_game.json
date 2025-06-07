@@ -1,0 +1,83 @@
+[
+    { "name": "The Crypt","image": "https://lh3.googleusercontent.com/d/1jRX4X6aefoOT44boMZWhmI91scOHXfOJ",  "bg_image": "https://lh3.googleusercontent.com/d/1snKiy8VxNRCfkZkZphiIiNrD5Uh0MCKu",  "bg_color": "#651e3d", "bg1_color": "#792a4c" },
+
+    { "name": "Punk Rocker 2","image": "https://lh3.googleusercontent.com/d/1fctxuYUwkThsnyLO3ITsu-FhXFgz00bG",  "bg_image": "https://lh3.googleusercontent.com/d/1ItWkb-AAnNMsyNJUaEmddoQJYvwsUJPM",  "bg_color": "#0254c1", "bg1_color": "#0f63d2" },
+
+    { "name": "Tombstone Rip","image": "https://lh3.googleusercontent.com/d/19nnqEsU97hxvvdfRkZsPDU6s89on6CFz",  "bg_image": "https://lh3.googleusercontent.com/d/1AgOruxvZYBz8Z6fm6PmW9miuhu1x-IDw",  "bg_color": "#9d1c06", "bg1_color": "#ab2912" },
+
+    { "name": "Warrior Graveyard xNudge ","image": "https://lh3.googleusercontent.com/d/1b2Pry_3F6MGodMU0Qe6FmYn6yXsNbg8Z",  "bg_image": "https://lh3.googleusercontent.com/d/1PBkbVjejmuo3oETwuggOaQpBJ0a0Qsv6",  "bg_color": "#020000", "bg1_color": "#2a0e0e" },
+
+    { "name": "Apocalypse Super xNudge®","image": "https://lh3.googleusercontent.com/d/1x1nnyRtrJFad3RbZTQmADzr0aeNu-ZMK",  "bg_image": "https://lh3.googleusercontent.com/d/1aW1WtoBShMl-e89hDV5Xn6SG8OosGwV4",  "bg_color": "#304819", "bg1_color": "#3f5b24" },
+
+    { "name": "Deadwood R.I.P","image": "https://lh3.googleusercontent.com/d/1encoFambfOpkzD67wB1mDLAUfTy6cCTq",  "bg_image": "https://lh3.googleusercontent.com/d/1qzTXJhYumFxYf21DdUJUIvrTkB3MKjHp",  "bg_color": "#0254c1", "bg1_color": "#0f63d2" },
+
+    { "name": "Beheaded","image": "https://lh3.googleusercontent.com/d/1k24HYK1u81PHP5JwWXaTC1uM6RS0wVpW",  "bg_image": "https://lh3.googleusercontent.com/d/1-LK2EsKway1KUWarO4ghRVK-5m3aKtXe",  "bg_color": "#621938", "bg1_color": "#7c274b" },
+
+    { "name": "Fire in the Hole 2","image": "https://lh3.googleusercontent.com/d/1Yxpd4WI3fVW4_AQkKc4e7ixnr-3i2GJh",  "bg_image": "https://lh3.googleusercontent.com/d/1twa5ivgBvkdWl708fqPHKKQQJgD_Om8d",  "bg_color": "#7c1813", "bg1_color": "#8a241e" },
+
+    { "name": "Bushido Ways xNudge ","image": "https://lh3.googleusercontent.com/d/1XyE-KJqrfZdj8KBOjRtUV44FJ_WVtMPV",  "bg_image": "https://lh3.googleusercontent.com/d/1kHzWe57Yo2BpOFqSgPpPDFdbmbZS0zCS",  "bg_color": "#024c03", "bg1_color": "#085e09" },
+
+    { "name": "Deadwood xNudge","image": "https://lh3.googleusercontent.com/d/1o8C63y79yaxaefzIJCH1_YcpmJT3UFxR",  "bg_image": "https://lh3.googleusercontent.com/d/11bxY71ue6TBI649WQ5w-l2ugyyh14wbo",  "bg_color": "#e40100", "bg1_color": "#f80d0d" },
+
+    { "name": "Fire in the Hole xBomb ","image": "https://lh3.googleusercontent.com/d/1mpSGOcqUyfrT8EdqNAgeCl1e7PLcqK8M",  "bg_image": "https://lh3.googleusercontent.com/d/157AkCpBI0NBItf99YuXT2QnZjwQBOGLQ",  "bg_color": "#e40100", "bg1_color": "#f80d0d" },
+
+    { "name": "El Paso Gunfight xNudge ","image": "https://lh3.googleusercontent.com/d/1tRT6sGqh6LGMu4cfSWWKMLupE13tO-xR",  "bg_image": "https://lh3.googleusercontent.com/d/1KxnVlz8TF32LmX891ilE4FE65insMqIf",  "bg_color": "#0254c1", "bg1_color": "#0f63d2" },
+
+    { "name": "Mental","image": "https://lh3.googleusercontent.com/d/1-5Rjpbr-_70zYj1y3pEnjIt4aNojWNYf",  "bg_image": "https://lh3.googleusercontent.com/d/1s9mF_1HchAzve8OXuwW8RdDrYb9IkE2R",  "bg_color": "#024c03", "bg1_color": "#085e09" },
+
+    { "name": "Possessed","image": "https://lh3.googleusercontent.com/d/1NZf9f0rq29HJj3yizuyiNJgkV8UeLLlA",  "bg_image": "https://lh3.googleusercontent.com/d/15Z3xZQT3tD6iB7SK8-JMyneGs4e4h9mF",  "bg_color": "#0254c1", "bg1_color": "#0f63d2" },
+
+    { "name": "Legion X ","image": "https://lh3.googleusercontent.com/d/1kW-6azexdPJBxk8LlHF2Ftm8Eq2UOKx4",  "bg_image": "https://lh3.googleusercontent.com/d/106QiN_4avl3eGJbUWihmHoEJdw0ojU1O",  "bg_color": "#cc6e01", "bg1_color": "#e17f0e" },
+
+    { "name": "Tombstone: No Mercy","image": "https://lh3.googleusercontent.com/d/10duvk_28Y7PV7lFxQwhUFLKZYwKX5jjj",  "bg_image": "https://lh3.googleusercontent.com/d/1kswHII2Qp9CpnmQBR6f_xytCQ3IJrUfq",  "bg_color": "#5a01aa", "bg1_color": "#6e11c0" },
+
+    { "name": "Folsom Prison ","image": "https://lh3.googleusercontent.com/d/123Fr1XbsMA1X9llS_rHRHu-mFoNdB4_9",  "bg_image": "https://lh3.googleusercontent.com/d/1JBeQqJN6vPXnLPqhXw7TWEUR9tlqglBD",  "bg_color": "#a22308", "bg1_color": "#b33114" },
+
+    { "name": "Punk Toilet","image": "https://lh3.googleusercontent.com/d/11MzsIDglNa3MGvF_kzBxNRXfie9Blpkm",  "bg_image": "https://lh3.googleusercontent.com/d/1ulSIxCYPRF43JTzRJ-WzwYTvk3ooAdvS",  "bg_color": "#024c03", "bg1_color": "#085e09" },
+
+    { "name": "Road Rage ","image": "https://lh3.googleusercontent.com/d/1AEhQ8pcooeLxSn9nI4pyJXuepTRFcHRq",  "bg_image": "https://lh3.googleusercontent.com/d/1VFLHU2zWvYboilEHN0p3w6MzIQpDCL0M",  "bg_color": "#692445", "bg1_color": "#7a2e53" },
+
+    { "name": "San Quentin xWays","image": "https://lh3.googleusercontent.com/d/1JIaF4UJ78HIzfggNRo73Cu1fWgt6iqUE",  "bg_image": "https://lh3.googleusercontent.com/d/1E4UMSeMuXeO4BcXn1Gf4fzDMb9We_lZD",  "bg_color": "#650095", "bg1_color": "#750ca6" },
+
+    { "name": "Kenneth Must Die","image": "https://lh3.googleusercontent.com/d/1X85BwOzzRPYGdNGvC1d3Acl7WVBzc8RV",  "bg_image": "https://lh3.googleusercontent.com/d/1kKDsbTq8DoZJjb6zC3q0JOR8_P5G5w63",  "bg_color": "#024c03", "bg1_color": "#085e09" },
+
+    { "name": "Loner","image": "https://lh3.googleusercontent.com/d/1-rZOyfx5aJ-mbq6WPd3oWjaBDGzyJsJm",  "bg_image": "https://lh3.googleusercontent.com/d/19V_oUMJbnWqGLAnwhMfzKDfg6Dq8YF8r",  "bg_color": "#9c0092", "bg1_color": "#b110a7" },
+
+    { "name": "Outsourced","image": "https://lh3.googleusercontent.com/d/11BnGeRA4f3dErgeJlO0BV1TtBKyIhJfU",  "bg_image": "https://lh3.googleusercontent.com/d/1z0DXyIZGyP7gleoZQSMLlLWxKqRLo-Cj",  "bg_color": "#a22308", "bg1_color": "#b33114" },
+
+    { "name": "Stockholm Syndrome","image": "https://lh3.googleusercontent.com/d/1uTX-gY-sLGK22ueE3kLscJHbsH7tPdZy",  "bg_image": "https://lh3.googleusercontent.com/d/1iEKb7fBPmas7m-rzxU7S7mSAb0_aJPIi",  "bg_color": "#4e6e93", "bg1_color": "#6080a4" },
+
+    { "name": "D-Day","image": "https://lh3.googleusercontent.com/d/163LGhpIDuqx07CAgoheL54R7QwLBSCV3",  "bg_image": "https://lh3.googleusercontent.com/d/1hhfMtZFvJljQ3qhrNsDyTdPTayneF0iO",  "bg_color": "#a22308", "bg1_color": "#b33114" },
+
+    { "name": "Land Of The Free","image": "https://lh3.googleusercontent.com/d/1kfbaayDNHXOEoQn96Ml1nBdW_ZtfBZgZ",  "bg_image": "https://lh3.googleusercontent.com/d/189fiYyQev3GydAR2lNzOx-KzBts_9_O0",  "bg_color": "#a22308", "bg1_color": "#b33114" },
+
+    { "name": "Devil's Crossroad","image": "https://lh3.googleusercontent.com/d/1KYhYOzEbxIOE2q_F5tr_ucKz2AAxVevB",  "bg_image": "https://lh3.googleusercontent.com/d/1AnoJx6yRHUXl4lSN6nTufkMOCt9bT-Q8",  "bg_color": "#0254c1", "bg1_color": "#0f63d2" },
+
+    { "name": "Bounty Hunters","image": "https://lh3.googleusercontent.com/d/114lhZFp1VJBuXG0UVMDEj5rlrjVkIcVO",  "bg_image": "https://lh3.googleusercontent.com/d/1oRBaSCdDyMNAQq-Wnsr3lEb2D0PFJhP0",  "bg_color": "#6e243b", "bg1_color": "#7f344c" },
+
+    { "name": "Ugliest Catch","image": "https://lh3.googleusercontent.com/d/1TrujlU2f2qY0yPFDzXSmGVo_E42c2Rby",  "bg_image": "https://lh3.googleusercontent.com/d/1AGolnmGodz8NbtrToJVsQYFxwbjZlB1Y",  "bg_color": "#ca5427", "bg1_color": "#d56539" },
+
+    { "name": "Das xBoot ","image": "https://lh3.googleusercontent.com/d/1g4hHGk-R5XL1NSpMWLsb-2VyylfvYDOM",  "bg_image": "https://lh3.googleusercontent.com/d/1wBGBXQUun1p8ZrRZ5Z_6WDItnWPNgZwA",  "bg_color": "#01c1bc", "bg1_color": "#12cec8" },
+
+    { "name": "Serial","image": "https://lh3.googleusercontent.com/d/1iP-NOCDBd7QoB0nDZX4P_Vv1BxzvwFVK",  "bg_image": "https://lh3.googleusercontent.com/d/1a2qo1ZEZRBr2Ua4zzF7UChRYKqb_ERHZ",  "bg_color": "#a22308", "bg1_color": "#b33114" },
+
+    { "name": "Disturbed","image": "https://lh3.googleusercontent.com/d/1s6zc0Ej7sU6Yr1f35t4wT5ayqECgzWvq",  "bg_image": "https://lh3.googleusercontent.com/d/1ttTZUtEHpXvdqc-1Lce8JB3f2U13NnCQ",  "bg_color": "#01c1bc", "bg1_color": "#12cec8" },
+
+    { "name": "Book Of Shadows ","image": "https://lh3.googleusercontent.com/d/1k6m_CvKK518iWBIv-C4s8GjvqjeNV0Tt",  "bg_image": "https://lh3.googleusercontent.com/d/1YtLiVS9hebxY_TWOhmoe0WzJaN_9cdB1",  "bg_color": "#0254c1", "bg1_color": "#0f63d2" },
+
+    { "name": "Buffalo Hunter ","image": "https://lh3.googleusercontent.com/d/1Dduot6e6wP4Tmazy37nlqbamkNcKbxd3",  "bg_image": "https://lh3.googleusercontent.com/d/1a6Kh9G3mTHj__qkm3dGB1Md-JwFR5y3Q",  "bg_color": "#fe9a01", "bg1_color": "#ffa51f" },
+
+    { "name": "Blood & Shadow","image": "https://lh3.googleusercontent.com/d/1V-SC9vbHy8isjhY9RsAymxk59AUI2G5S",  "bg_image": "https://lh3.googleusercontent.com/d/1dM_0lKUwBzorZ_tDFwOHBlWOLlTZSTO1",  "bg_color": "#01c1bc", "bg1_color": "#12cec8" },
+
+    { "name": "True Kult","image": "https://lh3.googleusercontent.com/d/1rhJTEAkbuX6a4qG_m7BkPMImHMLZEWRh",  "bg_image": "https://lh3.googleusercontent.com/d/1YZAs8HOX4WuVXl2T7aCo7aVjv1bKGCzT",  "bg_color": "#0254c1", "bg1_color": "#0f63d2" },
+
+    { "name": "Kiss My Chainsaw","image": "https://lh3.googleusercontent.com/d/1FMixxrDShPx3orSb0J8OtMj0WiN2GNi2",  "bg_image": "https://lh3.googleusercontent.com/d/1R5N9YbDPPEgg0cJGF4yDP4TELFS_zRdS",  "bg_color": "#8a1ac4", "bg1_color": "#9929d1" },
+
+    { "name": "Dead Canary","image": "https://lh3.googleusercontent.com/d/1k6m3ATmg_VmWNzZOYaGeE5gJCsYpbfLW",  "bg_image": "https://lh3.googleusercontent.com/d/1wdBzF6iHfB-bM_kwph9unUqGv2gRz6ZN",  "bg_color": "#ece100", "bg1_color": "#f9ee15" },
+
+    { "name": "Barbarian Fury ","image": "https://lh3.googleusercontent.com/d/1q9x9p5jfe2Kd8h1zxI8PvK4LnCvsosxx",  "bg_image": "https://lh3.googleusercontent.com/d/1n0v69xuYl1wOPuOcAdWKttJpBDmBphwv",  "bg_color": "#024c03", "bg1_color": "#085e09" },
+
+    { "name": "Evil Goblins xBomb","image": "https://lh3.googleusercontent.com/d/1TvSoAf4dlsOxVO70u-U4F0i_boYJIk28",  "bg_image": "https://lh3.googleusercontent.com/d/1msEHJEWskrfUCQII90Qj4lpLGSxShMtF",  "bg_color": "#024c03", "bg1_color": "#085e09" },
+
+    { "name": "East Coast vs West Coast ","image": "https://lh3.googleusercontent.com/d/1PsjvJtBIGvcNZQ-P5jKD_vrI7Rm4DUg2",  "bg_image": "https://lh3.googleusercontent.com/d/1sS7s0DHNHMWLouyFe_TBllqr3DTgqqek",  "bg_color": "#024c03", "bg1_color": "#085e09" }
+]

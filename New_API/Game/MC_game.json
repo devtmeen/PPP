@@ -1,0 +1,55 @@
+[
+
+    { "name": "Almighty Athena Empire","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Almighty%20Athena%20Empire_1725350925.webp", "bg_image":"https://lh3.googleusercontent.com/d/1u0GUH_3hlZGcP5pyq5SGMIoBfvqPqNFe", "bg_color": "#da0a02", "bg1_color": "#eb110a" },
+    
+    { "name": "Mighty Panda","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Mighty%20Panda_1725358140.webp", "bg_image":"https://lh3.googleusercontent.com/d/1qXVHsGB4CejB4TicBfWy8FFqB1UmSSOo", "bg_color": "#118d06", "bg1_color": "#199c0d" },
+    
+    { "name": "Lucky Twins Power Clusters","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Lucky%20Twins%20Power%20Clusters_1723636859.webp", "bg_image":"https://lh3.googleusercontent.com/d/141OBR08p4iGF3fOnMvS7IE1S-oa37jpO", "bg_color": "#ee3f86", "bg1_color": "#f75092" },
+    
+    { "name": "AMB Pong Pong Mahjong","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_AMB%20Pong%20Pong%20Mahjong_1720526738.webp", "bg_image":"https://lh3.googleusercontent.com/d/1OMa5BxqxsWBeFTHI9jMA1CYWr9KGFZn8", "bg_color": "#118d06", "bg1_color": "#199c0d" },
+    
+    { "name":"Lucky Little Dragons","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Lucky%20Little%20Dragons_1723197506.webp", "bg_image": "https://lh3.googleusercontent.com/d/1AMIrvjF34wtHXkh1QWqKJPXN_1oUaXBl" , "bg_color": "#d70b9f", "bg1_color": "#e619af" },
+    
+    { "name":"Almighty Zeus AMB","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Almighty%20Zeus%20AMB_1715765738.webp", "bg_image": "https://lh3.googleusercontent.com/d/1NTowzFboCz0VBAW75apGBJfwdds_ozg3" , "bg_color": "#3245b3", "bg1_color": "#465ace" },
+    
+    { "name":"Queen of Cairo","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Queen%20of%20Cairo_1713768767.jpg", "bg_image": "https://lh3.googleusercontent.com/d/1Ewog_lgJ90sxTL7dLD-NSUzNF7wZG9cB" , "bg_color": "#4645f8", "bg1_color": "#5353f9" },
+    
+    { "name":"Lucky Twins Askmebet","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Lucky%20Twins%20Askmebet_1712240294.webp", "bg_image": "https://lh3.googleusercontent.com/d/1-6tzJn5b3ANo5oxEfgTbYXBYkJk1DR4_" , "bg_color": "#967cf6", "bg1_color": "#a48bfd" },
+    
+    { "name":"Candy Rush Askmebet","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Candy%20Rush%20Askmebet_1712240879.webp", "bg_image": "https://lh3.googleusercontent.com/d/188ivmDgelhA07TQRnnXVoASd5G9TfKgG" , "bg_color": "#ee3f86", "bg1_color": "#f75092" },
+    
+    { "name":"Almighty Zeus Wilds","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Almighty%20Zeus%20Wilds_1712238885.webp", "bg_image": "https://lh3.googleusercontent.com/d/1M7jkhbza6WGOtYewQ1ZnTC4IDdqVsKvw" , "bg_color": "#d70b9f", "bg1_color": "#e619af" },
+    
+    { "name":"Pong Pong Mahjong","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Pong%20Pong%20Mahjong_1705666159.webp", "bg_image": "https://lh3.googleusercontent.com/d/1jZ1wVo1zInAcHuUTGxXNTp1t-hZTbrlK" , "bg_color": "#f75e36", "bg1_color": "#ff6c47" },
+    
+    { "name":"Almighty Zeus Empire","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Almighty%20Zeus%20Empire_1717081204.webp", "bg_image": "https://lh3.googleusercontent.com/d/1aIbBbrZSSd8TQ7V1oYJg9iZXZdZmq-G7" , "bg_color": "#c85600", "bg1_color": "#d4630c" },
+    
+    { "name":"Crazy Rich Tigers","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Crazy%20Rich%20Tigers_1712233600.webp", "bg_image": "https://lh3.googleusercontent.com/d/18EwAFqUkcm3uEkmDkuliWmlaM83NLrpX" , "bg_color": "#11507d", "bg1_color": "#196194" },
+    
+    { "name":"Wildfire Wins","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Wildfire%20Wins_1718106974.webp", "bg_image": "https://lh3.googleusercontent.com/d/19vX4FPdSHbhBDKxwdoudj9vC-SKjPr1q" , "bg_color": "#118d06", "bg1_color": "#199c0d" },
+    
+    { "name":"Soccer Striker","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Soccer%20Striker_1709290933.webp", "bg_image": "https://lh3.googleusercontent.com/d/1Zl8YhTrmS6uyeyg817TUMwd74aTqEBkM" , "bg_color": "#d70b9f", "bg1_color": "#e619af" },
+    
+    { "name":"10000 Wishes","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_10000%20Wishes_1709299241.webp", "bg_image": "https://lh3.googleusercontent.com/d/1Yjr9XaCHi_QW_FY8c4MD5tDEyiLF_hp_" , "bg_color": "#ee3f86", "bg1_color": "#f75092" },
+    
+    { "name":"Ancient Fortunes : Poseidon Megaways™","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Ancient%20Fortunes%20:%20Poseidon%20Megaways%E2%84%A2_1709292089.webp", "bg_image": "https://lh3.googleusercontent.com/d/1qK2HbVqZEGVp_uqRclq6V82LG1m0RIgF" , "bg_color": "#d70b9f", "bg1_color": "#e619af" },
+    
+    { "name":"Ancient Fortunes: Zeus","image": "https://cdn.happywinapi.com/img/sportsbook/webp%202/sportsbook/game/MGS/L/MGS_Ancient%20Fortunes:%20Zeus_1652199323.webp", "bg_image": "https://lh3.googleusercontent.com/d/1l4lotKVOaKG8u2cW9_ROV5X4OE7bNn-t" , "bg_color": "#da0a02", "bg1_color": "#eb110a" },
+    
+    { "name":"Queen of Alexandria™","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Queen%20of%20Alexandria%E2%84%A2_1709291016.webp", "bg_image": "https://lh3.googleusercontent.com/d/12v_QIb_6NRGfEC8fJ1S8WjmXJaEAh8ZH" , "bg_color": "#5a1e80", "bg1_color": "#702d9a" },
+    
+    { "name":"Wildfire Wins Extreme","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Wildfire%20Wins%20Extreme_1718107371.webp", "bg_image": "https://lh3.googleusercontent.com/d/1GyTYrzRYwuCkw2ST5uNJjUziuTpHIEiY" , "bg_color": "#da0a02", "bg1_color": "#eb110a" },
+    
+    { "name":"108 Heroes Water Margin","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_108%20Heroes%20Water%20Margin_1713768743.jpg", "bg_image": "https://lh3.googleusercontent.com/d/1Rb95RFaf0QQFMLOn8-64m9Q4482cKg96" , "bg_color": "#118d06", "bg1_color": "#199c0d" },
+    
+    { "name":"Aztec Falls","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Aztec%20Falls_1712234384.webp", "bg_image": "https://lh3.googleusercontent.com/d/13u1yus8eLC8_cuZHGgyht_GZY77C9sdN" , "bg_color": "#083050", "bg1_color": "#103c60" },
+    
+    { "name":"The Eternal Widow","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_The%20Eternal%20Widow_1712235748.webp", "bg_image": "https://lh3.googleusercontent.com/d/1TzB3SrCJlAy0f0BdFOOpXlE4oYMMsk8O" , "bg_color": "#083050", "bg1_color": "#103c60" },
+    
+    { "name":"Treasures of Lion City","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Treasures%20of%20Lion%20City_1712236418.webp", "bg_image": "https://lh3.googleusercontent.com/d/1_OSXV0NDawrAwUWhCpn-JEwjQ8TgoLeI" , "bg_color": "#133c63", "bg1_color": "#1d5181" },
+    
+    { "name":"Queens of Ra","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_Queens%20of%20Ra_1712307011.webp", "bg_image": "https://lh3.googleusercontent.com/d/1WOUfN9iVX_DK6-pW23vduz-b4O75NvnA" , "bg_color": "#873538", "bg1_color": "#a04649" },
+    
+    { "name":"9 Enchanted Beans","image": "https://cdn.happywinapi.com/img/sportsbook/game/MGS/L/MGS_9%20Enchanted%20Beans_1712307613.webp", "bg_image": "https://lh3.googleusercontent.com/d/1U3TIsNAzqP6kEYhvPH6egUrBNkeSkdUb" , "bg_color": "#01417b", "bg1_color": "#0b5193" }
+    
+    ]

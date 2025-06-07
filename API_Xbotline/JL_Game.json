@@ -1,0 +1,74 @@
+[
+    { "name": "Super Ace","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Super%20Ace_1717080105.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1RHpscF1ByT-0jveL0qX99m4HXb_eYZhr", "bg_color": "##019702", "bg1_color": "#0cac0c" },
+
+    { "name": "Mega Ace","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Mega%20Ace_1717079278.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1S810ywAv4PN9-VQ-NZuL7xVgPxWCMIvp", "bg_color": "#00989b", "bg1_color": "#0da8ab" },
+
+    { "name": "Wild Ace","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Wild%20Ace_1717080238.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1xO7xmAVR9wly7W141396_DQ_K0PVmddJ", "bg_color": "#00989b", "bg1_color": "#0da8ab" },
+
+    { "name": "Crazy 777","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Crazy%20777_1717078262.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1wxrRk-S74Fj1Lsl6Usf-s18jacvA7U7u", "bg_color": "#372cd2", "bg1_color": "#453ae4" },
+
+    { "name": "Money Coming","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Money%20Coming_1717079515.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1ObH2awrFF9NSBKkGAKrcGacawui8CnfE", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "Ali Baba","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Ali%20Baba_1717077583.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1wYV3pf-H-1ZrX5UOoM-UueV50So_DfFP", "bg_color": "#3f15d1", "bg1_color": "#491ee6" },
+
+    { "name": "Devil Fire 2","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Devil%20Fire%202_1718024295.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1Y0JqVjS0L_SqkV-gSsoLYq03bvJXL5lX", "bg_color": "#0f2976", "bg1_color": "#193486" },
+
+    { "name": "Pirate Queen","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Pirate%20Queen_1717079686.webp",  "bg_image":"https://lh3.googleusercontent.com/d/12Cv2xUdohEPQOC3FmMKfqzsc-6BYXfCN", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "3 Coin Treasures","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_3%20Coin%20Treasures_1718023636.webp",  "bg_image":"https://lh3.googleusercontent.com/d/15B4l0CwIx0LM4vl_PfdOW0iuUuEESuQ2", "bg_color": "#3f15d1", "bg1_color": "#491ee6" },
+
+    { "name": "Bubble Beauty","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Bubble%20Beauty_1717078095.webp",  "bg_image":"https://lh3.googleusercontent.com/d/19ihWr2ez-HKHemyjiiIWomrqx4hB5vOY", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "Fortune Monkey","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_FORTUNE%20MONKEY_1718021105.webp",  "bg_image":"https://lh3.googleusercontent.com/d/17yXZSABVEeIlTfA8kq1ciWNd2mg67fVM", "bg_color": "#be3259", "bg1_color": "#ca3f66" },
+
+    { "name": "Zeus","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Zeus_1718021776.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1WWuV_1ZXAV1BOBJlNJVCA25LVQwlfMZv", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "Samba","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Samba_1717079810.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1qJsVZM3jHnxLKAdzgHdBvGg1kecPTIWS", "bg_color": "#7d0078", "bg1_color": "#960891" },
+
+    { "name": "Jili Caishen","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Jili%20Caishen_1717079036.webp",  "bg_image":"https://lh3.googleusercontent.com/d/17QBqq3gLnsDETCfdKVDQozRax8gKUR9A", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "Crazy Hunter","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Crazy%20Hunter_1717078358.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1Yw6bsYI3GOW2CkcOLAYFlxWFSKIaffwd", "bg_color": "#b6bc00", "bg1_color": "#c9cf0c" },
+
+    { "name": "Bone Fortune","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Bone%20Fortune_1717077862.webp",  "bg_image":"https://lh3.googleusercontent.com/d/189gOsq5-cE8ECnc-Dy6ljlXzupQ7jhk-", "bg_color": "##019702", "bg1_color": "#0cac0c" },
+
+    { "name": "Bonus Hunter","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Bonus%20Hunter_1717077945.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1xE4DuA5-jFP4k13vUPEBfYlCiyUAtyLS", "bg_color": "#00989b", "bg1_color": "#0da8ab" },
+
+    { "name": "Medusa","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Medusa_1717079240.webp",  "bg_image":"https://lh3.googleusercontent.com/d/13rzQpPLAbH6DrvyR31n0YRt-f8T_2ncO", "bg_color": "##019702", "bg1_color": "#0cac0c" },
+
+    { "name": "Jungle King","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Jungle%20King_1717079084.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1bpQJvyDvktR71wti0R7XDyaAQtnYHNV8", "bg_color": "#7d0078", "bg1_color": "#960891" },
+
+    { "name": "Jackpot Joker","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Jackpot%20Joker_1718024633.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1vRFNHXzNtxsbjYMKDPX-0E0yYH5fDk6D", "bg_color": "##019702", "bg1_color": "#0cac0c" },
+
+    { "name": "Bao Boon Chin","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Bao%20Boon%20Chin_1717077689.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1oYJFxek7FfMOqKuHgehdVtMixbckjMBT", "bg_color": "#5f38ad", "bg1_color": "#7149c1" },
+
+    { "name": "Roma X","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Roma%20X_1717079725.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1YmIdFb9_tC9VubbiLAtyHaj3kztiGoCu", "bg_color": "#3f15d1", "bg1_color": "#491ee6" },
+
+    { "name": "Wild Racer","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Wild%20Racer_1717080281.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1eT3Digm9E7B8WvIuiBpnJ_bDnhLWKqJ7", "bg_color": "#9f0050", "bg1_color": "#ae0a5c" },
+
+    { "name": "Crazy Golden Bank","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Crazy%20Golden%20Bank_1717078310.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1TOeztC8Cic95f_1xyDfFDLq_VOqF-K6G", "bg_color": "#dd00ed", "bg1_color": "#eb0efb" },
+
+    { "name": "Shanghai Beauty","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Shanghai%20Beauty_1717080061.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1V61q1-zJFAHEpPhbIQg8YpKAEBJiVL6i", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "Charge Buffalo","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Charge%20Buffalo_1717078153.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1rStz_5vTHqho24F9vmaIHoLZxC56dVAz", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "Feng Shen","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Feng%20Shen_1717078604.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1R25L0JZjbzlhlCNtSoBMKJfeRnEqH-cd", "bg_color": "#3f15d1", "bg1_color": "#491ee6" },
+
+    { "name": "Chin Shi Huang","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Chin%20Shi%20Huang_1717078209.webp",  "bg_image":"https://lh3.googleusercontent.com/d/11FvFJ9tkmC7BeHMlvvvLPbc4qMbuP_td", "bg_color":"#3f15d1", "bg1_color": "#491ee6" },
+
+    { "name": "Neko Fortune","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Neko%20Fortune_1717079554.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1ZH9W7sNyTaepRBPh_SW_nTT-piRMMUYH", "bg_color": "#00989b", "bg1_color": "#0da8ab" },
+
+    { "name": "Mayan Empire","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Mayan%20Empire_1717079198.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1AvS4OOaapELjdsLzsx9dOoEkAr_g_ejb", "bg_color": "#dd00ed", "bg1_color": "#eb0efb" },
+
+    { "name": "Super Rich","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Super%20Rich_1717080150.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1TPEhvOvwbOmc2WP0JpMfY6dig9iIDMq4", "bg_color": "#1f236a", "bg1_color": "#2a2e7e" },
+
+    { "name": "Fa Fa Fa","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Fa%20Fa%20Fa_1717078556.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1csEvZmhEUzcZy5G_LgMvDsXv0XPqJDeD", "bg_color": "#dd00ed", "bg1_color": "#eb0efb" },
+
+    { "name": "Seven Seven Seven","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Seven%20Seven%20Seven_1717080022.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1zo091WnuCvgI95Y-xS3YwMmU635NdiCa", "bg_color": "#b31200", "bg1_color": "#c61e0c" },
+
+    { "name": "Fortune Pig","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Fortune%20Pig_1717078764.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1Mps630xomd_O_HnwTB3p_oNyV-80fjsq", "bg_color": "#dd00ed", "bg1_color": "#eb0efb" },
+
+    { "name": "Hot Chilli","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Hot%20Chilli_1717078948.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1Dz1k2bmnbN2sY13CbYgEMd74yuYbnv7w", "bg_color": "#6c0d71", "bg1_color": "#7d1782" },
+
+    { "name": "Secret Treasure","image": "https://ambimgcdn.co/img/sportsbook/game/JL/L/JL_Secret%20Treasure_1717079858.webp",  "bg_image":"https://lh3.googleusercontent.com/d/1rq1Na6CPwKmDfIodNjRkw9TnTi00HYeA","bg_color": "##019702", "bg1_color": "#0cac0c" }
+    
+]

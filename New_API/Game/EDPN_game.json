@@ -1,0 +1,154 @@
+[ 
+{ "name": "Fortune Snake","image": "https://lh3.googleusercontent.com/d/1RF0cU6_88N2TFVcBBDG3NCCs1qCAAsni",
+"bg_image": "https://lh3.googleusercontent.com/d/1sCz_8i6h72LHCoZsanGiOz6-FjBR1fOa"
+,"bg_color": "#ad2aae", "bg1_color": "#920792" },
+ 
+  { "name": "Big Brown","image": "https://lh3.googleusercontent.com/d/1aEucgagpXrbwEYyJbd7QFXAp45UppaPl",
+"bg_image": "https://lh3.googleusercontent.com/d/101en7rP7NrVS4-Evy0fONLAOXUJmVzLw"
+,"bg_color": "#a31217", "bg1_color": "#7e0105" },
+
+ 
+{ "name": "Vikings Way","image": "https://lh3.googleusercontent.com/d/1GB2qxWFJa_LiQPMnOx-Kpuiaj82D3rS7",
+"bg_image": "https://lh3.googleusercontent.com/d/1V_nS-W6QYSZPZS8jYNTMCaQ89M5kgr7f"
+,"bg_color": "#d24203", "bg1_color": "#992e00" },
+ 
+  { "name": "Age of Glory","image": "https://lh3.googleusercontent.com/d/1LOv9Xl-zv18hj6vyEhqFGJ2RYtEN5wl7",
+"bg_image": "https://lh3.googleusercontent.com/d/1j4VhgO6gPPmKLBZvSpYOSoO0EJKD-fRQ"
+,"bg_color": "#e52868", "bg1_color": "#950434" },
+
+ 
+{ "name": "Panda Strike","image": "https://lh3.googleusercontent.com/d/1i6kYk6WJK3DCzZbwScPrl_xvdGv3zxN9",
+"bg_image": "https://lh3.googleusercontent.com/d/16K-G_ylzNNiDhtQJcZ-6MV3_SEMw3-iT"
+,"bg_color": "#fe0000", "bg1_color": "#9e0000" },
+ 
+  { "name": "Lucky Streak 27","image": "https://lh3.googleusercontent.com/d/1iq7SFBnbKUchvGha6eiMew5Y4IPnAnSs",
+"bg_image": "https://lh3.googleusercontent.com/d/1TkYtguiflc-62jmIlEqXaEhRIxwz2fzN"
+,"bg_color": "#ff0101", "bg1_color": "#9e0000" },
+
+ 
+{ "name": "81 Burning Ways","image": "https://lh3.googleusercontent.com/d/1Un450kXcLLVk4mtSruzxJqmMWGNxnYjB",
+"bg_image": "https://lh3.googleusercontent.com/d/1SntI2uuSNdZ1IA4vyc8DjA4eO_zNoXxa"
+,"bg_color": "#b40200", "bg1_color": "#800200" },
+ 
+  { "name": "Cows&UFOs","image": "https://lh3.googleusercontent.com/d/1_D_CfouatmSZiRM1GqVwKuyBUpnEUYaw",
+"bg_image": "https://lh3.googleusercontent.com/d/1MzJx6IUoiwGn28xcXbS7i_ZZ1DnKTQX_"
+,"bg_color": "#fe0000", "bg1_color": "#800200" },
+
+ 
+{ "name": "Raging Wings","image": "https://lh3.googleusercontent.com/d/1TAcCBy21hyeEzwClCrh16DVlcfuqrhR4",
+"bg_image": "ddddhttps://lh3.googleusercontent.com/d/1pNyAs7FljUr_34W32QAZ_SJQCvq-R_dDdd"
+,"bg_color": "#500406", "bg1_color": "#320103" },
+ 
+  { "name": "Crown Coins","image": "dddhttps://lh3.googleusercontent.com/d/1d7VcakVpyQQ2mYvavDVQOlvprnl633BIddd",
+"bg_image": "https://lh3.googleusercontent.com/d/1rc4udvmAGm9RpAG5MypVnYhogW3MbJsl"
+,"bg_color": "#480202", "bg1_color": "#2d0101" },
+
+ 
+{ "name": "Football Mayhem","image": "https://lh3.googleusercontent.com/d/14PW2-sUNS_TonP0c3x67s5aQ8DXVrV7B",
+"bg_image": "https://lh3.googleusercontent.com/d/15nw52O789MbW-fXnzQZ4PaQPRFKsIId_"
+,"bg_color": "#c12902", "bg1_color": "#941e00" },
+ 
+  { "name": "Festa Junina","image": "https://lh3.googleusercontent.com/d/1mfnBQdFC5JUWB65bIPOx3C80VT8vFwVP",
+"bg_image": "https://lh3.googleusercontent.com/d/1Q77vZ2lkNQHKYOTUshe-bwsh5DMGhy8D"
+,"bg_color": "#7300d7", "bg1_color": "#4f0094" },
+
+ 
+{ "name": "Joker Stoker Dice","image": "https://lh3.googleusercontent.com/d/1GD9mJK0XRy8SRiNV3dEbek3zM1kyrqoA",
+"bg_image": "https://lh3.googleusercontent.com/d/1p2SfpESW7ZJo7IWeqRuhFToqSC-Loqyd"
+,"bg_color": "#ed8114", "bg1_color": "#b15902" },
+ 
+  { "name": "Chance Machine 20 Dice","image": "https://lh3.googleusercontent.com/d/185PPosqDtxP8sJRMOKsPm8N2uj9z1I0Y",
+"bg_image": "https://lh3.googleusercontent.com/d/19UWsI_uQn13sqULruJQihuQ4mZy5KQfk"
+,"bg_color": "#3c040f", "bg1_color": "#1e0107" },
+
+ 
+{ "name": "Dazzling Crown","image": "https://lh3.googleusercontent.com/d/1q1p2x3NPAg0l5e693gZvO1MmVF9Wz4zQ",
+"bg_image": "https://lh3.googleusercontent.com/d/1-dPABxyxJXaJHTd0eYs-R2jw1g0gWbuX"
+,"bg_color": "#930900", "bg1_color": "#5c0600" },
+ 
+  { "name": "All Ways Luck","image": "https://lh3.googleusercontent.com/d/1I66I1zJ4CIqUrN0mKWtyeP47Zg86aI8m",
+"bg_image": "https://lh3.googleusercontent.com/d/1aYxq-igiMWExj_t7D-_KTRGlrF5b4OC0"
+,"bg_color": "#180602", "bg1_color": "#090201" },
+
+ 
+{ "name": "Temple of RA","image": "https://lh3.googleusercontent.com/d/1K1Qw0edaPZGlMbytnAXNUD0MXPQrNhov",
+"bg_image": "https://lh3.googleusercontent.com/d/1pqe-7zbsvwcMeTRLzwzH4yZiFTfU803l"
+,"bg_color": "#74c100", "bg1_color": "#508500" },
+ 
+  { "name": "Jolly Queen","image": "https://lh3.googleusercontent.com/d/1eP7oOxlFbPmVUjKW2--73eSOY0sqVzso",
+"bg_image": "https://lh3.googleusercontent.com/d/1jdqRVTc84FKTnTqk48CU2t0e6cl-QD_Y"
+,"bg_color": "#940f00", "bg1_color": "#610a00" },
+
+ 
+{ "name": "Moon Tiger","image": "https://lh3.googleusercontent.com/d/1iUDvio8aXi9CCB6-fH2vos0IWFsi4aeh",
+"bg_image": "https://lh3.googleusercontent.com/d/1qR9-IaRhH45RQRP8b1PWcEe2cUbEqdLT"
+,"bg_color": "#920f1f", "bg1_color": "#660510" },
+ 
+  { "name": "Aristocats","image": "https://lh3.googleusercontent.com/d/1iGLRzedMG5H3axahj5aNo-F10lkWM2yI",
+"bg_image": "https://lh3.googleusercontent.com/d/1FdnbscfSkzNw_UjXV56dg5m4ZnxvUE7J"
+,"bg_color": "#692939", "bg1_color": "#5f1c2c" },
+
+ 
+{ "name": "Jade Coins","image": "https://lh3.googleusercontent.com/d/17wZIDUNU_hFI5pWBOeb8-THAQ7LV91Oz",
+"bg_image": "https://lh3.googleusercontent.com/d/1PAMfE0eBaaZ2nftPAxWnlJyyw6hDnYPd"
+,"bg_color": "#b25e32", "bg1_color": "#a55022" },
+ 
+  { "name": "100 Zombies","image": "https://lh3.googleusercontent.com/d/1pPjIGhh2CKAuyvvLbWDbhREudKeJFsCp",
+"bg_image": "https://lh3.googleusercontent.com/d/19zw7M-Ugg4kw0iCKL6aXM571A805CmT4"
+,"bg_color": "#623240", "bg1_color": "#6e2b3e" },
+
+ 
+{ "name": "Fresh Crush","image": "https://lh3.googleusercontent.com/d/1zMhYYWsODtl-h3lH3FZuU6Tab-uSB48Y",
+"bg_image": "https://lh3.googleusercontent.com/d/1iCugqUaWIzqNJfw7-biHJSwkso-s-00L"
+,"bg_color": "#a80c60", "bg1_color": "#7e0144" },
+ 
+  { "name": "Oriental Dragon","image": "https://lh3.googleusercontent.com/d/1jDswpOqazJHc3Pfwyp4aQbtxQ_NA9S5u",
+"bg_image": "https://lh3.googleusercontent.com/d/1kgtAPggrgLApbOPDbCygQ8aLB9eE_Oal"
+,"bg_color": "#9d1900", "bg1_color": "#751400" },
+
+ 
+{ "name": "Dia de Los Muertas 2","image": "https://lh3.googleusercontent.com/d/1QiELSPLw4BertoN9U8HjP6beuzJMz94D",
+"bg_image": "https://lh3.googleusercontent.com/d/1tb1xBDiqX5a_u3cFGIBsUO2cSSooDPRy"
+,"bg_color": "#761c36", "bg1_color": "#7e1130" },
+ 
+  { "name": "Book of Conquistador","image": "https://lh3.googleusercontent.com/d/1d6VfToaCIgLXc2BbJrkqTTcM9ZOQvzjq",
+"bg_image": "https://lh3.googleusercontent.com/d/1tUEFXpPTsVYWSrKNorS8DcEzawdxeh_p"
+,"bg_color": "#019503", "bg1_color": "#036d05" },
+
+ 
+{ "name": "Solar Eclipse","image": "https://lh3.googleusercontent.com/d/16pyu4jTKNvxMsYk7MwsmvD8g6TsfygDR",
+"bg_image": "https://lh3.googleusercontent.com/d/1QZ1wAOywudWRTDAhf_k89M2-8ABZBS5G"
+,"bg_color": "#117a03", "bg1_color": "#0b5502" },
+ 
+  { "name": "Royal Xmass 2","image": "https://lh3.googleusercontent.com/d/11wnGG3_68q71ewbA6VOdVfd5PDdA5Kwh",
+"bg_image": "https://lh3.googleusercontent.com/d/1a51MK6cZhg6_chKWrq17wIS5ZWJ4QdCP"
+,"bg_color": "#887a19", "bg1_color": "#64590c" },
+
+ 
+{ "name": "The Vampires II","image": "https://lh3.googleusercontent.com/d/1BDqJzTUjrCmPMnlAPC15WAMJleRnZeIX",
+"bg_image": "https://lh3.googleusercontent.com/d/1dhFvNJn-6mTVn_ZFciA47R6x6y1fYU2z"
+,"bg_color": "#621849", "bg1_color": "#560b3d" },
+ 
+  { "name": "Valentine's Heart","image": "https://lh3.googleusercontent.com/d/1drJBesvP7xXupIVmjklmAppRIvOEAgbi",
+"bg_image": "https://lh3.googleusercontent.com/d/13CpROPyDntJ1cHL52HSZ7p3IMEipUB0k"
+,"bg_color": "#a01aaf", "bg1_color": "#730b7f" },
+
+ 
+{ "name": "Rooster Fury","image": "https://lh3.googleusercontent.com/d/18PNUGQOgLcJP3ey4SbhrHt8foCNpdXtU",
+"bg_image": "https://lh3.googleusercontent.com/d/1A8o8zgyruCdH1q8t3vNRLlTfeBOQUMXB"
+,"bg_color": "#1808dc", "bg1_color": "#0e0576" },
+ 
+  { "name": "Giant Wild Goose Pagoda","image": "https://lh3.googleusercontent.com/d/1m1C6qiFyCdg4k4wMf_mfFzJjO3TwAX0K",
+"bg_image": "https://lh3.googleusercontent.com/d/1CeVK01a8J1ylZAwPSOcfomxGZ5J04LJW"
+,"bg_color": "#b604de", "bg1_color": "#6b0881" },
+
+ 
+{ "name": "Green Slot","image": "https://lh3.googleusercontent.com/d/1McIKWPZJXR5CSH9szH8eaDiH0pDHcWp7",
+"bg_image": "https://lh3.googleusercontent.com/d/1IgVRetWctygBjzDfEACEpo1NQy9DaF5D"
+,"bg_color": "#622535", "bg1_color": "#66152a" },
+ 
+  { "name": "Water Tiger","image": "https://lh3.googleusercontent.com/d/1FS4xLXP58wVgS6dEEEIyKMYgArLoSP5n",
+"bg_image": "https://lh3.googleusercontent.com/d/1O54dMmg8Alul9nOHkz71QM-tFN5xHfXp"
+,"bg_color": "#651a55", "bg1_color": "#550c45" }
+
+ ]

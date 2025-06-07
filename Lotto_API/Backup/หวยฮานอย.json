@@ -1,0 +1,371 @@
+{
+    "type": "bubble",
+    "size": "giga",
+    "hero": {
+        "type": "image",
+        "url": "https://image.tnews.co.th/uploads/images/md/2024/02/xmWhUt7pRtPWFRCgu6sS.webp?x-image-process=style/LG",
+        "size": "full",
+        "aspectRatio": "9:4",
+        "aspectMode": "cover"
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "16 มกราคม 2025",
+                "align": "center",
+                "color": "#ffff00",
+                "size": "xl",
+                "weight": "bold",
+                "offsetTop": "-5px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "ฮานอยพิเศษ",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "md"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "separator"
+                                    },
+                                    {
+                                        "type": "separator"
+                                    },
+                                    {
+                                        "type": "separator"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "box",
+                                                "layout": "vertical",
+                                                "contents": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "สามตัวบน",
+                                                        "align": "center",
+                                                        "color": "#ffffff",
+                                                        "size": "md"
+                                                    },
+                                                    {
+                                                        "type": "text",
+                                                        "text": "090",
+                                                        "align": "center",
+                                                        "color": "#ffffff",
+                                                        "size": "xxl",
+                                                        "weight": "bold"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "separator"
+                                            },
+                                            {
+                                                "type": "separator"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "vertical",
+                                                "contents": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "2 ตัวล่าง",
+                                                        "align": "center",
+                                                        "color": "#ffffff",
+                                                        "size": "md"
+                                                    },
+                                                    {
+                                                        "type": "text",
+                                                        "text": "94",
+                                                        "align": "center",
+                                                        "color": "#ffffff",
+                                                        "size": "xxl",
+                                                        "weight": "bold"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "backgroundColor": "#e22426",
+                                "cornerRadius": "none",
+                                "paddingAll": "none",
+                                "margin": "none"
+                            }
+                        ]
+                    }
+                ],
+                "spacing": "xs",
+                "margin": "xs",
+                "cornerRadius": "xxl",
+                "height": "100px",
+                "offsetTop": "none",
+                "position": "relative"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "ฮานอยปกติ",
+                                "align": "center",
+                                "color": "#ffffff",
+                                "size": "md",
+                                "offsetTop": "7px"
+                            }
+                        ],
+                        "height": "30px"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "3 ตัวบน",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "md"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "233",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "xxl",
+                                        "weight": "bold"
+                                    }
+                                ],
+                                "backgroundColor": "#0258a5",
+                                "cornerRadius": "md",
+                                "paddingAll": "none",
+                                "margin": "none"
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "2 ตัวล่าง",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "md"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "86",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "xxl",
+                                        "weight": "bold"
+                                    }
+                                ],
+                                "backgroundColor": "#0258a5",
+                                "cornerRadius": "md",
+                                "paddingAll": "none",
+                                "margin": "none"
+                            }
+                        ],
+                        "backgroundColor": "#0258a5",
+                        "cornerRadius": "none",
+                        "margin": "xs",
+                        "offsetTop": "none"
+                    }
+                ],
+                "backgroundColor": "#0258a5",
+                "cornerRadius": "none",
+                "margin": "xxl",
+                "offsetTop": "-30px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [],
+                        "backgroundColor": "#00a65a",
+                        "cornerRadius": "none",
+                        "paddingAll": "none",
+                        "margin": "none"
+                    }
+                ],
+                "spacing": "none",
+                "margin": "none"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "ฮานอยวีไอพี",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "md"
+                                            }
+                                        ],
+                                        "backgroundColor": "#eb951a"
+                                    },
+                                    {
+                                        "type": "separator"
+                                    },
+                                    {
+                                        "type": "separator"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "004",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            },
+                                            {
+                                                "type": "separator"
+                                            },
+                                            {
+                                                "type": "separator"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "66",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            }
+                                        ],
+                                        "backgroundColor": "#eb951a",
+                                        "cornerRadius": "none",
+                                        "paddingAll": "none",
+                                        "margin": "none",
+                                        "height": "50px"
+                                    }
+                                ],
+                                "backgroundColor": "#eb951a",
+                                "cornerRadius": "none",
+                                "paddingAll": "none",
+                                "margin": "none",
+                                "offsetEnd": "none",
+                                "offsetTop": "30px",
+                                "offsetBottom": "none",
+                                "paddingTop": "xs"
+                            }
+                        ],
+                        "height": "100px",
+                        "offsetTop": "-20px"
+                    }
+                ],
+                "spacing": "none",
+                "margin": "none",
+                "cornerRadius": "xxl",
+                "height": "90px",
+                "offsetTop": "-45px",
+                "position": "relative",
+                "offsetBottom": "sm",
+                "paddingTop": "md"
+            },
+            {
+                "type": "text",
+                "text": "ข้อมูลจาก: สมาคมสลากกินแบ่งถูมิภาคเอเชียแปซิฟิก",
+                "align": "end",
+                "color": "#ffffff",
+                "size": "xs",
+                "offsetTop": "-35px"
+            },
+            {
+                "type": "text",
+                "text": "อ้างอิง : สมาคมสลากกินแบ่งโลก",
+                "align": "end",
+                "color": "#ffffff",
+                "size": "xs",
+                "offsetTop": "-35px"
+            }
+        ],
+        "backgroundColor": "#162c43",
+        "paddingAll": "20px",
+        "height": "380px",
+        "background": {
+            "type": "linearGradient",
+            "angle": "180deg",
+            "startColor": "#690004",
+            "endColor": "#690004",
+            "centerColor": "#4d0001"
+        }
+    }
+}

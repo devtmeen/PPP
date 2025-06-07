@@ -1,0 +1,283 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/fcac8f71acee2c813724974c73dcccb9.png",
+                "size": "full",
+                "aspectMode": "cover"
+              }
+            ],
+            "height": "45px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://img2.pic.in.th/pic/Logo_menu3812529684744e5e.png",
+                    "position": "absolute",
+                    "align": "end",
+                    "size": "md",
+                    "aspectRatio": "80:30",
+                    "gravity": "center",
+                    "offsetStart": "3px"
+                  }
+                ],
+                "position": "relative",
+                "paddingAll": "5px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://img2.pic.in.th/pic/register_button.gif",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://heylink.me/xautobotline"
+                    },
+                    "gravity": "center",
+                    "offsetTop": "-25px",
+                    "offsetStart": "-3px"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://img2.pic.in.th/pic/2login_button-joker89-1.gif",
+                    "gravity": "center",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://heylink.me/xautobotline"
+                    },
+                    "offsetTop": "-25px",
+                    "offsetStart": "-3px"
+                  }
+                ]
+              }
+            ],
+            "position": "absolute",
+            "margin": "lg",
+            "width": "100%",
+            "height": "40px"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/430f0ddc181554f36f0f26017ee62653.png",
+                "position": "absolute",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "4:9",
+                "animated": true,
+                "offsetTop": "-50px"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://i.postimg.cc/xT06g6Pt/LOTTO-7.png",
+                        "size": "full",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/หวยรัฐบาล"
+                        },
+                        "aspectMode": "cover"
+                      },
+                      {
+                        "type": "image",
+                        "url": "https://i.postimg.cc/mZ3dQv7P/LOTTO-6.png",
+                        "size": "full",
+                        "aspectMode": "cover",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/หวยลาว"
+                        }
+                      }
+                    ],
+                    "width": "90px",
+                    "offsetStart": "5px",
+                    "paddingTop": "5px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://i.postimg.cc/Y0xbMFt6/LOTTO-5.png",
+                        "size": "full",
+                        "aspectMode": "cover",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/หวยออมสิน"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "url": "https://i.postimg.cc/RFKgp88b/LOTTO-4.png",
+                        "size": "full",
+                        "aspectMode": "cover",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/หวยฮานอย"
+                        }
+                      }
+                    ],
+                    "width": "90px",
+                    "paddingTop": "5px",
+                    "offsetStart": "15px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://i.postimg.cc/gcHBgdTN/12.png",
+                        "size": "full",
+                        "aspectMode": "cover",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/หวยธกส"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "url": "https://i.postimg.cc/ZnH7nFd1/11.png",
+                        "size": "full",
+                        "aspectMode": "cover",
+                        "action": {
+                          "type": "message",
+                          "label": "action",
+                          "text": "/หวยหุ้น"
+                        }
+                      }
+                    ],
+                    "width": "90px",
+                    "paddingTop": "5px",
+                    "offsetStart": "25px"
+                  }
+                ],
+                "width": "350px",
+                "height": "300px"
+              }
+            ],
+            "position": "absolute",
+            "height": "350px",
+            "width": "100%"
+          }
+        ],
+        "alignItems": "flex-start",
+        "offsetTop": "none",
+        "paddingAll": "none",
+        "paddingTop": "none",
+        "paddingBottom": "none",
+        "paddingStart": "none",
+        "paddingEnd": "none",
+        "height": "190px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/430f0ddc181554f36f0f26017ee62653.png",
+                "position": "absolute",
+                "size": "full",
+                "aspectRatio": "4:9",
+                "aspectMode": "cover",
+                "offsetTop": "-50px"
+              }
+            ],
+            "width": "100%",
+            "height": "200px",
+            "position": "absolute"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://i.postimg.cc/Qtyf98jS/image.png",
+                    "size": "full",
+                    "aspectRatio": "1282:160",
+                    "aspectMode": "cover"
+                  }
+                ],
+                "offsetStart": "none",
+                "action": {
+                  "type": "message",
+                  "label": "action",
+                  "text": "/แนวทางหวย"
+                }
+              }
+            ],
+            "margin": "sm"
+          }
+        ],
+        "height": "100px"
+      }
+    ],
+    "height": "280px",
+    "paddingTop": "none",
+    "paddingBottom": "none",
+    "paddingStart": "none",
+    "paddingEnd": "none"
+  }
+}

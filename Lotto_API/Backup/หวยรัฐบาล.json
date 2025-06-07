@@ -1,0 +1,279 @@
+{
+    "type": "bubble",
+    "size": "giga",
+    "hero": {
+        "type": "image",
+        "url": "https://medias.thansettakij.com/uploads/images/md/2024/01/VchzHh6H8LXO8j7mLZRq.webp",
+        "size": "full",
+        "aspectRatio": "9:4",
+        "aspectMode": "cover"
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "02 มกราคม 2568",
+                "align": "center",
+                "color": "#ffff00",
+                "size": "xl",
+                "weight": "bold",
+                "offsetTop": "-10px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "รางวัลที่ 1",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "md"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "730209",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "xxl",
+                                        "weight": "bold"
+                                    }
+                                ],
+                                "backgroundColor": "#e22426",
+                                "cornerRadius": "none",
+                                "paddingAll": "10px",
+                                "margin": "none"
+                            }
+                        ]
+                    }
+                ],
+                "spacing": "xs",
+                "margin": "xs",
+                "cornerRadius": "xxl",
+                "height": "100px",
+                "offsetTop": "0px",
+                "position": "relative"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "เลขหน้า 3 ตัว",
+                                "align": "start",
+                                "color": "#ffffff",
+                                "size": "md"
+                            },
+                            {
+                                "type": "text",
+                                "text": "446 065",
+                                "align": "center",
+                                "color": "#ffffff",
+                                "size": "xxl",
+                                "weight": "bold"
+                            }
+                        ],
+                        "backgroundColor": "#0258a5",
+                        "cornerRadius": "md",
+                        "paddingAll": "10px",
+                        "margin": "sm"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "เลขท้าย 2 ตัว",
+                                "align": "end",
+                                "color": "#ffffff",
+                                "size": "md"
+                            },
+                            {
+                                "type": "text",
+                                "text": "51",
+                                "align": "center",
+                                "color": "#ffffff",
+                                "size": "xxl",
+                                "weight": "bold"
+                            }
+                        ],
+                        "backgroundColor": "#0258a5",
+                        "cornerRadius": "md",
+                        "paddingAll": "10px",
+                        "margin": "sm"
+                    }
+                ],
+                "backgroundColor": "#0258a5",
+                "cornerRadius": "none",
+                "margin": "xxl",
+                "offsetTop": "-35px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [],
+                        "backgroundColor": "#00a65a",
+                        "cornerRadius": "none",
+                        "paddingAll": "none",
+                        "margin": "none"
+                    }
+                ],
+                "spacing": "none",
+                "margin": "none"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "เลขท้าย 3 ตัว",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "md"
+                                            }
+                                        ],
+                                        "backgroundColor": "#00a65a"
+                                    },
+                                    {
+                                        "type": "separator"
+                                    },
+                                    {
+                                        "type": "separator"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "376",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            },
+                                            {
+                                                "type": "separator"
+                                            },
+                                            {
+                                                "type": "separator"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "297",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            }
+                                        ],
+                                        "backgroundColor": "#00a65a",
+                                        "cornerRadius": "none",
+                                        "paddingAll": "none",
+                                        "margin": "none",
+                                        "height": "50px"
+                                    }
+                                ],
+                                "backgroundColor": "#00a65a",
+                                "cornerRadius": "none",
+                                "paddingAll": "none",
+                                "margin": "none",
+                                "offsetEnd": "none",
+                                "offsetTop": "30px",
+                                "offsetBottom": "none",
+                                "paddingTop": "xs"
+                            }
+                        ],
+                        "height": "100px",
+                        "offsetTop": "-20px"
+                    }
+                ],
+                "spacing": "none",
+                "margin": "none",
+                "cornerRadius": "xxl",
+                "height": "90px",
+                "offsetTop": "-51px",
+                "position": "relative",
+                "offsetBottom": "sm",
+                "paddingTop": "md"
+            },
+            {
+                "type": "text",
+                "text": "ข้อมูลจาก: สมาคมสลากกินแบ่งถูมิภาคเอเชียแปซิฟิก",
+                "align": "end",
+                "color": "#ffffff",
+                "size": "xs",
+                "offsetTop": "-35px"
+            },
+            {
+                "type": "text",
+                "text": "อ้างอิง : สมาคมสลากกินแบ่งโลก",
+                "align": "end",
+                "color": "#ffffff",
+                "size": "xs",
+                "offsetTop": "-35px"
+            }
+        ],
+        "backgroundColor": "#162c43",
+        "paddingAll": "20px",
+        "height": "370px",
+        "background": {
+            "type": "linearGradient",
+            "angle": "180deg",
+            "startColor": "#1d2672",
+            "endColor": "#1a2375",
+            "centerColor": "#1d2672"
+        }
+    }
+}

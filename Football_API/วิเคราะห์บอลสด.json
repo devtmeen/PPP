@@ -1,0 +1,17 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "video",
+    "previewUrl": "https://images.ball7m.com/img/video_img/2025-05-30/6838ae21b1f58.png",
+    "altContent": {
+      "type": "image",
+      "size": "full",
+      "aspectRatio": "16:9",
+      "aspectMode": "cover",
+      "url": "https://images.ball7m.com/img/video_img/2025-05-30/6838ae21b1f58.png"
+    },
+    "aspectRatio": "16:9",
+    "url": "https://storeoa.s3.ap-southeast-2.amazonaws.com/0530.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATD5ZARVFINMRWQKJ%2F20250530%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20250530T195036Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0yIkcwRQIgcVmRU7fD%2Baw1AmtuQFHZot6S42xnCTYkKowKf3xawaACIQDIi6Eo95SWq%2FqbW55Z%2BpYBckgqZ0M8Z7rvgLXeb6mMcSrfAgit%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDIxNDU5OTUwMzE3OCIMjm06BEaxK0v0Kol4KrMCzBxvmP%2F%2B0MjVKIy16HqUhoncMhStzkyfCvI43st5zPAT6Bkfd%2Fc9TxXiundgt4JHe1a37mypU%2B%2FtvqTTTUIpw4SBZ2Hg7Hygcwf%2FV4Roh8hDjX098wzGcGZyNgG0x4miUVLHIJnAfWJw%2FdCa22IWRFzan0UoVojgzCshn3AGa3LPGSQfY5tBdFSIidRViYmFEUT2kI5TYICahsaC3fAdXQhOd3T%2Fzmc18opD170Ljn20YViL3Yxz56XhkYcfo37EiFlMcnj5eJup%2BRfQpBdu35EbFQ53Y%2F9897j5%2F8aVdkvGBxc67l1YElzPlO1P2dPXL0ACwlm3qxgf118%2FNdXZx2Lu8hk3UXt3kX3uhKnnxk9mKKdetm17aOfIMKUFJBLD7T9mz3Kcw%2FoOSoKgK9A%2FGY5FTTDnwefBBjqtAuVSmZIBpElxdN5VnCDEco%2F%2BQYWOaYXlTtItAoV1nknQygBiIv5NWq7j9XiVaSC9n0WWHKbRGmoFr6DZVGdo0IgkMC8Ib0P055ANu7RQqllVW77KkXYTYQiCNVkqAKaeoKc2FT9S%2FdW3GFxV7fx%2BCjz84Uf1v2%2B7ZzadmTsp4fBKhjsAT7fob6bPWDQXkVVFTfsnu39jE4%2FgBBbiM94gS27xJNa6xTdJ3DlOkVV%2B7v6QBRuz7efw0sVTMQ9r7GDiHPBWylvMjfUPJQBaAiVEFPXfRo1xra4YU%2B4jCcQ3zb91FxbEzfUNYaCazdeFDwTHq8pf8K6ly1cXdL8b4JOyJUolQ6c5uPYwyR2tBw2guZSbQ13SAVXGpHxm0PRpPGRSi5z%2F%2FWUzalQl1%2FuVBWI%3D&X-Amz-Signature=2c81f3f44b91ae260d8791b85a48aa400308f12b40560988ecad3c6b22521c30&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+  }
+}

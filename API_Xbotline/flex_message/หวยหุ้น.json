@@ -1,0 +1,2427 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "size": "mega",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/jpy-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นนิเคอิเช้า",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative",
+                                                "align": "center"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "913",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "45",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/jpy-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นนิเคอิเที่ยง",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "566",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "02",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://pumdee.com/images/lotto-result/th.png",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นไทยเย็น",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://pumdee.com/images/lotto-result/c1.png",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นจีนเช้า",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://pumdee.com/images/lotto-result/c1.png",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นจีนบ่าย",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://pumdee.com/images/lotto-result/c2.png",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นฮั่งเส็งเช้า",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://pumdee.com/images/lotto-result/c2.png",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นฮั่งเส็งบ่าย",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://pumdee.com/images/lotto-result/taiwan.png",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นไต้หวัน",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "เว็บแทงหวยที่ดีที่สุด",
+                                                "size": "xxs",
+                                                "color": "#999999"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "อ้างอิง : สมาคมสลากกินแบ่งโลก",
+                                                "size": "xxs",
+                                                "color": "#999999",
+                                                "align": "end"
+                                            }
+                                        ],
+                                        "margin": "lg"
+                                    }
+                                ],
+                                "spacing": "none",
+                                "margin": "md"
+                            }
+                        ]
+                    }
+                ],
+                "paddingAll": "sm",
+                "paddingBottom": "lg",
+                "paddingStart": "md",
+                "paddingEnd": "md"
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#222222"
+                }
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "mega",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/krw-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นเกาหลี",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative",
+                                                "align": "center"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/sin-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นสิงคโปร์",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/inr-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นอินเดีย",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/eyp-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นอียิปต์",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/ger-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นเยอรมัน",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/russia-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นรัสเซีย",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/gbp-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นอังกฤษ",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "margin": "none",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "size": "md",
+                                                "url": "https://askmelotto.live/_nuxt/assets/images/flags/usd-c.png?v=1.5",
+                                                "scaling": true,
+                                                "position": "relative",
+                                                "aspectRatio": "1:1",
+                                                "offsetTop": "sm",
+                                                "offsetBottom": "none",
+                                                "offsetStart": "none",
+                                                "offsetEnd": "none"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "หวยหุ้นดาวโจนส์ 04:00",
+                                                "size": "sm",
+                                                "color": "#ffffff",
+                                                "margin": "sm",
+                                                "flex": 0,
+                                                "position": "relative"
+                                            }
+                                        ],
+                                        "paddingStart": "none",
+                                        "alignItems": "center",
+                                        "justifyContent": "flex-start",
+                                        "paddingAll": "none",
+                                        "offsetStart": "sm"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                                "type": "filler"
+                                            },
+                                            {
+                                                "type": "box",
+                                                "layout": "horizontal",
+                                                "contents": [
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "3ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    },
+                                                    {
+                                                        "type": "box",
+                                                        "layout": "vertical",
+                                                        "contents": [
+                                                            {
+                                                                "type": "box",
+                                                                "layout": "vertical",
+                                                                "contents": [
+                                                                    {
+                                                                        "type": "box",
+                                                                        "layout": "vertical",
+                                                                        "contents": [
+                                                                            {
+                                                                                "type": "text",
+                                                                                "text": "2ตัวล่าง",
+                                                                                "color": "#ffffff",
+                                                                                "size": "xs"
+                                                                            }
+                                                                        ],
+                                                                        "backgroundColor": "#222222",
+                                                                        "cornerRadius": "md",
+                                                                        "alignItems": "center",
+                                                                        "justifyContent": "center"
+                                                                    }
+                                                                ],
+                                                                "paddingAll": "sm"
+                                                            },
+                                                            {
+                                                                "type": "text",
+                                                                "text": "xx",
+                                                                "align": "center",
+                                                                "color": "#000000",
+                                                                "weight": "bold"
+                                                            }
+                                                        ],
+                                                        "backgroundColor": "#cccccc",
+                                                        "cornerRadius": "sm",
+                                                        "borderColor": "#ffffff",
+                                                        "borderWidth": "medium",
+                                                        "justifyContent": "center"
+                                                    }
+                                                ],
+                                                "cornerRadius": "sm",
+                                                "backgroundColor": "#cccccc",
+                                                "paddingAll": "xs",
+                                                "spacing": "sm"
+                                            }
+                                        ],
+                                        "backgroundColor": "#FFD700",
+                                        "cornerRadius": "sm"
+                                    }
+                                ],
+                                "margin": "sm",
+                                "spacing": "sm"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "เว็บแทงหวยที่ดีที่สุด",
+                                                "size": "xxs",
+                                                "color": "#999999"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "อ้างอิง : สมาคมสลากกินแบ่งโลก",
+                                                "size": "xxs",
+                                                "color": "#999999",
+                                                "align": "end"
+                                            }
+                                        ],
+                                        "margin": "lg"
+                                    }
+                                ],
+                                "spacing": "none",
+                                "margin": "md"
+                            }
+                        ]
+                    }
+                ],
+                "paddingAll": "sm",
+                "paddingBottom": "lg",
+                "paddingStart": "md",
+                "paddingEnd": "md"
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#222222"
+                }
+            }
+        }
+    ]
+}

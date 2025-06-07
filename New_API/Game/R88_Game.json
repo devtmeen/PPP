@@ -1,0 +1,150 @@
+[
+  { "name": "The Secret Life of Pets","image": "https://lh3.googleusercontent.com/d/1zcPbR5lueDp3vbZdNjL2PwvJ54ptnbmL",
+"bg_image": "https://lh3.googleusercontent.com/d/1L_dv7dVapL-SLOsEzeXnhr0T66BnjqEr"
+,"bg_color": "#b61a3f", "bg1_color": "#ca2b50" },
+ 
+  { "name": "Mahjong 3+","image": "https://lh3.googleusercontent.com/d/1-ppHvONwyQzwScI0fS-HouvZyMG5u9fN",
+"bg_image": "https://lh3.googleusercontent.com/d/17dl1dKMY3Zqo_pRkTE0iO_fu02kEk8Ht"
+,"bg_color": "#d41a01", "bg1_color": "#e1270e" },
+ 
+{ "name": "Treasury Piglet","image": "https://lh3.googleusercontent.com/d/1ISvktX9NwQ-BrINgyluwy_LG5hkj6kvE",
+"bg_image": "https://lh3.googleusercontent.com/d/17eaiW3RCHQs33hzL7DATn04qx7oLJE7O"
+,"bg_color": "#cf000c", "bg1_color": "#e00b15" },
+ 
+  { "name": "Cleopatra","image": "https://lh3.googleusercontent.com/d/1G4ZeN89okjoIbRFz780O9gtXGvMY-79K",
+"bg_image": "https://lh3.googleusercontent.com/d/1odrCRxqJLo1S5cZX0kYVzlYiW2z2pKvS"
+,"bg_color": "#ad0370", "bg1_color": "#c70f84" },
+ 
+{ "name": "Monopoly Slot Super Bomb","image": "https://lh3.googleusercontent.com/d/1W_yv09-G7RBOG1zBfWKPnZpN7zCSei_j",
+"bg_image": "https://lh3.googleusercontent.com/d/1t5EEnEybic4qw-7nCPMWfmiMlgHaRf64"
+,"bg_color": "#18178c", "bg1_color": "#2422a0" },
+ 
+  { "name": "Dragon Ball","image": "https://lh3.googleusercontent.com/d/1FaouPtN9R5TmLnQMuzpM6Dy1sj3rE26k",
+"bg_image": "https://lh3.googleusercontent.com/d/1KVGqfto6uQIGmi-xrPtdhqmwLVZ-Pywb"
+,"bg_color": "#920116", "bg1_color": "#aa0e25" },
+ 
+{ "name": "One Piece","image": "https://lh3.googleusercontent.com/d/1pVGLpELAg-nu5MtgIHf5bbwY9uHPq-rk",
+"bg_image": "https://lh3.googleusercontent.com/d/1G6IjkBgeijmhADIdHgNP_7giX_MPwhob"
+,"bg_color": "#018403", "bg1_color": "#09950b" },
+ 
+  { "name": "Big Bass Bonanza","image": "https://lh3.googleusercontent.com/d/1J3K2HVbRhvQPMDNtSuI3CWF0Ckf3WqfF",
+"bg_image": "https://lh3.googleusercontent.com/d/1F6TgCcJfRNcr_49wjOR2VUKpx5eGKz5T"
+,"bg_color": "#920116", "bg1_color": "#aa0e25" },
+ 
+{ "name": "Mahjong 2","image": "https://lh3.googleusercontent.com/d/1Z-lUrq0ArPE8nE2JaPZGCNZ-up1IKQFT",
+"bg_image": "https://lh3.googleusercontent.com/d/1yvlOughhwI0_F7hgef318Vzn_vFLqjcC"
+,"bg_color": "#02858b", "bg1_color": "#119aa2" },
+ 
+  { "name": "Enchantress","image": "https://lh3.googleusercontent.com/d/1bdExbnz9oUDJix72mHNwlcPCMqtG9w1i",
+"bg_image": "https://lh3.googleusercontent.com/d/1NaN0j1SEQs9ZdyuFlbGlEXRgTj8QI81J"
+,"bg_color": "#008601", "bg1_color": "#0b930b" },
+ 
+  { "name": "Super Ace","image": "https://lh3.googleusercontent.com/d/1112Ey4NgKvtmeZWpYJH1vaOJ6vn6gQ41",
+"bg_image": "https://lh3.googleusercontent.com/d/1RHpscF1ByT-0jveL0qX99m4HXb_eYZhr"
+,"bg_color": "#009100", "bg1_color": "#0ba20b" },
+ 
+{ "name": "777","image": "https://lh3.googleusercontent.com/d/1nuE4NN-9Pp2S4UxJPRKVsegCHWQkNQEc",
+"bg_image": "https://lh3.googleusercontent.com/d/1vMchnVajQI06uTQMDkFzQ1BqcKiv_iQS"
+,"bg_color": "#0a1ecf", "bg1_color": "#162be3" },
+ 
+  { "name": "Fortune Gems","image": "https://lh3.googleusercontent.com/d/1JjV7XZxJOKsdbHIMfbZfPOv1g4iTOnd9",
+"bg_image": "https://lh3.googleusercontent.com/d/1zQeqWuGm4-0b8CxHtOpE9Ld3z4iV7PP4"
+,"bg_color": "#92001a", "bg1_color": "#92001a" },
+
+{ "name": "Money Rolling","image": "https://lh3.googleusercontent.com/d/1CnOyza-12Uh5RlZFrnMmGcYVBAJqygES",
+"bg_image": "https://lh3.googleusercontent.com/d/1X29X3tQt5CAWYEqMPFg4MNNtzxQNKlBh"
+,"bg_color": "#c00089", "bg1_color": "#df11a5" },
+ 
+  { "name": "Rave Jump","image": "https://lh3.googleusercontent.com/d/1o1tMP5gTB9vpS9rAvKnC2DtSrkvKhpV3",
+"bg_image": "https://lh3.googleusercontent.com/d/1hnLPFlFb-reV8VbWmxYOM0MQHeHIkdI-"
+,"bg_color": "#02858b", "bg1_color": "#119aa2" },
+
+{ "name": "GOLDEN EMPIRE","image": "https://lh3.googleusercontent.com/d/1L8q5sPrOl5mupEOI1LRQMEV3lIvxhXbl",
+"bg_image": "https://lh3.googleusercontent.com/d/1Z-ustPqu-W90z1PJHWYm-xoe-NIQVR01"
+,"bg_color": "#c00089", "bg1_color": "#df11a5" },
+ 
+{ "name": "88 Fortunes","image": "https://lh3.googleusercontent.com/d/1GVsuGRaTQwUCdSpxYHnXGD0JeLxa1WlT",
+"bg_image": "https://lh3.googleusercontent.com/d/1cBEN6DWWat9bdKyWILhu1jnCY1nWjMQx"
+,"bg_color": "#92001a", "bg1_color": "#92001a" },
+ 
+  { "name": "New Year Money Rolling","image": "https://lh3.googleusercontent.com/d/1tDZUtKNr9jOWclHkgVHl1gFuPl1P5p77",
+"bg_image": "https://lh3.googleusercontent.com/d/18w9yuuVtKlAEDq3ULFkylRTZJeicAiiU"
+,"bg_color": "#009100", "bg1_color": "#0ba20b" },
+ 
+{ "name": "Sichuan Opera Facial Makeup","image": "https://lh3.googleusercontent.com/d/1AmEycwmkaCrpxVIdPO1CqcLywwlA3Rcq",
+"bg_image": "https://lh3.googleusercontent.com/d/177PIjUmGAQUnzbeOekwLt7tifHzQDUJA"
+,"bg_color": "#0165a3", "bg1_color": "#086faf" },
+ 
+  { "name": "Lucky Fortune","image": "https://lh3.googleusercontent.com/d/1qMZoaHh4pIAblhyM1Ln0lMv1l6ID9BIh",
+"bg_image": "https://lh3.googleusercontent.com/d/1DO5XMGyjqocCWQO0dFxtp1aaF6BVvoMm"
+,"bg_color": "#92001a", "bg1_color": "#92001a" },
+ 
+{ "name": "Fortune Bull","image": "https://lh3.googleusercontent.com/d/1N1aT85a4r5RgJRjTqR9_0dmZBBh7o4bc",
+"bg_image": "https://lh3.googleusercontent.com/d/1FJb2cOeq3PweEG6MnI9K7U-UTAM8w-bo"
+,"bg_color": "#0a1ecf", "bg1_color": "#162be3" },
+ 
+  { "name": "Wild Fire Ranger","image": "https://lh3.googleusercontent.com/d/1HcuquT7SmawCWTjTelycAm5aYwfBGrTu",
+"bg_image": "https://lh3.googleusercontent.com/d/1aQFgm4TrMt7N78pfjSa61vQMlQIXUnWK"
+,"bg_color": "#c00089", "bg1_color": "#df11a5" },
+
+{ "name": "Thai Boxing King","image": "https://lh3.googleusercontent.com/d/1zdjOcjEq7GACAJ7VPWKC4fUoLEAeJWxE",
+"bg_image": "https://lh3.googleusercontent.com/d/1qbyUZdavh9q5z37U7N_LPDn_Z16Obw8c"
+,"bg_color": "#009100", "bg1_color": "#0ba20b" },
+ 
+  { "name": "Football Gold HOLD AND WIN","image": "https://lh3.googleusercontent.com/d/1bl2aN2OSLNraM5X5lTmgSM6A_YLQuqcy",
+"bg_image": "https://lh3.googleusercontent.com/d/1dQ199ECGuF-tB7GIvlHzLanVyxXdYQ4o"
+,"bg_color": "#009100", "bg1_color": "#0ba20b" },
+ 
+{ "name": "Panda King HOLD AND WIN","image": "https://lh3.googleusercontent.com/d/1y4Jeu38WfuGhFBTqyLqCsMHPuHhKw2KI",
+"bg_image": "https://lh3.googleusercontent.com/d/1j7c-gXD0x5N9KcFYgsj0u0BmTl7-Lrv-"
+,"bg_color": "#92001a", "bg1_color": "#92001a" },
+
+  { "name": "Fortune Tiger","image": "https://lh3.googleusercontent.com/d/1dUQiq6EsrQjGpqymq-_1NFPMiGQhZdEq",
+"bg_image": "https://lh3.googleusercontent.com/d/12My8oapV2gSjlnIR5PCuwwt7-6Eik84A"
+,"bg_color": "#009100", "bg1_color": "#0ba20b" },
+ 
+{ "name": "Ancient Giant Elephant","image": "https://lh3.googleusercontent.com/d/18XVK9LJ8IxyfVOjJaXN6yXiTX6xP7o64",
+"bg_image": "https://lh3.googleusercontent.com/d/1VDZi1SjXd7w69zZ4OKgiz-sIOwFMxNlJ"
+,"bg_color": "#0b050d", "bg1_color": "#27152d" },
+ 
+  { "name": "Wild Island","image": "https://lh3.googleusercontent.com/d/1EzJMsMXNkOktf8i2XWcgLMfmtVjfKrSq",
+"bg_image": "https://lh3.googleusercontent.com/d/1Qr7hJuiwDEua9q7VJRvdY8WMoxFU6FP-"
+,"bg_color": "#970491", "bg1_color": "#ab0da5" },
+ 
+{ "name": "The Journey to The West","image": "https://lh3.googleusercontent.com/d/1TALuaW-bgxVBXL836Usjqy6vcsOPLCz0",
+"bg_image": "https://lh3.googleusercontent.com/d/1K4XGiMJaKPCjRzTQG96EfRhwv26gvkjM"
+,"bg_color": "#008a28", "bg1_color": "#0da538" },
+ 
+  { "name": "Book of Dead","image": "https://lh3.googleusercontent.com/d/1TPuuCoMW0EF74RqMWKsvvrzl7x9yRmyB",
+"bg_image": "https://lh3.googleusercontent.com/d/1iKuINTiiBagY2ENsEPizw9TsI1_G7Pzm"
+,"bg_color": "#0a1ecf", "bg1_color": "#162be3" },
+
+{ "name": "GEM Planet","image": "https://lh3.googleusercontent.com/d/11uTF03nXKqaAHb2Dx4r9Ttr4Y5w7B20O",
+"bg_image": "https://lh3.googleusercontent.com/d/1tjcIxPKTgX4L7k-ZrSyi75JerxYwXU8p"
+,"bg_color": "#970491", "bg1_color": "#ab0da5" },
+ 
+  { "name": "King Kong","image": "https://lh3.googleusercontent.com/d/1vlBXlBF2iL2ZNYY6UTjQfH04x89Fxi8f",
+"bg_image": "https://lh3.googleusercontent.com/d/1Bh4StyKx6rjzPxktYIV8ugUzHrN425GM"
+,"bg_color": "#0a1ecf", "bg1_color": "#162be3" },
+
+{ "name": "Golden Dragon Ball","image": "https://lh3.googleusercontent.com/d/1v2oSS9jcHpw09FlwztW0aKQGsCl3K_gO",
+"bg_image": "https://lh3.googleusercontent.com/d/1oCINsmpcnPpb5ElgG0iSoROL3wIS3eeT"
+,"bg_color": "#92001a", "bg1_color": "#92001a" },
+ 
+  { "name": "Jump High","image": "https://lh3.googleusercontent.com/d/1UDJBFwBi_UhdEBVLZdC2mNcOaVniiazR",
+"bg_image": "https://lh3.googleusercontent.com/d/1JFFbojQzggLpqF1ZCP5Ted5a-Pgize0z"
+,"bg_color": "#aba102", "bg1_color": "#bfb412" },
+ 
+  { "name": "Great Blue","image": "https://lh3.googleusercontent.com/d/1iNV5QV_wDkXiEFNWStABx3qQDju0Qh_M",
+"bg_image": "https://lh3.googleusercontent.com/d/1w4Ym8pVO_WScBglgxSTOUG76Mwe0fd65"
+,"bg_color": "#92001a", "bg1_color": "#92001a" },
+ 
+{ "name": "Thai Food Show","image": "https://lh3.googleusercontent.com/d/1zbzhePtW8aAkS3CoGvUJFqwbVnTudUVq",
+"bg_image": "https://lh3.googleusercontent.com/d/1rXO163uSeG9s86taEwQMMA20ayFpvcOr"
+,"bg_color": "#0a1ecf", "bg1_color": "#162be3" },
+ 
+  { "name": "Double Slot","image": "https://lh3.googleusercontent.com/d/1EavqJGzicsf2Si0ez8zHDyPHbx73CZQc",
+"bg_image": "https://lh3.googleusercontent.com/d/1pEtyWOe6Wj2BgdRfxPdbVfdTFG39Y4vU"
+,"bg_color": "#c20156", "bg1_color": "#d31266" }
+
+ ]

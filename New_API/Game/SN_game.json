@@ -1,0 +1,74 @@
+[
+    { "name": "Santa's Gift","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Santa%27s%20Gift_1703651393.jpg",  "bg_image": "https://lh3.googleusercontent.com/d/1IDmcwtb-xvA4fe2PI1HwKnCdb08LjSik",  "bg_color": "#b7242e", "bg1_color": "#d23742" },
+
+    { "name": "Mono Wheel","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Mono%20Wheel_1696844622.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1zGH6usm9FRdel0xfoY-tyoxuIkHgO2jN",  "bg_color": "#0d1945", "bg1_color": "#15245b" },
+
+    { "name": "Fruit Party","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Fruit%20Party_1690128738.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1IInh4Q7XTL8rUJhpzPTDBxGGSKZItHpg",  "bg_color": "#783d0f", "bg1_color": "#824517" },
+
+    { "name": "Wet n' Wild Rock Scissor Paper","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Wet%20n%27%20Wild%20Rock%20Scissor%20Paper_1690128648.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1qhyhGnFZXaQUPQWkWftOZIglAZJhY-Ck",  "bg_color": "#ebe800", "bg1_color": "#f7f31d" },
+
+    { "name": "Hall of Gods","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Hall%20of%20Gods_1662112698.jpg",  "bg_image": "https://lh3.googleusercontent.com/d/1Z1y7vqrgYrig9W20e-qbKKolxNhpUwTe",  "bg_color": "#975ea2", "bg1_color": "#aa73b5" },
+
+    { "name": "Lucky Gachapon","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Lucky%20Gachapon_1670822974.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1XrNYE5fNJ9rAJbHvLNTMZl20UWf-TK-J",  "bg_color": "#eb393c", "bg1_color": "#f5474a" },
+
+    { "name": "Golden Scarab","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Golden%20Scarab_1674193591.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1Xh-xGUsIeXKtVgObYEi76FSN6RVGBqga",  "bg_color": "#4d2e0b", "bg1_color": "#5c3810" },
+
+    { "name": "Chunky Shark","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Chunky%20Shark_1664434543.webp",  "bg_image": "https://lh3.googleusercontent.com/d/10e7UALaJtA7-TedNR_ZNDjwRAQ6VK-y1",  "bg_color": "#23a7c2", "bg1_color": "#2eb6d1" },
+
+    { "name": "Yakuza Fight","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Yakuza%20Fight_1656500198.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1BeOdS0O_Scm1RL8p8Q_ZJGmshAZhMPaX",  "bg_color": "#fe01ef", "bg1_color": "#fe16ee" },
+
+    { "name": "Coffee or Me","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Coffee%20or%20Me_1656502991.webp",  "bg_image": "https://lh3.googleusercontent.com/d/17tcKr1gDRdjFJdIaT5XMsm2AZCz3LJlu",  "bg_color": "#783d0f", "bg1_color": "#824517" },
+
+    { "name": "Wet'n Wild","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Wet%27n%20Wild_1656500158.webp",  "bg_image": "https://lh3.googleusercontent.com/d/10OXkjU61n0tFBMG2a_zF1cmzkMneFjm5",  "bg_color": "#ebe800", "bg1_color": "#f7f31d" },
+
+    { "name": "Cat&Dog","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Cat&Dog_1668489532.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1Dp86e9iEh3e0Pss1lRCZApuKgEB__a2Z", "bg_color": "#783d0f", "bg1_color": "#824517" },
+
+    { "name": "Wandering Witch","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Wandering%20Witch_1662112625.jpg",  "bg_image": "https://lh3.googleusercontent.com/d/1N3HLnJQPDdOe_P_QwjNI8A0Ky0Fduc4S",  "bg_color": "#02f501", "bg1_color": "#13fb13" },
+
+    { "name": "Vault of Devil","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Vault%20of%20Devil_1662112444.jpg",  "bg_image": "https://lh3.googleusercontent.com/d/11ye91O3KCPU8sJ89i6jVgm9fv6jqvWSR",  "bg_color": "#01ee00", "bg1_color": "#0df80d" },
+
+    { "name": "Kingdom of Sky","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Kingdom%20of%20Sky_1666771978.webp",  "bg_image": "https://lh3.googleusercontent.com/d/16kpOoH024_ItQ27QECS8_FfERJLM0hir",  "bg_color": "#1f7abd", "bg1_color": "#2c87c9" },
+
+    { "name": "Wild hunt","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Wild%20hunt_1662112536.jpg",  "bg_image": "https://lh3.googleusercontent.com/d/1iYn-zKBgweQa497ptjDn2paEQ_pi7vUb",  "bg_color": "#fe01ef", "bg1_color": "#fe16ee" },
+
+    { "name": "Wealthy Monster","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Wealthy%20Monster_1656505065.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1nzBSb1aBw1mgf_n9l_xW6D2I1wZIqh8_",  "bg_color": "#01f302", "bg1_color": "#18fb18" },
+
+    { "name": "Yummy Money","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Yummy%20Money_1656502891.webp",  "bg_image": "https://lh3.googleusercontent.com/d/16LHCKDMVF4irnWSGrqdGDg1SSIfTQl8y",  "bg_color": "#ff0002", "bg1_color": "#fe0b0b" },
+
+    { "name": "Lucky God","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Lucky%20God_1656504299.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1p91-wIVoqyHjacL9gqcnIt7w3LD3QBfN",  "bg_color": "#ff0002", "bg1_color": "#fe0b0b" },
+
+    { "name": "Lucky Carnival","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Lucky%20Carnival_1656504431.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1hCYvF540gRgtkQrrYcUtP3BO-yKlpGx8",  "bg_color": "#1c0d40", "bg1_color": "#311b64" },
+
+    { "name": "God of Egypt","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_God%20of%20Egypt_1656504455.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1U395aDRvNAudRv3sPW6bYav8xRHTRd7S",  "bg_color": "#783d0f", "bg1_color": "#824517" },
+
+    { "name": "Dragons Fury","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Dragons%20Fury_1656504892.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1hj6HY8wl5kTRKmUQqFP68x6pU2KGndp1",  "bg_color": "#783d0f", "bg1_color": "#824517" },
+
+    { "name": "Opera Night","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Opera%20Night_1656504929.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1kBudWdA0OYS48Z1Wtqsp_vRtp3qcNrYQ",  "bg_color": "#027449", "bg1_color": "#0b8e5c" },
+
+    { "name": "Plunder Pirate","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Plunder%20Pirate_1656504956.webp",  "bg_image": "https://lh3.googleusercontent.com/d/13c2-WG93ME5boWEOd-fqJaSEaTLpRFAA",  "bg_color": "#ff7903", "bg1_color": "#ff851a" },
+
+    { "name": "Spirit Spread","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Spirit%20Spread_1656505033.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1ILOiqgMtetCSW02iW9wpskSjOB-n1X1D",  "bg_color": "#01dee1", "bg1_color": "#13f8fb" },
+
+    { "name": "Viking Invasion","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Viking%20Invasion_1656502912.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1l3-rq2wFIlOvXtEwuanaS_vCbeNcVKP4",  "bg_color": "#ff0002", "bg1_color": "#fe0b0b" },
+
+    { "name": "Shiba's Cafe","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Shiba%27s%20Cafe_1656502810.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1rxnxuTuLDrkrYmQksY4cAk3H2gajLYav",  "bg_color": "#ff01fb", "bg1_color": "#ff14fb" },
+
+    { "name": "Checkmate","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Checkmate_1656502869.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1nDD8Il-e_Zsb0sj7YwKGuOZQ4zMRVF7n",  "bg_color": "#000000", "bg1_color": "#1c1c1c" },
+
+    { "name": "Secret Song","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Secret%20Song_1656502829.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1Feh6aQyVDPgxCbooU9KKPn3clLro0oSY",  "bg_color": "#00def5", "bg1_color": "#0fe7ff" },
+
+    { "name": "Dangerous District","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Dangerous%20District_1656502853.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1_1Q6isw0I9TL0_Re9nX5V7ZhKtTVW9pB",  "bg_color": "#000000", "bg1_color": "#1c1c1c" },
+
+    { "name": "Cyber Rush","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Cyber%20Rush_1656502935.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1GxVV1p6SmqvctpGSdQO2pSjjk6-1y-Uo",  "bg_color": "#000000", "bg1_color": "#1c1c1c" },
+
+    { "name": "Land of Evil","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Land%20of%20Evil_1680153169.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1og3PEyPhTSF98ql0tDE-8vro7qq1pFBZ",  "bg_color": "#000000", "bg1_color": "#1c1c1c" },
+
+    { "name": "Touch Down","image": "https://ambimgcdn.co/img/sportsbook/game/SPN/L/SPN_Touch%20Down_1689168336.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1SAan6G4zk-AKsaOgqFMjpGGdDJGFewN9",  "bg_color": "#01f501", "bg1_color": "#13fb13" },
+
+    { "name": "Outlaw Rich","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Outlaw%20Rich_1656504230.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1R9GcVfRFacCOgz47wmlzPcep87SxzZr1",  "bg_color": "#ff7903", "bg1_color": "#ff851a" },
+
+    { "name": "Blooming Princess","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Blooming%20Princess_1656504998.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1FkGR5qcFZPkdWmDV1c7CjnCdXT3oSSlt",  "bg_color": "#ff01fb", "bg1_color": "#ff14fb" },
+
+    { "name": "Divine Diamond","image": "https://ambimgcdn.co/img/sportsbook/webp%202/sportsbook/game/SPN/L/SPN_Divine%20Diamond_1657282552.webp",  "bg_image": "https://lh3.googleusercontent.com/d/1KPYQePvfLUMdnAJHhJpbH3QCZMPnWK9v",  "bg_color": "#00def5", "bg1_color": "#0fe7ff" }
+
+]

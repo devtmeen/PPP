@@ -1,0 +1,252 @@
+{
+    "type": "bubble",
+    "size": "giga",
+    "hero": {
+        "type": "image",
+        "url": "https://i.imgur.com/gOm0wut.png",
+        "size": "full",
+        "aspectRatio": "9:4",
+        "aspectMode": "cover"
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "15 มกราคม 2568",
+                "align": "center",
+                "color": "#ffff00",
+                "size": "xl",
+                "weight": "bold",
+                "offsetTop": "-10px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "เลขท้าย 4 ตัว",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "md"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "5381",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "xxl",
+                                        "weight": "bold"
+                                    }
+                                ],
+                                "backgroundColor": "#e22426",
+                                "cornerRadius": "none",
+                                "paddingAll": "10px",
+                                "margin": "none"
+                            }
+                        ]
+                    }
+                ],
+                "spacing": "xs",
+                "margin": "xs",
+                "cornerRadius": "xxl",
+                "height": "100px",
+                "offsetTop": "-5px",
+                "position": "relative"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "เลขท้าย 3 ตัว",
+                                "align": "center",
+                                "color": "#ffffff",
+                                "size": "md"
+                            },
+                            {
+                                "type": "text",
+                                "text": "381",
+                                "align": "center",
+                                "color": "#ffffff",
+                                "size": "xxl",
+                                "weight": "bold"
+                            }
+                        ],
+                        "backgroundColor": "#00a65a",
+                        "cornerRadius": "none",
+                        "paddingAll": "none",
+                        "margin": "none"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "เลขท้าย 2 ตัว",
+                                "align": "center",
+                                "color": "#ffffff",
+                                "size": "md"
+                            },
+                            {
+                                "type": "text",
+                                "text": "81",
+                                "align": "center",
+                                "color": "#ffffff",
+                                "size": "xxl",
+                                "weight": "bold"
+                            }
+                        ],
+                        "backgroundColor": "#00a65a",
+                        "cornerRadius": "none",
+                        "paddingAll": "none",
+                        "margin": "none"
+                    }
+                ],
+                "spacing": "none",
+                "margin": "none",
+                "offsetTop": "-19px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "เลขนามสัตว์",
+                                        "align": "center",
+                                        "color": "#ffffff",
+                                        "size": "md"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "horizontal",
+                                        "contents": [
+                                            {
+                                                "type": "text",
+                                                "text": "07",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "24",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "17",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "18",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "42",
+                                                "align": "center",
+                                                "color": "#ffffff",
+                                                "size": "xxl",
+                                                "weight": "bold"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "backgroundColor": "#eb951a",
+                                "cornerRadius": "none",
+                                "paddingAll": "none",
+                                "margin": "none",
+                                "offsetEnd": "none",
+                                "offsetTop": "30px",
+                                "offsetBottom": "none",
+                                "paddingTop": "xs"
+                            }
+                        ],
+                        "height": "100px",
+                        "offsetTop": "-10px"
+                    }
+                ],
+                "spacing": "none",
+                "margin": "none",
+                "cornerRadius": "xxl",
+                "height": "90px",
+                "offsetTop": "-46px",
+                "position": "relative",
+                "offsetBottom": "sm",
+                "paddingTop": "md"
+            },
+            {
+                "type": "text",
+                "text": "ข้อมูลจาก: สมาคมสลากกินแบ่งถูมิภาคเอเชียแปซิฟิก",
+                "align": "end",
+                "color": "#ffffff",
+                "size": "xs",
+                "offsetTop": "-35px"
+            },
+            {
+                "type": "text",
+                "text": "อ้างอิง : สมาคมสลากกินแบ่งโลก",
+                "align": "end",
+                "color": "#ffffff",
+                "size": "xs",
+                "offsetTop": "-35px"
+            }
+        ],
+        "backgroundColor": "#162c43",
+        "paddingAll": "20px",
+        "height": "370px",
+        "background": {
+            "type": "linearGradient",
+            "angle": "180deg",
+            "startColor": "#00002e",
+            "endColor": "#070755",
+            "centerColor": "#00002e"
+        }
+    }
+}

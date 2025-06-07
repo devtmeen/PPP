@@ -1,0 +1,208 @@
+[
+{ "name": "Evil Eyes","image": "https://lh3.googleusercontent.com/d/1GJgZCxOe7XfoD33c-nXl_cByz5mIi3tb",
+"bg_image": "https://lh3.googleusercontent.com/d/1_ZYxTHOCZHxy_oYsFGooDI4YxxpGzpb4"
+,"bg_color": "#0417bc", "bg1_color": "#0f22d2" },
+ 
+  { "name": "Le Pharaoh","image": "https://lh3.googleusercontent.com/d/1HbZ5lVcoRR95uZSzojqL5YyRTXjKPh4o",
+"bg_image": "https://lh3.googleusercontent.com/d/1v8OOFHjln9Co7tgZrkMkjAGcVv7-1rwW"
+,"bg_color": "#a1188c", "bg1_color": "#b526a0" },
+
+ 
+{ "name": "Octo Attack","image": "https://lh3.googleusercontent.com/d/1dOs8qdob6ERTc0YBza_XtdYbuHxmnvih",
+"bg_image": "https://lh3.googleusercontent.com/d/1de8eyXjhZQJr4sT203QWDqLOxTFsRUll"
+,"bg_color": "#012e72", "bg1_color": "#0c3e88" },
+ 
+  { "name": "Donny Dough","image": "https://lh3.googleusercontent.com/d/1YbpEF_ZqXyPpSe11cb1lvqvuamIQmAh1",
+"bg_image": "https://lh3.googleusercontent.com/d/1nlxt24acSzG65f76euwumuu6FdflAyLt"
+,"bg_color": "#ad000c", "bg1_color": "#c10b17" },
+
+ 
+{ "name": "Dragon's Domain","image": "https://lh3.googleusercontent.com/d/1uj301R9qt14VmvJPcWF-QgkS2I9R9xgV",
+"bg_image": "https://lh3.googleusercontent.com/d/17AXrScM_kFAILPvlwhLhJT6JSUzdPO8c"
+,"bg_color": "#b22602", "bg1_color": "#c0300c" },
+ 
+  { "name": "SixSixSix","image": "https://lh3.googleusercontent.com/d/11mnphZga0UIydRYUPMCxYDXxve5ya6fX",
+"bg_image": "https://lh3.googleusercontent.com/d/15IuvYsB1zEE5bdX1F1fQjlGpvch0gnKZ"
+,"bg_color": "#ff2b2a", "bg1_color": "#ff3d3d" },
+
+ 
+{ "name": "Tai the Toad","image": "https://lh3.googleusercontent.com/d/1ka1z-fgGxdJ1EaI1WeAid-w05gtR-GaQ",
+"bg_image": "https://lh3.googleusercontent.com/d/1o9p_X-Ptm7rtV7td-QLrGQ0PmfmvoaKA"
+,"bg_color": "#ff2b2a", "bg1_color": "#ff3d3d" },
+ 
+{ "name": "Twisted Lab","image": "https://lh3.googleusercontent.com/d/1nR5SSAfjpyBYfaapjHMuSH7u4kBeaEAJ",
+"bg_image": "https://lh3.googleusercontent.com/d/1sCW4fGw4QWGEM8YQOFxs8IzAVHaKcPyz"
+,"bg_color": "#ad000c", "bg1_color": "#c10b17" },
+ 
+  { "name": "Cursed Crypt","image": "https://lh3.googleusercontent.com/d/1SQn4xR1IlbFTqaw3MaCJXyiDvxJnFsiK",
+"bg_image": "https://lh3.googleusercontent.com/d/1qm-KIrZpYV_QPhZNpC9VWJs5OhgFeQGR"
+,"bg_color": "#a1188c", "bg1_color": "#b526a0" },
+
+ 
+{ "name": "Ze Zeus","image": "https://lh3.googleusercontent.com/d/1yV0EhuTyPc0tG602adSBAIGPuRrvot-0",
+"bg_image": "https://lh3.googleusercontent.com/d/1a65ucbB8E4qWv4my_IloT-bPhRNWOIky"
+,"bg_color": "#ff7701", "bg1_color": "#ff851a" },
+ 
+  { "name": "Slayers Inc","image": "https://lh3.googleusercontent.com/d/1aHBc1eNncpduzTWAy_61t3g4R40gtBNy",
+"bg_image": "https://lh3.googleusercontent.com/d/1VdIPkH_lkVu5pSUlZigGJG1uDJLqzVFg"
+,"bg_color": "#95a504", "bg1_color": "#a4b40e" },
+
+ 
+{ "name": "Jelly Slice","image": "https://lh3.googleusercontent.com/d/1bMrS6bkB9t8MwkLzKd8E8M4ZajCiutXU",
+"bg_image": "https://lh3.googleusercontent.com/d/1RpAqSCrMsDX-Q10-qYpKEsVhz6fMiXzl"
+,"bg_color": "#fb2759", "bg1_color": "#fd3f6b" },
+ 
+  { "name": "2 Wild 2 Die","image": "https://lh3.googleusercontent.com/d/1B09H1m2Ok8MyDAGlqS7tum5Arv3jOGSm",
+"bg_image": "https://lh3.googleusercontent.com/d/1xTLaCdb2icP7hiiShe31iW4DNwprESB8"
+,"bg_color": "#f35c25", "bg1_color": "#fd6a35" },
+
+ 
+{ "name": "RIP City","image": "https://lh3.googleusercontent.com/d/1qFweqAE9XyXfNw64-c_flOrURWsBOPjP",
+"bg_image": "https://lh3.googleusercontent.com/d/1ZZZVcpGxaiPOm1AxVREJcFBm8sOomGu3"
+,"bg_color": "#020003", "bg1_color": "#2e2e2e" },
+ 
+  { "name": "Hand of Anubis","image": "https://lh3.googleusercontent.com/d/1B-LzF4LfllL-tgRZJ9g8Phz1avBF6Uhn",
+"bg_image": "https://lh3.googleusercontent.com/d/1efFW9jfVKPnQNz-KyFIIzkt1IQD-ajmV"
+,"bg_color": "#691c3c", "bg1_color": "#80284d" },
+
+ 
+{ "name": "Keep'em","image": "https://lh3.googleusercontent.com/d/1qjdceq2aHaQSwmkMS1OAyeZ0fbpXvfRe",
+"bg_image": "https://lh3.googleusercontent.com/d/1hRUyKKJ9qV_uL_NLI1HBdkLDBrc3kwgV"
+,"bg_color": "#0417bc", "bg1_color": "#0f22d2" },
+ 
+  { "name": "Divine Drop","image": "https://lh3.googleusercontent.com/d/1_cJD9h8w8wpy4OJ8Het7SrNG775LTf4e",
+"bg_image": "https://lh3.googleusercontent.com/d/1X9OYhLvy07QHDznoQ5_l3uDYFaNLJwPc"
+,"bg_color": "#ad000c", "bg1_color": "#c10b17" },
+
+ 
+{ "name": "Le Bandit","image": "https://lh3.googleusercontent.com/d/1YDt9whVA-AoT1khRRY4i20GwZ6siZfHB",
+"bg_image": "https://lh3.googleusercontent.com/d/1gDyOrwFiErXgQcaJIS77EBid1RFjkRG4"
+,"bg_color": "#691c3c", "bg1_color": "#80284d" },
+ 
+  { "name": "Cash Crew","image": "https://lh3.googleusercontent.com/d/1QZdaM8bIUIlhkRSWORcC__OAzrXRr1yy",
+"bg_image": "https://lh3.googleusercontent.com/d/1FmmpX9KPYiWsFXpZ0OhkZrg8juNBjLVe"
+,"bg_color": "#ad000c", "bg1_color": "#c10b17" },
+
+ 
+{ "name": "Wanted Dead or a Wild","image": "https://lh3.googleusercontent.com/d/1kDQU1sH9ErESxxAKGV9grndrLJYdM8cp",
+"bg_image": "https://lh3.googleusercontent.com/d/1fPZ41ct3rWwludAoKsX9l9LR-X1hHrV8"
+,"bg_color": "#470b0a", "bg1_color": "#501211" },
+ 
+  { "name": "Rusty & Curly","image": "https://lh3.googleusercontent.com/d/1cBaAa3CDno9FP7NK1DvAIbV7eutLauXB",
+"bg_image": "https://lh3.googleusercontent.com/d/1pe3jWYA4SlfUFxZ08Yimvmy6VyOo8wyv"
+,"bg_color": "#474c2e", "bg1_color": "#5a603e" },
+
+ 
+{ "name": "Vending Machine","image": "https://lh3.googleusercontent.com/d/1aI4p5pbgwnNXgoB-id50pj81QWbBlIqf",
+"bg_image": "https://lh3.googleusercontent.com/d/10nYUYJque5zb7ML_I1xvlSSc1xHhNx1i"
+,"bg_color": "#832174", "bg1_color": "#962c86" },
+ 
+  { "name": "Temple of Torment","image": "https://lh3.googleusercontent.com/d/14PQNk1w-SRPmj6aLOKNZ4ZEUAm9jLnZU",
+"bg_image": "https://lh3.googleusercontent.com/d/1k7G7bPvfm6Ha-Mq10eruriiujy9RIC8Q"
+,"bg_color": "#dc6e49", "bg1_color": "#ee825d" },
+
+ 
+{ "name": "Stack 'Em","image": "https://lh3.googleusercontent.com/d/188K92yLbU9YLcqNcckHKQLKwTqPu9xLA",
+"bg_image": "https://lh3.googleusercontent.com/d/1vnrwxVt5DDGH5EPKxwfx0rCuc3SRmuyf"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+ 
+  { "name": "Benny The Beer","image": "https://lh3.googleusercontent.com/d/1yUSydjtUdFvmmb1HepWl-eW24Rv3P_tQ",
+"bg_image": "https://lh3.googleusercontent.com/d/16PHGFlAPet3gPPgNcPQZToZTjas0Kp5S"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+
+ 
+{ "name": "Densho","image": "https://lh3.googleusercontent.com/d/1lP3NO17XdCH2u745ifO4elfeoGvi3G0Z",
+"bg_image": "https://lh3.googleusercontent.com/d/1DkDGThgpoklm_nusxf_6snQjZfxn2bef"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+ 
+  { "name": "Bouncy Bombs","image": "https://lh3.googleusercontent.com/d/1Ws5xuA2mzKAMhPrqqEroNcRyff4htOqW",
+"bg_image": "https://lh3.googleusercontent.com/d/1lazFv_JxqKtK31lxal1QEfyAwlgo0ceb"
+,"bg_color": "#ac0298", "bg1_color": "#bd0aa8" },
+
+ 
+{ "name": "Fist Of Destruction","image": "https://lh3.googleusercontent.com/d/1WRhiqhBEZEVrVOJOBqlnLvsogVeiYSpg",
+"bg_image": "https://lh3.googleusercontent.com/d/1K19KIliOu-obmllEzpMqWrefHAqibdSC"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+ 
+  { "name": "Beam Boys","image": "https://lh3.googleusercontent.com/d/12mNNXWDgnPOxff7nKqSbiqRcaQsCb6KF",
+"bg_image": "https://lh3.googleusercontent.com/d/1wAoqq2F34z2l66ClrcshOZcI5E8PwDiW"
+,"bg_color": "#0270ed", "bg1_color": "#1c85fd" },
+
+ 
+{ "name": "Eye of the Panda","image": "https://lh3.googleusercontent.com/d/1qzBy0pZ9pNOlAiGmx045oOmY0Bmzo8MC",
+"bg_image": "https://lh3.googleusercontent.com/d/1gISswmMBbPzVbKn8ef6O7bmzGMmuvVlg"
+,"bg_color": "#83af26", "bg1_color": "#97c436" },
+ 
+  { "name": "Dark Summoning","image": "https://lh3.googleusercontent.com/d/1cqDZPM5-gxKAh5ozjU-CLP4iGLvac-V2",
+"bg_image": "https://lh3.googleusercontent.com/d/1jO3i-t9i3FNdmiB2pCwykrAug4aKngaC"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+
+ 
+{ "name": "Chaos Crew 2","image": "https://lh3.googleusercontent.com/d/1RYNe_EeEhtLw_sCf0F4EpjavjQXJjzoA",
+"bg_image": "https://lh3.googleusercontent.com/d/1GdxlOIKGVgxL6tMGAjzIPJ6xXE4wguC2"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+ 
+  { "name": "The Bowery Boys","image": "https://lh3.googleusercontent.com/d/1geqjL_aLwGNNaXo_N5MxNtMVDo3hI5pK",
+"bg_image": "https://lh3.googleusercontent.com/d/1Ccxx1D2MxvsWe14s1AJyt6JHEqMQchRy"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+
+ 
+{ "name": "Gladiator Legends","image": "https://lh3.googleusercontent.com/d/1rytiamAD2GlJYwy8PLxRM8EsGosnxVbE",
+"bg_image": "https://lh3.googleusercontent.com/d/17x2XvZrCm2dWIMqVmHO08VvXjUg0OC2f"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+ 
+  { "name": "Chaos Crew","image": "https://lh3.googleusercontent.com/d/1sROfoAEm687RY4_jrp_iVFO7ySGhfdwJ",
+"bg_image": "https://lh3.googleusercontent.com/d/1SF3NM2GJvs7fs_mDBTB_eUtovBvbi85U"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+
+ 
+{ "name": "Hop'n'Pop","image": "https://lh3.googleusercontent.com/d/1rJfZthx_Tviu8FvDA28948Nmbvy-Kyit",
+"bg_image": "https://lh3.googleusercontent.com/d/1mZsJXgpjqht_hhIB2YWLTyEH2_VRmSlG"
+,"bg_color": "#a15500", "bg1_color": "#b2640a" },
+ 
+  { "name": "Dork Unit","image": "https://lh3.googleusercontent.com/d/1erQAnnmePkDNSkX-o-OrV_8nl4J7Kctn",
+"bg_image": "https://lh3.googleusercontent.com/d/1v6K3HlZhQ5xpElKFTXYkh0zwnVwRrYQr"
+,"bg_color": "#bf2614", "bg1_color": "#cb3120" },
+
+ 
+{ "name": "Xmas Drop","image": "https://lh3.googleusercontent.com/d/1T6O3aHLI0nqk4DwnZ0M3qBzHP6NOP2Wr",
+"bg_image": "https://lh3.googleusercontent.com/d/1_DXBG2gWR1BfJAb3TlVCV3VejZMGuCKY"
+,"bg_color": "#126c22", "bg1_color": "#1c7d2e" },
+ 
+  { "name": "Stormforged","image": "https://lh3.googleusercontent.com/d/1vnlusSZnIjoAuqZbxjzL55YOxUNUcbd3",
+"bg_image": "https://lh3.googleusercontent.com/d/1YUsroCYWX9p8rjynIy-RtqZ4-w8lZqK4"
+,"bg_color": "#71293f", "bg1_color": "#7f344a" },
+
+ 
+{ "name": "Drop'em","image": "https://lh3.googleusercontent.com/d/1uYB8hNqZvjCO741zGEJnOgBeYzys8Wml",
+"bg_image": "https://lh3.googleusercontent.com/d/1xdLL18V1EumZZSSnKZy8VFnY0QO-VxC0"
+,"bg_color": "#900107", "bg1_color": "#a00e15" },
+ 
+  { "name": "Outlaws Inc","image": "https://lh3.googleusercontent.com/d/1jmjwIcJyHN-nc4W3HFDcgrYRo0FFvSS5",
+"bg_image": "https://lh3.googleusercontent.com/d/1Z7JO6-OqDiMIQji3aZ5Df2k_a0kQvaWq"
+,"bg_color": "#1d7543", "bg1_color": "#2e8a56" },
+
+ 
+{ "name": "Mayan Stackways","image": "https://lh3.googleusercontent.com/d/1tt6tI4zuDB_pGZnNlcYv5sajLA5HwcDf",
+"bg_image": "https://lh3.googleusercontent.com/d/1W8ghdvLiUpN0mCBnt2xrbi9425MNKjTT"
+,"bg_color": "#6a0563", "bg1_color": "#7d0d75" },
+ 
+  { "name": "Magic Piggy","image": "https://lh3.googleusercontent.com/d/1IuQvMqchJr28YMkUgqN3RtuyNYYQRcyc",
+"bg_image": "https://lh3.googleusercontent.com/d/1HuA8Cm3saAwCzKSaxpgoq7CxGRbxYwnW"
+,"bg_color": "#009402", "bg1_color": "#0ca70e" },
+
+ 
+{ "name": "Beast Below","image": "https://lh3.googleusercontent.com/d/1R11fCeLZSASq4bAu6SnIKtWhHRcRpw9u",
+"bg_image": "https://lh3.googleusercontent.com/d/1Qa_pVw4vW1wF3JvnvsabexvAGq4XMyvl"
+,"bg_color": "#7700ee", "bg1_color": "#8715f9" },
+ 
+  { "name": "Undead Fortune","image": "https://lh3.googleusercontent.com/d/1jvMcQBquOAED7RkCSmK4UPButmTg7F-j",
+"bg_image": "https://lh3.googleusercontent.com/d/1jWHuDb71Sqk382uJ5umHtEXQBBYlpg1o"
+,"bg_color": "#0161d9", "bg1_color": "#1372e7" },
+
+ 
+{ "name": "Toshi Video Club","image": "https://lh3.googleusercontent.com/d/1PZw1gpxbTRjOl-MOjamOom_n7J1fP4bP",
+"bg_image": "https://lh3.googleusercontent.com/d/1KWOxcJt3R5WMSeYdvCyS0HCOF2NcPyNP"
+,"bg_color": "#0133d2", "bg1_color": "#1444e1" }
+
+ ]
