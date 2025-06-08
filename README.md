@@ -35,3 +35,7 @@ holds the `API_*` folders. By default it uses a relative path (`./`). You can
 override this location by setting the environment variable `PATCH_DIR` when
 running the scripts. When running in Docker the project is copied to `/app`, so
 start the container with `PATCH_DIR=/app` if you do not run from that directory.
+
+## Healthcheck
+
+Each API exposes a `/healthcheck` endpoint that simply returns `"OK"`.
