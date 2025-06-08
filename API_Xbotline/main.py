@@ -319,5 +319,5 @@ def handle_message(event: MessageEvent):
 
 if __name__ == "__main__":
     register_flex_command()
-    app.run("0.0.0.0", config['Config']['port'], debug=True)
+    app.run("0.0.0.0", config['Config']['port'], debug=True, use_reloader=False)
 
