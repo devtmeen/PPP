@@ -6,7 +6,10 @@ API_DIR = Path(__file__).resolve().parent
 
 
 def run_script(name: str) -> None:
-    subprocess.Popen([sys.executable, str(API_DIR / name)])
+    subprocess.Popen(
+        [sys.executable, str(API_DIR / name)],
+        cwd=API_DIR  # ensure config.ini is found
+    )
 
 
 if __name__ == "__main__":
