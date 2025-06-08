@@ -19,6 +19,7 @@ This command starts all configured APIs.
 Each API folder contains its own `config.ini` specifying the port and other configuration. `Run_all_main.py` reads `New_API/config.ini` to determine which folders to start.
 
 `folder_list` should include only folders that are present under the patch directory; missing folders will be skipped with a warning.
+If an entry in `folder_list` does not correspond to a real API directory containing a `config.ini`, the update scripts will skip it and log a warning. The scripts also verify that each `config.ini` has a valid `Config` section before proceeding.
 
 ## Docker
 
