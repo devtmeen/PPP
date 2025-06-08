@@ -28577,9 +28577,8 @@ for folder in folder_list:
       #BONUSTIME_WR(patch + folder)
       #BONUSTIME_MT(patch + folder)
     except Exception as e:
-        print(e)
-        print(folder_str)
-    sys.exit(0)
+        logging.exception("Error processing %s", folder_str)
+        continue
       
     if debug:
         print("\n")
