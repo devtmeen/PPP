@@ -10,14 +10,12 @@ Install Python dependencies:
 pip install -r requirements.txt
 ```
 
-Run the launcher script to start update jobs and all APIs defined in `New_API/config.ini`.
-The same command works on Windows, macOS, and Linux:
+Run the launcher script to start update jobs and all APIs defined in `New_API/config.ini`:
 
 ```bash
 python New_API/launcher.py
 ```
-This command replaces the old Windows `.bat` launchers and is fully cross-platform.
-
+This command starts all configured APIs.
 Each API folder contains its own `config.ini` specifying the port and other configuration. `Run_all_main.py` reads `New_API/config.ini` to determine which folders to start.
 
 `folder_list` should include only folders that are present under the patch directory; missing folders will be skipped with a warning.
