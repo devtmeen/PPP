@@ -314,8 +314,14 @@ def handle_message(event: MessageEvent):
                     elif cmd =="/HANOIVIPLOTTOS":
                         reply_flex_message(event, line_bot_api, f"{c.replace('/', '')}.json","ขอให้ลูกค้าทุกท่านรวยๆ เฮงๆนะคะ")
                         return 0                                   
+
                     reply_flex_message(event, line_bot_api, f"{c.replace('/', '')}.json",cmd)
                     return
+
+
+@app.get("/healthcheck")
+def healthcheck():
+    return "OK", 200
 
 if __name__ == "__main__":
     register_flex_command()
