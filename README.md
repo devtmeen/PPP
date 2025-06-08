@@ -19,8 +19,8 @@ This command starts all configured APIs.
 Each API folder contains its own `config.ini` specifying the port and other configuration. `Run_all_main.py` reads `New_API/config.ini` to determine which folders to start.
 `Run_all_main.py` assigns ports sequentially beginning at **8080** and updates each API's `config.ini` with the computed port before launching it. When starting a single API manually you must ensure its configured port is free. Either stop any process currently using that port or edit the API's `config.ini` to use a different value.
 
-`folder_list` should include only folders that are present under the patch directory; missing folders will be skipped with a warning.
-If an entry in `folder_list` does not correspond to a real API directory containing a `config.ini`, the update scripts will skip it and log a warning. The scripts also verify that each `config.ini` has a valid `Config` section before proceeding.
+`folder_list` should list only actual API directories under the patch directory. Nonexistent entries will be skipped with a warning, so you can safely remove or comment out unused names.
+Each `config.ini` is checked for a valid `[Config]` section before the update scripts proceed.
 
 ## Docker
 
