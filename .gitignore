@@ -1,2 +1,6 @@
 # Ignore Windows batch files
 New_API/*.bat
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
