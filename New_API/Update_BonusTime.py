@@ -5,6 +5,8 @@ import random
 import sys
 from datetime import datetime
 from time import sleep
+from pathlib import Path
+import logging
 
 debug = 1
 
@@ -28491,9 +28493,19 @@ configDefault.read(['config.ini'])
 patch = os.getenv("PATCH_DIR", configDefault.get("Config", "patch"))
 folder_list = json.loads(configDefault.get("Config", "folder_list"))
 
+logging.basicConfig(level=logging.INFO)
+
 for folder in folder_list:
+    folder_path = Path(patch) / folder
+    if not folder_path.is_dir():
+        logging.warning("Folder %s does not exist, skipping", folder_path)
+        continue
+
     config = configparser.ConfigParser()
-    config.read(patch + folder + '/config.ini')
+    config.read(folder_path / 'config.ini')
+    if not config.has_section('Config'):
+        logging.warning("Config section missing in %s", folder_path / 'config.ini')
+        continue
 
     Name_Web = config['Config']['Name_Web']
     Game_List = int(config['Config']['Game_List'])
@@ -28501,57 +28513,59 @@ for folder in folder_list:
     Logo_menu = config['Config']['Logo_menu']
     Link_Web = config['Config']['Link_Web']
     port = config['Config']['port']
+
+    folder_str = str(folder_path)
     
     print(folder + " | " + Name_Web + " | " + port)
     try:
-      LotteryGuide(patch + folder)
-      LOTTO(patch + folder)
-      BONUSTIME(patch + folder)
-      BONUSTIME_PP(patch + folder)
-      BONUSTIME_AMBG(patch + folder)
-      BONUSTIME_AMP(patch + folder)
-      BONUSTIME_KAGM(patch + folder)
-      BONUSTIME_K9(patch + folder)
-      BONUSTIME_NS(patch + folder)
-      BONUSTIME_SPG(patch + folder)
-      BONUSTIME_RY(patch + folder)
-      BONUSTIME_DGG(patch + folder)
-      BONUSTIME_HK(patch + folder)
-      BONUSTIME_OP(patch + folder)
-      BONUSTIME_GO(patch + folder)
-      BONUSTIME_R88(patch + folder)
-      BONUSTIME_PG(patch + folder)
-      BONUSTIME_NL(patch + folder)
-      BONUSTIME_NE(patch + folder)
-      BONUSTIME_MG(patch + folder)
-      BONUSTIME_JL(patch + folder)
-      BONUSTIME_JK(patch + folder)
-      BONUSTIME_AMB(patch + folder)
-      BONUSTIME_AMBS(patch + folder)
-      BONUSTIME_CQ9(patch + folder)
-      BONUSTIME_EVO(patch + folder)
-      BONUSTIME_FKG(patch + folder)
-      BONUSTIME_HBE(patch + folder)
-      BONUSTIME_RTG(patch + folder)
-      BONUSTIME_SMP(patch + folder)
-      BONUSTIME_SXO(patch + folder)
-      BONUSTIME_YGG(patch + folder)
-      BONUSTIME_SN(patch + folder)
-      BONUSTIME_G5(patch + folder)
-      BONUSTIME_ACE333(patch + folder)
-      BONUSTIME_ADP(patch + folder)
-      BONUSTIME_BTG(patch + folder)
-      BONUSTIME_GDY(patch + folder)
-      BONUSTIME_MNP(patch + folder)
-      BONUSTIME_ODG(patch + folder)
-      BONUSTIME_SW(patch + folder)
-      BONUSTIME_WMS(patch + folder)
-      BONUSTIME_EXPS(patch + folder)
-      BONUSTIME_BPS(patch + folder)
-      BONUSTIME_EDPN(patch + folder)      
-      BONUSTIME_I8(patch + folder)
-      BONUSTIME_SBOS(patch + folder)
-      BONUSTIME_YGR(patch + folder)            
+      LotteryGuide(folder_str)
+      LOTTO(folder_str)
+      BONUSTIME(folder_str)
+      BONUSTIME_PP(folder_str)
+      BONUSTIME_AMBG(folder_str)
+      BONUSTIME_AMP(folder_str)
+      BONUSTIME_KAGM(folder_str)
+      BONUSTIME_K9(folder_str)
+      BONUSTIME_NS(folder_str)
+      BONUSTIME_SPG(folder_str)
+      BONUSTIME_RY(folder_str)
+      BONUSTIME_DGG(folder_str)
+      BONUSTIME_HK(folder_str)
+      BONUSTIME_OP(folder_str)
+      BONUSTIME_GO(folder_str)
+      BONUSTIME_R88(folder_str)
+      BONUSTIME_PG(folder_str)
+      BONUSTIME_NL(folder_str)
+      BONUSTIME_NE(folder_str)
+      BONUSTIME_MG(folder_str)
+      BONUSTIME_JL(folder_str)
+      BONUSTIME_JK(folder_str)
+      BONUSTIME_AMB(folder_str)
+      BONUSTIME_AMBS(folder_str)
+      BONUSTIME_CQ9(folder_str)
+      BONUSTIME_EVO(folder_str)
+      BONUSTIME_FKG(folder_str)
+      BONUSTIME_HBE(folder_str)
+      BONUSTIME_RTG(folder_str)
+      BONUSTIME_SMP(folder_str)
+      BONUSTIME_SXO(folder_str)
+      BONUSTIME_YGG(folder_str)
+      BONUSTIME_SN(folder_str)
+      BONUSTIME_G5(folder_str)
+      BONUSTIME_ACE333(folder_str)
+      BONUSTIME_ADP(folder_str)
+      BONUSTIME_BTG(folder_str)
+      BONUSTIME_GDY(folder_str)
+      BONUSTIME_MNP(folder_str)
+      BONUSTIME_ODG(folder_str)
+      BONUSTIME_SW(folder_str)
+      BONUSTIME_WMS(folder_str)
+      BONUSTIME_EXPS(folder_str)
+      BONUSTIME_BPS(folder_str)
+      BONUSTIME_EDPN(folder_str)
+      BONUSTIME_I8(folder_str)
+      BONUSTIME_SBOS(folder_str)
+      BONUSTIME_YGR(folder_str)
       #BONUSTIME_AG(patch + folder)
       #BONUSTIME_SA(patch + folder)
       #BONUSTIME_CDG(patch + folder)
@@ -28563,9 +28577,9 @@ for folder in folder_list:
       #BONUSTIME_WR(patch + folder)
       #BONUSTIME_MT(patch + folder)
     except Exception as e:
-      print(e)
-      print(patch + folder)
-      sys.exit(0)
+        print(e)
+        print(folder_str)
+    sys.exit(0)
       
     if debug:
         print("\n")

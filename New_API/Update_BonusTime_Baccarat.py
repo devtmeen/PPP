@@ -5,7 +5,8 @@ import random
 import sys
 from datetime import datetime
 import time
-import pathlib
+from pathlib import Path
+import logging
 
 debug = 1
 
@@ -4919,9 +4920,19 @@ configDefault.read(['config.ini'])
 patch = os.getenv("PATCH_DIR", configDefault.get("Config", "patch"))
 folder_list = json.loads(configDefault.get("Config", "folder_list"))
 
+logging.basicConfig(level=logging.INFO)
+
 for folder in folder_list:
+    folder_path = Path(patch) / folder
+    if not folder_path.is_dir():
+        logging.warning("Folder %s does not exist, skipping", folder_path)
+        continue
+
     config = configparser.ConfigParser()
-    config.read(patch + folder + '/config.ini')
+    config.read(folder_path / 'config.ini')
+    if not config.has_section('Config'):
+        logging.warning("Config section missing in %s", folder_path / 'config.ini')
+        continue
 
     Name_Web = config['Config']['Name_Web']
     Game_List = int(config['Config']['Game_List'])
@@ -4929,23 +4940,25 @@ for folder in folder_list:
     Logo_menu = config['Config']['Logo_menu']
     Link_Web = config['Config']['Link_Web']
     port = config['Config']['port']
-    
+
+    folder_str = str(folder_path)
+
     print(folder + " | " + Name_Web + " | " + port)
     try:
-      BONUSTIME_AG(patch + folder)
-      BONUSTIME_SA(patch + folder)
-      BONUSTIME_CDG(patch + folder)
-      BONUSTIME_AE(patch + folder)
-      BONUSTIME_WM(patch + folder)
-      BONUSTIME_BG(patch + folder)
-      BONUSTIME_AB(patch + folder)
-      BONUSTIME_XPG(patch + folder)
-      BONUSTIME_WR(patch + folder)
-      BONUSTIME_MT(patch + folder)
+      BONUSTIME_AG(folder_str)
+      BONUSTIME_SA(folder_str)
+      BONUSTIME_CDG(folder_str)
+      BONUSTIME_AE(folder_str)
+      BONUSTIME_WM(folder_str)
+      BONUSTIME_BG(folder_str)
+      BONUSTIME_AB(folder_str)
+      BONUSTIME_XPG(folder_str)
+      BONUSTIME_WR(folder_str)
+      BONUSTIME_MT(folder_str)
     except Exception as e:
-      print(e)
-      print(patch + folder)
-      sys.exit(0)
+        print(e)
+        print(folder_str)
+    sys.exit(0)
     if debug:
         print("\n")
     time.sleep(0.4)
